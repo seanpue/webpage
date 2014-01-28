@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (python)</title><link>http://seanpue.com/output/</link><description></description><atom:link href="http://seanpue.com/output/categories/python.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sat, 25 Jan 2014 12:48:31 GMT</lastBuildDate><generator>Nikola &lt;http://getnikola.com/&gt;</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Updating Blog, etc.</title><link>http://seanpue.com/posts/updating-blog-etc/</link><description>&lt;div&gt;&lt;p&gt;So I have been updating this website and blog. I wrote an About page in
+ReStructuredText (.rst), which is apparently frequently used in Python
+documentation. It it is pretty straightforward, though I found the hyperlink
+format to be a bit of a pain and also rather hard to figure out. I see a lot of
+possibilities for this sort of format for for my own work, as I am trying to
+work collaboratively and deal with simple text as much as possible. I may want
+to make an extension to handle Hindi/Urdu related things. Apparently Markdown,
+the alternative to RST, is not quite as extendable. But it's easy enough to switch back
+and forth. The one thing that is a bit of a problem for me is the lack of a
+spell- or grammar- checker. I normally type in some sort of Office suite, and so
+I am used to that being there. There is a ":set spell" command in Vim (the
+editor I am currently using) that can at least find misspelled or strange words.
+It does not know the words "blog" or "hyperlink," though, so I have some
+concerns already.&lt;/p&gt;
+&lt;p&gt;I wanted to try out the iPython Notebook integration features of this blog
+software, but then was told my iPython was too old. So I updated to 1.1. I had
+to update my Python package management system as well. It has a new name but is
+still free for people with .edu addresses. It seems like there are only two
+major ones–one named after a snake, and one about a place where a snake would be
+kept. And of course the software is a type of–. I thought it
+was leading up to a Sun vs. Eclipse thing. Kind of, maybe. But all in the
+descriptive system of the snake. That last sentence really reminds how much I
+want to write a blog post about Riffaterre. All in due course...&lt;/p&gt;
+&lt;p&gt;I found that inserting images, javascript snippets, etc. will not be a problem
+at all. That's good.&lt;/p&gt;
+&lt;p&gt;Long story short, I have not yet integrated iPython Notebook, but I will try
+again. The other thing I want to check is how to best get this blog 1) onto
+Github and 2) onto my web server. I need to remember to turn off RST indexing
+for search engines.&lt;/p&gt;
+&lt;p&gt;I have also seen a few examples of CVs written in RST. It is a perennial pain to
+update my CV in Word, so I may try and move it into RST and see how it looks. I
+want to be able to link to it on the top of my page and then to be able to link
+to subheadings within it, especially projects and articles. I will see how that
+all works. Apparently it is easy to turn the .rst files into .pdf etc. Then I
+can just have a general link if people need it. Of course, most places then need
+a two-page one or an under-five-page one, etc., etc., so maybe it's not such a
+good idea after all. I will see how difficult it is and then decide whether or
+not it is worth it. I did recently see a beautifully designed CV by an artist,
+so I may be able to model mine on that.&lt;/p&gt;&lt;/div&gt;</description><category>blogging</category><category>python</category><guid>http://seanpue.com/posts/updating-blog-etc/</guid><pubDate>Mon, 20 Jan 2014 22:52:21 GMT</pubDate></item></channel></rss>

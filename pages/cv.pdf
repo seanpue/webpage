@@ -1,0 +1,1975 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 45 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 46 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 47 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 48 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 49 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:pue@msu.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 330.7736
+ 526.5827
+ 342.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://seanpue.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 315.7736
+ 526.5827
+ 327.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://seanpue.com/cv) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 300.7736
+ 526.5827
+ 312.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://seanpue.com/cv.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 285.7736
+ 526.5827
+ 297.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Annots [ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R ]
+ /Contents 50 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R15': class PDFCatalog 
+15 0 obj
+% Document Root
+<< /Outlines 17 0 R
+ /PageLabels 51 0 R
+ /PageMode /UseNone
+ /Pages 44 0 R
+ /Type /Catalog >>
+endobj
+% 'R16': class PDFInfo 
+16 0 obj
+<< /Author ()
+ /CreationDate (D:20140122232555+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Curriculum Vitae of A. Sean Pue) >>
+endobj
+% 'R17': class PDFOutlines 
+17 0 obj
+<< /Count 30
+ /First 18 0 R
+ /Last 43 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 719.0236
+ 0 ]
+ /Next 19 0 R
+ /Parent 17 0 R
+ /Title (Academic Appointment) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 638.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 17 0 R
+ /Prev 18 0 R
+ /Title (Research Appointment) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 539.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 17 0 R
+ /Prev 19 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+21 0 obj
+<< /Count 5
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 356.0236
+ 0 ]
+ /First 22 0 R
+ /Last 26 0 R
+ /Next 27 0 R
+ /Parent 17 0 R
+ /Prev 20 0 R
+ /Title (Publications) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 323.0236
+ 0 ]
+ /Next 23 0 R
+ /Parent 21 0 R
+ /Title (Book) >>
+endobj
+% 'Outline.27.1': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 263.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 21 0 R
+ /Prev 22 0 R
+ /Title (Articles) >>
+endobj
+% 'Outline.27.2': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 729.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 21 0 R
+ /Prev 23 0 R
+ /Title (Book Chapters) >>
+endobj
+% 'Outline.27.3': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 579.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 21 0 R
+ /Prev 24 0 R
+ /Title (Book Reviews) >>
+endobj
+% 'Outline.27.4': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 453.0236
+ 0 ]
+ /Parent 21 0 R
+ /Prev 25 0 R
+ /Title (Translations) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+27 0 obj
+<< /Count 3
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 405.0236
+ 0 ]
+ /First 28 0 R
+ /Last 30 0 R
+ /Next 31 0 R
+ /Parent 17 0 R
+ /Prev 21 0 R
+ /Title (Presentations) >>
+endobj
+% 'Outline.28.0': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 372.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 27 0 R
+ /Title (Conference Papers) >>
+endobj
+% 'Outline.28.1': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (Invited Papers) >>
+endobj
+% 'Outline.28.2': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Parent 27 0 R
+ /Prev 29 0 R
+ /Title (Panels Organized) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 345.0236
+ 0 ]
+ /Next 32 0 R
+ /Parent 17 0 R
+ /Prev 27 0 R
+ /Title (Grants) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 234.0236
+ 0 ]
+ /Next 33 0 R
+ /Parent 17 0 R
+ /Prev 31 0 R
+ /Title (Fellowships) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 723.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 17 0 R
+ /Prev 32 0 R
+ /Title (Research Awards) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 606.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 17 0 R
+ /Prev 33 0 R
+ /Title (Prizes) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+35 0 obj
+<< /Count 2
+ /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 543.0236
+ 0 ]
+ /First 36 0 R
+ /Last 37 0 R
+ /Next 38 0 R
+ /Parent 17 0 R
+ /Prev 34 0 R
+ /Title (Teaching) >>
+endobj
+% 'Outline.29.0': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 510.0236
+ 0 ]
+ /Next 37 0 R
+ /Parent 35 0 R
+ /Title (Michigan State University) >>
+endobj
+% 'Outline.29.1': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 318.0236
+ 0 ]
+ /Parent 35 0 R
+ /Prev 36 0 R
+ /Title (University of Chicago) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+38 0 obj
+<< /Count 3
+ /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 252.0236
+ 0 ]
+ /First 39 0 R
+ /Last 41 0 R
+ /Next 42 0 R
+ /Parent 17 0 R
+ /Prev 35 0 R
+ /Title (Service) >>
+endobj
+% 'Outline.30.0': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 219.0236
+ 0 ]
+ /Next 40 0 R
+ /Parent 38 0 R
+ /Title (International) >>
+endobj
+% 'Outline.30.1': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 153.0236
+ 0 ]
+ /Next 41 0 R
+ /Parent 38 0 R
+ /Prev 39 0 R
+ /Title (Michigan State University) >>
+endobj
+% 'Outline.30.2': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 633.0236
+ 0 ]
+ /Parent 38 0 R
+ /Prev 40 0 R
+ /Title (Journal Editorial Boards) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 567.0236
+ 0 ]
+ /Next 43 0 R
+ /Parent 17 0 R
+ /Prev 38 0 R
+ /Title (Languages) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 62.69291
+ 450.0236
+ 0 ]
+ /Parent 17 0 R
+ /Prev 42 0 R
+ /Title (Contact Information) >>
+endobj
+% 'R44': class PDFPages 
+44 0 obj
+% page tree
+<< /Count 6
+ /Kids [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 14 0 R ]
+ /Type /Pages >>
+endobj
+% 'R45': class PDFStream 
+45 0 obj
+% page stream
+<< /Length 6328 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 82.12488 0 Td (Curriculum Vitae of A. Sean Pue) Tj T* -82.12488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 698.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Academic Appointment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+Q
+q
+1 0 0 1 62.69291 674.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2008\226 ) Tj /F1 10 Tf (Assistant Professor, Michigan State University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Department of Linguistics and Germanic, Slavic, Asian, and African Languages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Core Faculty, Global Studies in Arts and Humanities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Research Appointment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 605.0236 cm
+Q
+q
+1 0 0 1 62.69291 593.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009\226 ) Tj /F1 10 Tf (Associate Research Scholar in Hindi and Urdu Literature and Studies, Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Department of Middle Eastern, South Asian, and African Studies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.0236 cm
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+Q
+q
+1 0 0 1 62.69291 563.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2006\2268 ) Tj /F1 10 Tf (Research Associate, University of Chicago) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (South Asia Language Resource Center) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 551.0236 cm
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+Q
+q
+1 0 0 1 62.69291 494.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2007 ) Tj /F1 10 Tf (Ph.D., Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Middle East and Asian Languages and Cultures and Comparative Literature and Society) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Title: \223The Desert of Continuity: N. M. Rashed, Modernism, and Urdu Poetry\224) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2002 ) Tj /F1 10 Tf (M. Phil., Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Middle East and Asian Languages and Cultures and Comparative Literature and Society) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+Q
+q
+1 0 0 1 62.69291 434.0236 cm
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2001 ) Tj /F1 10 Tf (M.A., Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Middle East and Asian Languages and Cultures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.0236 cm
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+Q
+q
+1 0 0 1 62.69291 392.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (1997 ) Tj /F1 10 Tf (B.A., University of California) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Religious Studies, South and South East Asian Studies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2 Tm /F1 10 Tf 12 TL (Highest Honors, Phi Beta Kappa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.428651 Tw 12 TL /F2 10 Tf 0 0 0 rg (forthcoming) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry) Tj /F1 10 Tf (. Berkeley, CA:) Tj T* 0 Tw (University of California Press, \(forthcoming, 2014\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Articles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 227.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Rethinking Modernism and Progressivism in Urdu Poetry.\224 ) Tj /F3 10 Tf (Pakistaniaat ) Tj /F1 10 Tf (5.1 \(2013\): 1-15.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2012 ) Tj /F1 10 Tf (\223Ephemeral Asia: N. M. Rashed\222s A Stranger in Iran.\224 ) Tj /F3 10 Tf (Comparative Literature ) Tj /F1 10 Tf (64.1 \(2012\): 73-92.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 179.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.344597 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223In the Mirror of Ghalib: Postcolonial Reflections on Indo-Muslim Selfhood.\224 ) Tj /F3 10 Tf (Indian Economic and) Tj T* 0 Tw (Social History Review ) Tj /F1 10 Tf (48.4 \(October-December 2011\), 571-592.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .293735 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223N. M. Rashed and Faiz Ahmed Faiz: A Comparative Analysis.\224 ) Tj /F3 10 Tf (Bunyaad: Journal of Urdu Studies ) Tj /F1 10 Tf (2) Tj T* 0 Tw (\(2011\), 3-18.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.876647 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Time is God: Temporality in Pakistani Modernism.\224 ) Tj /F3 10 Tf (Journal of Commonwealth and Postcolonial) Tj T* 0 Tw (Studies ) Tj /F1 10 Tf (16.1 \(2009\), 102-116.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 89.02362 cm
+q
+BT 1 0 0 1 0 14 Tm .609983 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf (\223Digital Encoding of South Asian Languages: A Contemporary Guide to Unicode and Fonts.\224 ) Tj /F3 10 Tf (South) Tj T* 0 Tw (Asia Language Pedagogy and Technology ) Tj /F1 10 Tf (1 \(2008\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 238.1649 0 Td 12 TL /F1 10 Tf 0 0 0 rg (1) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 6223 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .77816 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf (\223Web-Browser Extensions for South Asia Language Classrooms.\224 ) Tj /F3 10 Tf (South Asia Language Pedagogy) Tj T* 0 Tw (and Technology ) Tj /F1 10 Tf (1 \(2008\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Book Chapters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .74686 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Faiz Ahmed Faiz and N. M. Rashed: A Comparative Analysis.\224 In ) Tj /F3 10 Tf (Daybreak: Writings on Faiz) Tj /F1 10 Tf (, ed.) Tj T* 0 Tw (Yasmeen Hameed. Karachi: Oxford University Press, 2013.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .387318 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Shibli Nomani.\224 In ) Tj /F3 10 Tf (Nationalism in the Vernacular: Hindi, Urdu and the Literature of Indian Freedom) Tj /F1 10 Tf (,) Tj T* 0 Tw (edited by Shobna Nijhawan, 171\226177. New Delhi: Permanent Black, 2010.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .501412 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf ("Krishan Chandar." ) Tj /F3 10 Tf (The Oxford India Anthology of Modern Urdu Literature) Tj /F1 10 Tf (, edited by Mehr Farooqi,) Tj T* 0 Tw (56\22665. Delhi: Oxford University Press, 2008.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .730574 Tw 12 TL /F2 10 Tf 0 0 0 rg (2006 ) Tj /F1 10 Tf (\223Poems of Desire.\224 In ) Tj /F3 10 Tf (Men of the Global South) Tj /F1 10 Tf (, edited by Adam Jones, 6\22613. London: Zed Books,) Tj T* 0 Tw (2006.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Book Reviews) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (Review of ) Tj /F3 10 Tf (A History of Urdu Literature) Tj /F1 10 Tf (, by T. Graham Bailey. ) Tj /F3 10 Tf (The Book Review ) Tj /F1 10 Tf (\(February 2009\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .312651 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf (Review of ) Tj /F3 10 Tf (Enlightenment in the Colony: The Jewish Question and the Crisis of Postcolonial Culture) Tj /F1 10 Tf (,) Tj T* 0 Tw (by Aamir R. Mufti. ) Tj /F3 10 Tf (Annual of Urdu Studies ) Tj /F1 10 Tf (23 \(2008\): 274-9.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (Review of ) Tj /F3 10 Tf (Urdu Texts and Contexts) Tj /F1 10 Tf (, by C. M. Naim. ) Tj /F3 10 Tf (Annual of Urdu Studies ) Tj /F1 10 Tf (20 \(2005\): 288-290.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .890697 Tw 12 TL /F2 10 Tf 0 0 0 rg (2000 ) Tj /F1 10 Tf (Review of ) Tj /F3 10 Tf (Hali\222s Musaddas) Tj /F1 10 Tf (, translated by Christopher Shackle and Javed Majeed. ) Tj /F3 10 Tf (Annual of Urdu) Tj T* 0 Tw (Studies ) Tj /F1 10 Tf (15 \(2000\): 612-615.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Translations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (Krishan Chandar, \223Irani Pilau.\224 ) Tj /F3 10 Tf (Annual of Urdu Studies ) Tj /F1 10 Tf (20 \(2005\): 203-210.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Presentations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Conference Papers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.28498 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf ("Translating Rhythm: Data-Rich Literary Analysis for Understanding the Politics of Literary Form.") Tj T* 0 Tw 1.160814 Tw (XVI International Conference of the Forum on Contemporary Theory on "Translation, Comparatism and) Tj T* 0 Tw (the Global South,\224 University of Mysore.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.050751 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Free Verse in Urdu: Identity, Influence, and Innovation.\224 Annual Conference on South Asia,) Tj T* 0 Tw (University of Wisconsin, Madison.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.647318 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Bioinformatic Approaches to the Computation of Poetic Meter,\224 with Tracy K. Teal and C. Titus) Tj T* 0 Tw (Brown. Shared Horizons: Data, Biomedicine, and Digital Humanities, University of Maryland.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.551797 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Modernism and Realism in Late Colonial India.\224 American Comparative Literature Association) Tj T* 0 Tw (Annual Meeting, Toronto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.449069 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Desert Wandering: The Modern Landscape of Urdu Poetry.\224 American Comparative Literature) Tj T* 0 Tw (Association Annual Meeting, New Orleans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .514597 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223\221Soviet Pantheism\222: Modernism and the Critique of Ideology." Association for Asian Studies Annual) Tj T* 0 Tw (Meeting, Philadelphia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .65284 Tw 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (\223Where is Hasan the Potter Now? A Literary Representation of Failed Artistic Personhood.\224 Annual) Tj T* 0 Tw (Conference on South Asia, University of Wisconsin, Madison.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .082976 Tw 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (\223Modernism and Colonial Difference.\224 American Comparative Literature Association Annual Meeting,) Tj T* 0 Tw (Harvard University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 238.1649 0 Td 12 TL /F1 10 Tf 0 0 0 rg (2) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R47': class PDFStream 
+47 0 obj
+% page stream
+<< /Length 6710 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .113516 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf (\223From a Place of Solitude to a Place of Community: The Desert in Modern Urdu Poetry.\224 Association) Tj T* 0 Tw (for Asian Studies Annual Meeting, Atlanta.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2007 ) Tj /F1 10 Tf (\223In the Mirror of Ghalib.\224 Association for Asian Studies Annual Meeting, Boston.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.664147 Tw 12 TL /F2 10 Tf 0 0 0 rg (2006 ) Tj /F1 10 Tf (\223Parallel to the Horizon: Desire and Duration in Pakistani Modernism.\224 Horizons: Comparative) Tj T* 0 Tw (Literature Graduate Student Conference, Stanford University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.596412 Tw 12 TL /F2 10 Tf 0 0 0 rg (2006 ) Tj /F1 10 Tf (\223Distance at Death: N. M. Rashed and the Progressives.\224 Annual Conference on South Asia,) Tj T* 0 Tw (University of Wisconsin, Madison.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 4.570888 Tw 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (\223) Tj /F3 10 Tf (Ham Eshiyai) Tj /F1 10 Tf (: Solidarities After Empire.\224 Imagining Empire: South Asia Graduate Student) Tj T* 0 Tw (Conference, University of Chicago.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.003615 Tw 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (\223Partition and National Identity: Urdu Debates on Pakistan\222s \221Fundamental Problem.\222\224 Modern) Tj T* 0 Tw (Language Association Annual Convention, Washington, D. C.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .299147 Tw 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (\223Sheba in Ruins: Urdu Modernism\222s Imaginative Geography.\224 American Institute of Pakistan Studies) Tj T* 0 Tw (Biennial Conference, University of Pennsylvania.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .316905 Tw 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (\223Modernists and Marxists: A False Opposition?\224 Siting South Asia: A Graduate Student Conference,) Tj T* 0 Tw (Columbia University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.305976 Tw 12 TL /F2 10 Tf 0 0 0 rg (2005 ) Tj /F1 10 Tf (\223Alternative Geographies: Urdu Translations of Modern Persian Poetry.\224 American Comparative) Tj T* 0 Tw (Literature Association Annual Meeting, Penn State University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Invited Papers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .347126 Tw 12 TL /F3 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf ("The Politics of Literary Form: The Poetic Meters of Miraji." Contemporary Hindi/Urdu Literature and) Tj T* 0 Tw (Arts, Princeton University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .90561 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf ("A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.\224 South Asia Seminar,) Tj T* 0 Tw (University of Texas at Austin.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .66748 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (Research Presentation. Audio Cultures of India: Sound, Science, and History, Neubauer Collegium) Tj T* 0 Tw (for Culture and Society, University of Chicago.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .218555 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Temporality and Islam in Urdu Literary Modernism.\224 Language and Literatures of the Muslim World,) Tj T* 0 Tw (Muslim Studies Program, Michigan State University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.503314 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Issues in the Digital Humanities for Hindi/Urdu.\224 Bharatiya Bhasha Karyakram \(Indian Language) Tj T* 0 Tw (Programme\), Center for the Study of Developing Societies, New Delhi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.39784 Tw 12 TL /F2 10 Tf 0 0 0 rg (2012 ) Tj /F1 10 Tf ("Ghazals on the Go: Teaching the Culture of Urdu Poetry." Center for Language Teaching) Tj T* 0 Tw (Advancement, Professional Development Event, Michigan State University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .301976 Tw 12 TL /F2 10 Tf 0 0 0 rg (2012 ) Tj /F1 10 Tf (\223Mobile-Ready Hindi-Urdu Digital Literature Reader.\224 South Asian Language Pedagogy Conference,) Tj T* 0 Tw (Yale University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .569213 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223The Mobile Frontier of South Asian Language Pedagogy.\224 Looking Through the Languages: South) Tj T* 0 Tw (Asian Language Study for the Liberal Arts Conference, Yale University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.30152 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223Hindi, Urdu, and Beyond: Web-Based Video and Handwriting Widgets for Mobile and Traditional) Tj T* 0 Tw (Devices.\224 Explorations in Instructional Technology, Michigan State University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .051984 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223Faiz the Poet.\224 Guftugu: Faiz Ahmed Faiz, A Centennial Celebration, Center for South Asia Studies,) Tj T* 0 Tw (University of California, Berkeley.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.019318 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223N. M. Rashed and Faiz Ahmed Faiz: A Comparative Analysis.\224 Faiz Ahmad Faiz Birth Centenary) Tj T* 0 Tw (Colloquium, Lahore University of Management Science.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.687674 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (\223In the Mirror of Ghalib: Postcolonial Reflections on Indo-Muslim Selfhood.\224 Lahore University of) Tj T* 0 Tw (Management Science.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+q
+BT 1 0 0 1 0 14 Tm 2.006457 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (Response to ) Tj /F3 10 Tf (The Language of the Gods in the World of Men: Sanskrit, Culture, and Power in ) Tj T* 0 Tw .929979 Tw (Premodern India ) Tj /F1 10 Tf (by Sheldon Pollock. Cosmopolitan and Vernacular Languages: A Global Conversation,) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 238.1649 0 Td 12 TL /F1 10 Tf 0 0 0 rg (3) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R48': class PDFStream 
+48 0 obj
+% page stream
+<< /Length 6149 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (University of Michigan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .29284 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Dialogue and Truth: An Introduction to Gandhi and His Global Legacy.\224 Kapur Endowment Lecture,) Tj T* 0 Tw (Michigan State University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.960814 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Bridging the Language and Literature Divide: Textual Encapsulation for South Asian Language) Tj T* 0 Tw .481647 Tw (Pedagogy and Digital Humanities.\224 Teaching South Asia: Language Instruction and Literary Culture, Yale) Tj T* 0 Tw (University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .211751 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Ephemeral Asia: N. M. Rashed\222s A Stranger in Iran and the Problem of Modernism in Urdu.\224 Global) Tj T* 0 Tw (Studies Forum, Michigan State University.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .80498 Tw 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (\223Blending Content for South Asian Language Pedagogy,\224 with Manan Ahmed. Two-day Workshop,) Tj T* 0 Tw (South Asia Summer Language Institute, University of Wisconsin, 2009.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (\223Temporality and Difference in Pakistani Modernism.\224 South Asia Seminar, University of Chicago.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.08998 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf (\223Temporality in Pakistani Modernism.\224 UrduFest: Contemporary and Historical Facets of Urdu and) Tj T* 0 Tw (Its Literature, University of Virginia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .385318 Tw 12 TL /F2 10 Tf 0 0 0 rg (2006 ) Tj /F1 10 Tf (\223The Problem of the Vulgar.\224 Between Popular Culture and State Ideology: Urdu literature and Urdu) Tj T* 0 Tw (Media in Present-day Pakistan, Internationales Wissenschaftsforum, Heidelberg.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.654104 Tw 12 TL /F2 10 Tf 0 0 0 rg (2003 ) Tj /F1 10 Tf (\223The Buried City: N. M. Rashed and Modern Urdu Poetry.\224 Sarai @ Center for the Study of) Tj T* 0 Tw (Developing Societies, New Delhi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Panels Organized) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (\223Repositioned Realism.\224 American Comparative Literature Association Annual Meeting, Toronto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .413976 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Landscapes of Cultural Production.\224 American Comparative Literature Association Annual Meeting,) Tj T* 0 Tw (New Orleans.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 3.168314 Tw 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223National Culture and Belonging in Pakistan.\224 Association for Asian Studies Annual Meeting,) Tj T* 0 Tw (Philadelphia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.104147 Tw 12 TL /F2 10 Tf 0 0 0 rg (2008 ) Tj /F1 10 Tf (\223The Geography of Urdu: Canon, Metaphor, Community.\224 Association for Asian Studies Annual) Tj T* 0 Tw (Meeting, Atlanta.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2007 ) Tj /F1 10 Tf (\223The Modern Ghalib.\224 Association for Asian Studies Annual Meeting, Boston.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Grants) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.356976 Tw 12 TL /F3 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (\223Hindi-Urdu Blended Teaching Resources,\224 South Asian Language Resource Center Pedagogical) Tj T* 0 Tw (Resources Grant \($25,000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.042706 Tw 12 TL /F3 10 Tf 0 0 0 rg (2006 ) Tj /F1 10 Tf (\223Digital Urdu Ghazal Reader,\224 South Asian Language Resource Center Pedagogical Resources) Tj T* 0 Tw (Grant \($16,800\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (2004 ) Tj /F1 10 Tf (\223Mir in Cyberspace,\224 Center for Advanced Research in Language Acquisition Mini-Grant \($3000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Fellowships) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.414597 Tw 12 TL /F2 10 Tf 0 0 0 rg (2011 ) Tj /F1 10 Tf (American Institute of Pakistan Studies Short Term Research and Lecturing Fellowship \(\223N. M.) Tj T* 0 Tw (Rashed and Modernism in Urdu Poetry\224 in Lahore and Islamabad\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2005-6 ) Tj /F1 10 Tf (FLAS Fellowship \(Urdu\), Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2003 ) Tj /F1 10 Tf (Fulbright-Hays Doctoral Dissertation Research Abroad Fellowship \(India\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2003 ) Tj /F1 10 Tf (American Institute of Pakistan Studies Dissertation Research Grant \(Unactivated\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (1998-2005 ) Tj /F1 10 Tf (Faculty Fellowship, Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2001 ) Tj /F1 10 Tf (Columbia University Graduate School of Arts and Sciences Summer Fellowship \(London, UK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 238.1649 0 Td 12 TL /F1 10 Tf 0 0 0 rg (4) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R49': class PDFStream 
+49 0 obj
+% page stream
+<< /Length 5169 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2000 ) Tj /F1 10 Tf (FLAS Summer Fellowship \(Punjabi in Chandigarh, India\), Columbia University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (1997-8 ) Tj /F1 10 Tf (Berkeley Urdu Language Program in Pakistan Fellowship \(Lahore\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Research Awards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.569982 Tw 12 TL /F2 10 Tf 0 0 0 rg (2012-3 ) Tj /F1 10 Tf (MSU College of Arts and Letters Faculty Learning Committee Grant, "Digital Humanities," with) Tj T* 0 Tw (Danielle DeVoss) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2010 ) Tj /F1 10 Tf (MSU College of Arts and Letters \223Global Studies Think Tank\224 Curriculum Development Grant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (MSU Global Studies in the Arts and the Arts and Humanities Research Grant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009 ) Tj /F1 10 Tf (MSU Blended Teaching Community Research Grant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Prizes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .662706 Tw 12 TL /F2 10 Tf 0 0 0 rg (2013 ) Tj /F1 10 Tf (Global Outlook::Digital Humanities Essay Competition, First Prize, for "Bioinformatic Approaches to) Tj T* 0 Tw (the Computational Analysis of Urdu Poetic Meter," with Tracy K. Teal and C. Titus Brown.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Teaching) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Michigan State University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (AL 340: Digital Humanities Seminar \(Spring 2013, Spring 2014\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 456.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSAH 311: Partition, Displacement, and Cultural Memory \(Fall 2013\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSAH 220: Global Espionage: Identity, Intelligence, Power \(Fall 2012\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GSAH 230: Encountering Difference: East-West, North South \(Fall 2009, Fall 2010, Fall 2011\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (IAH 211B: Gandhi\222s India in History, Literature, and Film \(Spring 2009, Spring 2010\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LL151.2: Basic Hindi I \(Fall 2008, Fall 2009, Fall 2010, Fall 2012\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LL152.2 Basic Hindi II \(Spring 2009, Spring 2010, Spring 2013\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LL251.2: Intermediate Hindi I \(Fall 2010, Fall 2011, Fall 2013\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LL252.2: Intermediate Hindi II \(Spring 2014\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (University of Chicago) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Third- and Fourth-Year Hindi-3: Modern Hindi Poetry \(Spring 2008\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Third- and Fourth-Year Urdu-1: Urdu Short Story \(Autumn 2007\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Service) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (International) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2013\22616 ) Tj /F1 10 Tf (American Institute of Pakistan Studies, Executive Committee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009- ) Tj /F1 10 Tf (American Institute of Pakistan Studies, Board of Trustees) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 135.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Michigan State University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2013- ) Tj /F1 10 Tf (Asian Studies Center Advisory Board) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.02362 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2012- ) Tj /F1 10 Tf (Global Studies in Arts and Humanities Advisory Committee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 238.1649 0 Td 12 TL /F1 10 Tf 0 0 0 rg (5) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R50': class PDFStream 
+50 0 obj
+% page stream
+<< /Length 5973 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009-10 ) Tj /F1 10 Tf (Global Studies in Arts and Humanities Planning Committee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2009- ) Tj /F1 10 Tf (Core Faculty Member, Muslim Studies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2008-12 ) Tj /F1 10 Tf (Global Studies in Arts and Humanities Curriculum Committee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2008- ) Tj /F1 10 Tf (Core Faculty Member, Asian Studies Center) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2008- ) Tj /F1 10 Tf (Consulting Faculty Member, Gender in Global Context Center) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2008- ) Tj /F1 10 Tf (Integrated Media/Digital Humanities Committee, College of Arts and Letters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2008- ) Tj /F1 10 Tf (Contractual Core Faculty Member, Global Studies in Arts and Humanities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Journal Editorial Boards) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2011\226 ) Tj /F1 10 Tf (Bunyaad: Journal of Urdu Studies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (2013\226 ) Tj /F1 10 Tf (Sagar: A South Asian Research Journal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Languages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 24.68937 0 Td (Research:) Tj T* -24.68937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hindi, Urdu, Persian) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 21.90937 0 Td (Secondary) Tj T* 2.78 0 Td (Research:) Tj T* -24.68937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bengali, Punjabi, Arabic) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 30.25937 0 Td (Reading:) Tj T* -30.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (French, German) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 4.69937 0 Td (Programming:) Tj T* -4.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python, Perl, Java, Javascript, PHP, XSLT) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contact Information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 7.46937 0 Td (Mailing/Office) Tj T* 22.23 0 Td (Address:) Tj T* -29.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+Q
+q
+1 0 0 1 91.03937 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B-360 Wells Hall) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (619 Red Cedar Road) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (East Lansing, MI 48824) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.92937 0 Td (Twitter:) Tj T* -36.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (@seanpue) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 37.48937 0 Td (Github:) Tj T* -37.48937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (asp49) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 39.69937 0 Td (E-mail:) Tj T* -39.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (pue@msu.edu) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.36937 0 Td (Website:) Tj T* -31.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://seanpue.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 50.25937 0 Td (C.V.:) Tj T* -50.25937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://seanpue.com/cv) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 282.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 25.26937 0 Td (C.V. \(pdf\):) Tj T* -25.26937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://seanpue.com/cv.pdf) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+BT 1 0 0 1 0 2 Tm 238.1649 0 Td 12 TL /F1 10 Tf 0 0 0 rg (6) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R51': class PDFPageLabels 
+51 0 obj
+% Document Root
+<< /Nums [ 0
+ 52 0 R
+ 1
+ 53 0 R
+ 2
+ 54 0 R
+ 3
+ 55 0 R
+ 4
+ 56 0 R
+ 5
+ 57 0 R ] >>
+endobj
+% 'R52': class PDFPageLabel 
+52 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R53': class PDFPageLabel 
+53 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R54': class PDFPageLabel 
+54 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R55': class PDFPageLabel 
+55 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R56': class PDFPageLabel 
+56 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R57': class PDFPageLabel 
+57 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+xref
+0 58
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000752 00000 n
+0000001031 00000 n
+0000001310 00000 n
+0000001589 00000 n
+0000001868 00000 n
+0000002161 00000 n
+0000002398 00000 n
+0000002635 00000 n
+0000002875 00000 n
+0000003105 00000 n
+0000003434 00000 n
+0000003593 00000 n
+0000003872 00000 n
+0000003998 00000 n
+0000004178 00000 n
+0000004373 00000 n
+0000004557 00000 n
+0000004789 00000 n
+0000004956 00000 n
+0000005142 00000 n
+0000005333 00000 n
+0000005523 00000 n
+0000005695 00000 n
+0000005928 00000 n
+0000006108 00000 n
+0000006300 00000 n
+0000006476 00000 n
+0000006657 00000 n
+0000006843 00000 n
+0000007033 00000 n
+0000007214 00000 n
+0000007442 00000 n
+0000007630 00000 n
+0000007812 00000 n
+0000008039 00000 n
+0000008215 00000 n
+0000008418 00000 n
+0000008604 00000 n
+0000008790 00000 n
+0000008954 00000 n
+0000009102 00000 n
+0000015529 00000 n
+0000021851 00000 n
+0000028660 00000 n
+0000034908 00000 n
+0000040176 00000 n
+0000046252 00000 n
+0000046410 00000 n
+0000046487 00000 n
+0000046564 00000 n
+0000046641 00000 n
+0000046718 00000 n
+0000046795 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\035\232\253;\255+\261\2032g<s=\266\357D) (\035\232\253;\255+\261\2032g<s=\266\357D)] 
+
+ /Info 16 0 R
+ /Root 15 0 R
+ /Size 58 >>
+startxref
+46842
+%%EOF
