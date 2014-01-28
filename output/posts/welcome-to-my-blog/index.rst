@@ -24,10 +24,10 @@ I have written a little about myself and my research on the About_ page.
 I am using a software package called Nikola_ to create this webpage. It took me
 a little while to get comfortable with it, but it seems quite nice so far.  It
 creates static webpages, so there is no code running this website. I really
-didn’t want to have deal with updating software versions, security issues, and
-so on.  There is also an Urdu translation that I will try and implement in the
-near future. The software is open source and a bit techy, so there are lots of
-options. It‘s easily extendable, as well.
+didn’t want to have to deal with updating software versions, security issues,
+and so on.  There is also an Urdu translation that I will try and implement in
+the near future. The software is open source and a bit techy, so there are lots
+of options. It‘s easily extendable, as well.
 
 I am entering the pages in a format called ReStructuredText (RST), so they are
 quite clean. You can see the source_ as well. It is possible to extend the
