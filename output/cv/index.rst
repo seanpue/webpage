@@ -182,24 +182,35 @@ Presentations
 
 Conference Papers
 =================
+
+.. Exact dates follow in comments.
+
 **2013**
 “Translating Rhythm: 
 Data-Rich Literary Analysis for Understanding the Politics of Literary Form.”
 XVI International Conference of the Forum on Contemporary Theory on
 “Translation, Comparatism and the Global South,” University of Mysore.
 
+.. 18 December 2013
+
 **2013**
 “Free Verse in Urdu: Identity, Influence, and Innovation.” 
 Annual Conference on South Asia, University of Wisconsin, Madison.
+
+.. 18 October 2013
 
 **2013**
 “Bioinformatic Approaches to the Computation of Poetic Meter,” 
 with Tracy K. Teal and C. Titus Brown.
 Shared Horizons: Data, Biomedicine, and Digital Humanities, University of Maryland.
 
+.. 12 April 2013 
+
 **2013**
 “Modernism and Realism in Late Colonial India.”
 American Comparative Literature Association Annual Meeting, Toronto.
+
+.. 6 April 2013
 
 **2010**
 “Desert Wandering: The Modern Landscape of Urdu Poetry.” 
@@ -256,18 +267,27 @@ American Comparative Literature Association Annual Meeting, Penn State Universit
 Invited Papers
 ==============
 
+
+.. Exact dates follow in comments.
+
 **2013**
 “The Politics of Literary Form: The Poetic Meters of Miraji.”
 Contemporary Hindi/Urdu Literature and Arts, Princeton University.
+
+.. 6 December 2013
 
 **2013** 
 “A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.”
 South Asia Seminar, University of Texas at Austin.
 
+.. 3 October 2013
+
 **2013**
 Research Presentation.
 Audio Cultures of India: Sound, Science, and History,
 Neubauer Collegium for Culture and Society, University of Chicago.
+
+.. 16 September 2013 
 
 **2013**
 “Temporality and Islam in Urdu Literary Modernism.”
@@ -275,10 +295,14 @@ Language and Literatures of the Muslim World,
 Muslim Studies Program,
 Michigan State University
 
+.. 25 January 2013
+
 **2013**
 “Issues in the Digital Humanities for Hindi/Urdu.”
 Bharatiya Bhasha Karyakram (Indian Language Programme),
 Center for the Study of Developing Societies, New Delhi.
+
+.. 3 January 2013
 
 **2012**
 “Ghazals on the Go: Teaching the Culture of Urdu Poetry.”
