@@ -55,9 +55,9 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-#    "ur": "./ur",
+    "ur": "./ur",
     # Example for another language:
-    # "es": "./es",
+  #  "es": "./es",
 }
 
 # Links for the sidebar / navigation bar.
@@ -70,6 +70,14 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Tags'),
         #('/rss.xml', 'RSS'),
     ),
+    'ur': (
+        ('/ur/about','میرے بارے میں'),
+        ('/ur/cv','سی وی'),
+        ('/ur/archive.html', 'آرکائیو'),
+        ('/ur/categories/index.html', 'ٹیگز'),
+        #('/rss.xml', 'RSS'),
+    ),
+
 }
 
 # Below this point, everything is optional
@@ -290,7 +298,7 @@ DEPLOY_COMMANDS = [
 # translated
 
 # Name of the theme to use.
-THEME = "bootstrap3-gradients"#bootstrap3"
+THEME = "bootstrap3"#-gradients"#bootstrap3"
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.

@@ -6,31 +6,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://seanpue.com/</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/2014/</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/about/</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/archive.html</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-31</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.html</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-31</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.xml</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging-academic.html</loc>
@@ -42,11 +42,11 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.html</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-31</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.xml</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/python.html</loc>
@@ -58,14 +58,62 @@
  </url>
  <url>
   <loc>http://seanpue.com/cv/</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/welcome-to-my-blog/</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/rss.xml</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/2014/</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/about/</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/archive.html</loc>
+  <lastmod>2014-01-31</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/academic.html</loc>
+  <lastmod>2014-01-31</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/academic.xml</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/blogging.html</loc>
+  <lastmod>2014-01-31</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/blogging.xml</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/cv/</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/welcome-to-my-blog/</loc>
+  <lastmod>2014-01-30</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/rss.xml</loc>
+  <lastmod>2014-01-30</lastmod>
  </url>
 </urlset>
