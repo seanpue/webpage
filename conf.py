@@ -56,6 +56,7 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
     "ur": "./ur",
+    "hi": "./hi",
     # Example for another language:
   #  "es": "./es",
 }
@@ -77,6 +78,14 @@ NAVIGATION_LINKS = {
         ('/ur/categories/index.html', 'ٹیگز'),
         #('/rss.xml', 'RSS'),
     ),
+    'hi': (
+        ('/hi/about','मेरे बारे में'),
+        ('/hi/cv','सी वी'),
+        ('/hi/archive.html', 'अभिलेखागार'),
+        ('/hi/categories/index.html', 'टैग्स'),
+        #('/rss.xml', 'RSS'),
+    ),
+
 
 }
 
