@@ -81,7 +81,7 @@ NAVIGATION_LINKS = {
     'hi': (
         ('/hi/about','मेरे बारे में'),
         ('/hi/cv','सी वी'),
-        ('/hi/archive.html', 'अभिलेखागार'),
+        ('/hi/archive.html', 'अार्काइव'),
         ('/hi/categories/index.html', 'टैग्स'),
         #('/rss.xml', 'RSS'),
     ),
