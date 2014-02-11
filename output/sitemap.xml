@@ -22,15 +22,15 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging-academic.html</loc>
@@ -42,11 +42,11 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi-urdu-blogging.html</loc>
@@ -58,11 +58,19 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi-urdu-translation-css.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi-urdu-translation-css.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/miraji-words.html</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/miraji-words.xml</loc>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/python.html</loc>
@@ -71,6 +79,14 @@
  <url>
   <loc>http://seanpue.com/categories/python.xml</loc>
   <lastmod>2014-01-25</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/translation.html</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/translation.xml</loc>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/cv/</loc>
@@ -94,23 +110,23 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi-urdu-blogging.html</loc>
@@ -122,11 +138,27 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi-urdu-translation-css.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi-urdu-translation-css.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/miraji-words.html</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/miraji-words.xml</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/translation.html</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/translation.xml</loc>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/cv/</loc>
@@ -137,16 +169,32 @@
   <lastmod>2014-02-04</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/posts/mirajis-favorite-words/</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/translation-blogging/</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/posts/welcome-to-my-blog/</loc>
   <lastmod>2014-02-04</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/rss.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/added-hindi-and-urdu/</loc>
   <lastmod>2014-02-04</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/mirajis-favorite-words/</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/translation-blogging/</loc>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/welcome-to-my-blog/</loc>
@@ -154,7 +202,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/rss.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/</loc>
@@ -174,23 +222,23 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi-urdu-blogging.html</loc>
@@ -202,11 +250,27 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi-urdu-translation-css.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi-urdu-translation-css.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/miraji-words.html</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/miraji-words.xml</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/translation.html</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/translation.xml</loc>
+  <lastmod>2014-02-11</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/cv/</loc>
@@ -217,11 +281,19 @@
   <lastmod>2014-02-04</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/posts/mirajis-favorite-words/</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/translation-blogging/</loc>
+  <lastmod>2014-02-11</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/posts/welcome-to-my-blog/</loc>
   <lastmod>2014-02-04</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/rss.xml</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2014-02-11</lastmod>
  </url>
 </urlset>
