@@ -6,7 +6,7 @@
 .. description: 
 .. type: text
 
-I am working on a paper on the first volumes of free verse, or *āzad naz̤m*, in Urdu to be submitted to a festschrift for Shamsur Rahman Faruqi, the famous Urdu critic and writer who has been my own advisor Frances Pritchett's teacher and collaborator. As part of that work, I have had the Urdu poet Mīrājī’s volume *Mīrājī kī naz̤meñ* transcribed, and I am working on a computational analysis of his use of meter as well as sound. I will be comparing Mīrājī’s volume to N. M. Rāshid’s *Māvarā* and to Taṣadduq Ḥusain Ḳhālid’s volume. It’s a very preliminary study, but I am very happy to be spending time with Mīrājī’s poetry.
+I am working on a paper on the first volumes of free verse, or *āzad naz̤m*, in Urdu to be submitted to a festschrift for Shamsur Rahman Faruqi, the famous Urdu critic and writer who has been my own advisor Frances Pritchett's teacher and collaborator. As part of that work, I have had the Urdu poet Mīrājī’s volume *Mīrājī kī naz̤meñ* transcribed, and I am working on a computational analysis of his use of meter as well as sound. I will be comparing Mīrājī’s volume to N. M. Rāshid’s *Māvarā* and to Taṣadduq Ḥusain Ḳhālid’s first volume. It’s a very preliminary study, but I am very happy to be spending time with Mīrājī’s poetry.
 
 To my mind, a lovely product of that work is a list of Mīrājī’s most common words. For those readers familiar with his oeuvre, these will come as no surprise. Removing the "stop words," or common words that do not reveal much on their own, Mīrājī’s ten most frequent words in that volume are:
 

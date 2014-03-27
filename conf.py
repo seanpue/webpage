@@ -131,7 +131,7 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
-    ("cv/*.rst", "", "story.tmpl"), # trying to move the CV into a seperate directory
+    ("cv/index.rst", "", "story.tmpl"), # trying to move the CV into a seperate directory
 
 #    ("pages/*.txt", "", "story.tmpl"),
 #    ("pages/*.txt", "", "story.tmpl"),
@@ -408,6 +408,13 @@ COMMENT_SYSTEM_ID = "seanpue"
 # COMMENTS_IN_STORIES = False
 # Enable comments on picture gallery pages?
 # COMMENTS_IN_GALLERIES = False
+
+GALLERY_PATH = "galleries"
+THUMBNAIL_SIZE = 180
+MAX_IMAGE_SIZE = 1280
+USE_FILENAME_AS_TITLE = True
+GALLERY_SORT_BY_DATE = False
+EXTRA_IMAGE_EXTENSIONS = []
 
 # What file should be used for directory indexes?
 # Defaults to index.html
@@ -738,3 +745,6 @@ GLOBAL_CONTEXT = {}
 #print "Running config file"
 #import os
 #os.system ('rst2pdf ~/blog/pages/cv.rst --strip-elements-with-class=contents ~/blog/output/cv.pdf')
+
+# gallery settings
+USE_FILENAME_AS_TITLE = False

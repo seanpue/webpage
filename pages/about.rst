@@ -27,16 +27,20 @@ interests are below. My CV_ is available online with a list of my publications_.
 Research
 ========
 
+.. link_figure:: http://www.ucpress.edu/book.php?isbn=9780520283107
+      :title: I Too Have Some Dreams
+      :class: link-figure
+      :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+
 My main research area is **South Asian literature**–especially in Urdu, Hindi,
 and Persian (Farsi)–but I am a comparativist and hoping in the future to work in
 other languages as well, especially Punjabi, Bengali (Bangla), and Braj Bhasha.
-I have published a number of articles in this field, and my book *I Too Have
-Some Dreams: N. M. Rashed and Modernism in Urdu Poetry* is in production with
-`University of California Press`_ and scheduled for publication by August 2014.
-
+I have published a number of articles in this field, and my book `I Too Have
+Some Dreams: N. M. Rashed and Modernism in Urdu Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_ is in production with
+University of California Press and scheduled for publication by August 2014.
 
 My new research area is **digital humanities**, which is a rather capacious
-topic. I have been involved in what could be called 'humanities computing'
+topic. I have been involved in what could be called ‘humanities computing’
 related to South Asian literature and language for over a decade. I have been
 keeping that aspect of my research on the down low, but as it is now becoming an
 accepted method of humanist inquiry I am doing work more openly in that “field.”
@@ -51,8 +55,6 @@ I am excited about the possibilities of language learning and teaching online.
 I have received minimal training in SLA, all of it postdoctoral, but I do
 consider it a tertiary field of my research, as well as a significant component
 of my teaching and service.
-
-.. _University of California Press: http://www.ucpress.edu/
 
 Teaching 
 ========
@@ -176,8 +178,7 @@ I enjoy computer programming, and I am particularly excited about the Python
 language, which I find very readable, quick, and easy to use. I used to program more in
 Perl and before that in Java. For web-based work, I have also used PHP and
 Javascript, as well as XSLT.  I like the content management system Drupal quite
-a bit, but I wish it was written in Python. I very occasionally use C/C++.
-Back in the day, I worked in Pascal, Basic, and Assembly, and I have very hazy
+a bit, but I wish it was written in Python. I very occasionally use C/C++. I have recently done some work with R, and I am starting to work with Octave. Back in the day, I worked in Pascal, Basic, and Assembly, and I have very hazy
 memories of Logo.
 
 My other mostly indoor hobbies include reading, music, and cooking.
