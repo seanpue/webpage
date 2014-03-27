@@ -13,7 +13,7 @@ software are crowdsourced_.
 
 I do not do much computing in Hindi, so I checked some of the phrases against
 the Wordpress translations in addition to querying to see how many instances
-there of particular words on the Internet. For example, one phrase I was
+there are of particular words on the Internet. For example, one phrase I was
 wavering on was the word for archive. अभिलेखागार *abhilekhāgār* or “archive” has
 217,000 hits (many of which are Indian government archive websites), whereas
 अार्काइव *ārkāiv* has 592,000. That‘s what the Urdu translation went with as

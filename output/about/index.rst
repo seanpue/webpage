@@ -137,11 +137,11 @@ Immediately before that, I was a research associate for two years based at the
 University of Chicago at the (now unfortunately defunct) South Asian Language
 Resource Center, where I coordinated South Asian language materials development
 and teacher training on a national level. At the U of C., I also had an
-opportunity there to teach advanced literature classes in Urdu and Hindi. I
+opportunity to teach advanced literature classes in Urdu and Hindi. I
 love **Chicago** and have very happy memories from that stage of my life, most
 especially the birth of my daughter.
 
-Before Chicago, I had the wonderful opportunity to go to graduate school at
+Before Chicago, I had the wonderful opportunity to attend graduate school at
 Columbia University in the city of **New York**.  I began in the M.A./Ph.D.
 program in what was then called Middle East and Asian Languages and Cultures,
 and is now the even more fabulous `Department of Middle Eastern, South Asian,
@@ -173,13 +173,14 @@ I was born and raised in the city of **San Diego**, California.
 
 Personal Interests 
 ==================
-
-I enjoy computer programming, and I am particularly excited about the Python
-language, which I find very readable, quick, and easy to use. I used to program more in
-Perl and before that in Java. For web-based work, I have also used PHP and
-Javascript, as well as XSLT.  I like the content management system Drupal quite
-a bit, but I wish it was written in Python. I very occasionally use C/C++. I have recently done some work with R, and I am starting to work with Octave. Back in the day, I worked in Pascal, Basic, and Assembly, and I have very hazy
-memories of Logo.
+I enjoy computer programming, and I am currently excited about the Python
+language, which I find very readable, quick, and easy to use. I used to program
+more in Perl and before that in Java. For web-based work, I have also used PHP
+and Javascript, as well as XSLT. I like the content management system Drupal
+quite a bit, but I wish it was written in Python. I very occasionally use
+C/C++. I have recently done some work with R, and I am starting to work with
+Octave. Back in the day, I worked in Pascal, Basic, and Assembly, and I have
+very hazy memories of Logo.
 
 My other mostly indoor hobbies include reading, music, and cooking.
 

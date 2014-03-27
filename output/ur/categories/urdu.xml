@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (urdu)</title><link>http://seanpue.com/</link><description></description><atom:link href="http://seanpue.com/ur/categories/urdu.xml" type="application/rss+xml" rel="self"></atom:link><language>ur</language><lastBuildDate>Wed, 26 Mar 2014 23:19:29 GMT</lastBuildDate><generator>Nikola &lt;http://getnikola.com/&gt;</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Added Hindi and Urdu</title><link>http://seanpue.com/ur/posts/added-hindi-and-urdu/</link><description>&lt;div&gt;&lt;p&gt;I added the Urdu translation of the blog software, and I also translated the
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (urdu)</title><link>http://seanpue.com/</link><description></description><atom:link href="http://seanpue.com/ur/categories/urdu.xml" type="application/rss+xml" rel="self"></atom:link><language>ur</language><lastBuildDate>Wed, 26 Mar 2014 23:43:14 GMT</lastBuildDate><generator>Nikola &lt;http://getnikola.com/&gt;</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Added Hindi and Urdu</title><link>http://seanpue.com/ur/posts/added-hindi-and-urdu/</link><description>&lt;div&gt;&lt;p&gt;I added the Urdu translation of the blog software, and I also translated the
 blog commands into Hindi. Should I care to, I can now compose Hindi and Urdu
 versions of my posts. The translations of the blog
 software are &lt;a class="reference external" href="https://www.transifex.com/projects/p/nikola/"&gt;crowdsourced&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I do not do much computing in Hindi, so I checked some of the phrases against
 the Wordpress translations in addition to querying to see how many instances
-there of particular words on the Internet. For example, one phrase I was
+there are of particular words on the Internet. For example, one phrase I was
 wavering on was the word for archive. अभिलेखागार &lt;em&gt;abhilekhāgār&lt;/em&gt; or “archive” has
 217,000 hits (many of which are Indian government archive websites), whereas
 अार्काइव &lt;em&gt;ārkāiv&lt;/em&gt; has 592,000. That‘s what the Urdu translation went with as
