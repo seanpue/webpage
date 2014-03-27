@@ -194,7 +194,7 @@ Michigan State University.
 .. 20 March 2014
 
 **2013**
-(“Translating Rhythm: 
+“Translating Rhythm: 
 Data-Rich Literary Analysis for Understanding the Politics of Literary Form.”
 XVI International Conference of the Forum on Contemporary Theory on
 “Translation, Comparatism and the Global South,” University of Mysore.

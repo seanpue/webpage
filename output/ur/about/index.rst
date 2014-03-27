@@ -33,21 +33,22 @@ Research
       :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
 
 My main research area is **South Asian literature**–especially in Urdu, Hindi,
-and Persian (Farsi)–but I am a comparativist and hoping in the future to work in
-other languages as well, especially Punjabi, Bengali (Bangla), and Braj Bhasha.
-I have published a number of articles in this field, and my book `I Too Have
-Some Dreams: N. M. Rashed and Modernism in Urdu Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_ is in production with
-University of California Press and scheduled for publication by August 2014.
+and Persian (Farsi)–but I am a comparativist and planning in the future to work
+in other languages as well, including Punjabi, Bengali (Bangla), and Braj
+Bhasha. My book `I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu
+Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_ is in
+production with University of California Press and scheduled for publication by
+August 2014.
 
 My new research area is **digital humanities**, which is a rather capacious
 topic. I have been involved in what could be called ‘humanities computing’
 related to South Asian literature and language for over a decade. I have been
 keeping that aspect of my research on the down low, but as it is now becoming an
 accepted method of humanist inquiry I am doing work more openly in that “field.”
-I am particular interested in using computational methodologies to supplement my
+I am particularly interested in using computational methodologies to supplement my
 scholarship, working on both macro and micro levels. I am also interested in
 developing a richly annotated corpus of texts and performances related
-especially to South Asian literature, culture, and other fields (and areas).
+to South Asian literature, culture, and other fields (and areas).
 
 I have also completed a few projects on **second-language acquisition**
 involving digital technologies. I regularly teach Hindi and sometimes Urdu, and
@@ -99,7 +100,7 @@ Service
 =======
 
 At MSU, most of my service has been oriented towards my college, `Arts and
-Letters`_, especially in regards to the programs mentioned above, as well to my
+Letters`_, mostly in regards to the programs mentioned above, as well to my
 department—`Linguistics and Germanic, Slavic, Asian, and African Languages`_. I
 also work extensively with the `Asian Studies Center`_ and the `Muslim Studies
 Program`_, both part of International Studies and Programs at MSU.
