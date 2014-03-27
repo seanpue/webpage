@@ -1,7 +1,7 @@
 .. title: Added Hindi and Urdu
 .. slug: added-hindi-and-urdu
 .. date: 2014/02/04 20:30:41
-.. tags: hindi urdu translation css
+.. tags: hindi,urdu,translation,css
 .. link: 
 .. description: 
 .. type: text

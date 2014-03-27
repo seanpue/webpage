@@ -1,7 +1,7 @@
 .. title: Miraji’s Favorite Words
 .. slug: mirajis-favorite-words
 .. date: 2014/02/11 10:53:04
-.. tags: miraji words
+.. tags: miraji,words
 .. link: 
 .. description: 
 .. type: text

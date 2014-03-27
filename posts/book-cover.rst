@@ -1,7 +1,7 @@
 .. title: Book Cover
 .. slug: book-cover
 .. date: 2014/03/26 20:31:04
-.. tags: art
+.. tags: art, book, nests, Zahoor
 .. link: 
 .. description: 
 .. type: text
