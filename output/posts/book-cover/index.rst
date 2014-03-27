@@ -27,4 +27,4 @@ For those readers who know Urdu, the cover reminds me of a poem of Rashed’s th
 
 The book will be out in August with `University of California Press <http://www.ucpress.edu/book.php?isbn=9780520283107>`_. That's the press of my undergraduate alma mater, so I am thrilled to be publishing with them, and they have been great to work with. The book is in the `South Asia Across the Disciplines <http://www.saacrossdisciplines.org/‎>`_ series.
 
-I am traveling to the American Association of Asian Studies conference this week in Philadelphia. I have heard from friends that traveling is a great time to write blog posts, so I hope to post more soon! 
+I am traveling to the Association for Asian Studies conference this week in Philadelphia. I have heard from friends that traveling is a great time to write blog posts, so I hope to post more soon! 
