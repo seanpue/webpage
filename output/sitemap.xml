@@ -6,39 +6,39 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://seanpue.com/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/2014/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/about/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/archive.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/art.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/art.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging-academic.html</loc>
@@ -50,27 +50,51 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/book.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/book.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/css.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/css.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/d3.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/d3.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/fp7.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/fp7.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/ghalib.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/ghalib.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi-urdu-blogging.html</loc>
@@ -90,11 +114,11 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/miraji-words.html</loc>
@@ -106,19 +130,19 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/miraji.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/miraji.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/nests.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/nests.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/python.html</loc>
@@ -129,116 +153,156 @@
   <lastmod>2014-01-25</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/topic-modeling.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/topic-modeling.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/translation.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/translation.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/urdu.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/urdu.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/word-clouds.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/word-clouds.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/words.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/words.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/zahoor.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/zahoor.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/cv/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/galleries/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/galleries/i2havesomedreams/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/galleries/i2havesomedreams/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/galleries/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/2014/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/about/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/archive.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/art.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/art.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/book.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/book.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/css.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/css.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/d3.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/d3.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/fp7.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/fp7.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/ghalib.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/ghalib.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi-urdu-blogging.html</loc>
@@ -258,11 +322,11 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/miraji-words.html</loc>
@@ -274,83 +338,99 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/miraji.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/miraji.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/nests.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/nests.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/topic-modeling.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/topic-modeling.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/translation.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/translation.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/urdu.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/urdu.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/word-clouds.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/word-clouds.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/words.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/words.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/zahoor.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/zahoor.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/cv/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/i2havesomedreams/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/i2havesomedreams/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/added-hindi-and-urdu/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/book-cover/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/mirajis-favorite-words/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/translation-blogging/</loc>
@@ -358,23 +438,31 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/welcome-to-my-blog/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/who-was-ghalib/</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/word-clouds-in-hindi-and-urdu/</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/added-hindi-and-urdu/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/book-cover/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/mirajis-favorite-words/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/translation-blogging/</loc>
@@ -382,71 +470,103 @@
  </url>
  <url>
   <loc>http://seanpue.com/posts/welcome-to-my-blog/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/who-was-ghalib/</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/word-clouds-in-hindi-and-urdu/</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/2014/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/about/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/archive.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/art.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/art.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/book.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/book.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/css.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/css.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/d3.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/d3.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/fp7.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/fp7.xml</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/ghalib.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/ghalib.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi-urdu-blogging.html</loc>
@@ -466,11 +586,11 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/miraji-words.html</loc>
@@ -482,83 +602,99 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/miraji.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/miraji.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/nests.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/nests.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/topic-modeling.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/topic-modeling.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/translation.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/translation.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/urdu.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/urdu.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/word-clouds.html</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/word-clouds.xml</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/words.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/words.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/zahoor.html</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/zahoor.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/cv/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/i2havesomedreams/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/i2havesomedreams/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/added-hindi-and-urdu/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/book-cover/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/mirajis-favorite-words/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/translation-blogging/</loc>
@@ -566,10 +702,18 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/welcome-to-my-blog/</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/who-was-ghalib/</loc>
+  <lastmod>2014-04-06</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/word-clouds-in-hindi-and-urdu/</loc>
+  <lastmod>2014-04-06</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/rss.xml</loc>
-  <lastmod>2014-03-27</lastmod>
+  <lastmod>2014-04-06</lastmod>
  </url>
 </urlset>

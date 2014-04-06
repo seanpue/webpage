@@ -142,7 +142,7 @@ PAGES = (
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of "source" "relative destination".
 # Default is:
-# FILES_FOLDERS = {'files': '' }
+FILES_FOLDERS = {'files': 'files' }
 # Which means copy 'files' into 'output'
 
 # A mapping of languages to file-extensions that represent that language.
@@ -453,7 +453,7 @@ PRETTY_URLS = True
 # Generally, you want FUTURE_IS_NOW and DEPLOY_FUTURE to be the same value.
 # DEPLOY_FUTURE = False
 # If False, draft posts will not be deployed
-# DEPLOY_DRAFTS = True
+DEPLOY_DRAFTS = False
 
 # Allows scheduling of posts using the rule specified here (new_post -s)
 # Specify an iCal Recurrence Rule: http://www.kanzaki.com/docs/ical/rrule.html
@@ -742,7 +742,7 @@ LOGGING_HANDLERS = {
 GLOBAL_CONTEXT = {}
 
 # generate PDF file
-#print "Running config file"
+#print "Running config generate"
 #import os
 #os.system ('rst2pdf ~/blog/pages/cv.rst --strip-elements-with-class=contents ~/blog/output/cv.pdf')
 
