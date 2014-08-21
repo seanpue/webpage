@@ -45,10 +45,15 @@ Contact Information
 --------------------
 Academic Appointment
 --------------------
-| **2008–** 
-    Assistant Professor, Michigan State University
+| **2014–**
+    Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
 |   Core Faculty, Global Studies in Arts and Humanities
+
+.. 7 July 2014
+
+| **2008–14** 
+|    Assistant Professor, Michigan State University
 
 --------------------
 Research Appointment
@@ -84,9 +89,8 @@ Publications
 
 Book
 ====
-**forthcoming**
 *I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry*. 
-Berkeley, CA: University of California Press, (forthcoming, 2014).
+Berkeley, CA: University of California Press, 2014.
 
 Articles
 ========

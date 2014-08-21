@@ -131,7 +131,9 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
-    ("cv/index.rst", "", "story.tmpl"), # trying to move the CV into a seperate directory
+    ("cv/index.rst", "", "story.tmpl"),
+    ("resources/*.rst","","story.tmpl")
+## trying to move the CV into a seperate directory
 
 #    ("pages/*.txt", "", "story.tmpl"),
 #    ("pages/*.txt", "", "story.tmpl"),
