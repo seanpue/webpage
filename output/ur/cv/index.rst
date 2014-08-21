@@ -594,10 +594,10 @@ Languages
 
 **reading:** French, German
 
-**programming:** Python, Perl, Java, Javascript, PHP, XSLT
+**programming:** Python, Perl, Mathlab, R, Java, Javascript, PHP, XSLT
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 30 January 2014.
+   This C.V. was last updated on 20 August 2014.
 
 
