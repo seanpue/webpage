@@ -49,11 +49,8 @@ Academic Appointment
     Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
 |   Core Faculty, Global Studies in Arts and Humanities
-
-.. 7 July 2014
-
 | **2008–14** 
-|    Assistant Professor, Michigan State University
+    Assistant Professor, Michigan State University
 
 --------------------
 Research Appointment
