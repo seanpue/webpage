@@ -39,7 +39,7 @@ Bhasha. My book, `I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu
 Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_, was published by University of California Press in August 2014. I have made a resource page for the book `here <http://seanpue.com/itoohavesomedreams>`_.
 
 My new research area is **digital humanities**, which is a rather capacious
-topic. I  involved in what could be called “humanities computing”
+topic. I have been involved in what could be called “humanities computing”
 related to South Asian literature and language for over a decade. I had been
 keeping that aspect of my research on the down low, but as it is now becoming
 an accepted method of humanist inquiry I am doing work more openly in that

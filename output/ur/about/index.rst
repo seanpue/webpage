@@ -35,21 +35,21 @@ Research
 My main research area is **South Asian literature**–especially in Urdu, Hindi,
 and Persian (Farsi)–but I am a comparativist and planning in the future to work
 in other languages as well, including Punjabi, Bengali (Bangla), and Braj
-Bhasha. My book `I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu
-Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_ was published by University of California Press in August 2014. I have made a resource page for the book `here <http://seanpue.com/itoohavesomedreams>`_.
+Bhasha. My book, `I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu
+Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_, was published by University of California Press in August 2014. I have made a resource page for the book `here <http://seanpue.com/itoohavesomedreams>`_.
 
 My new research area is **digital humanities**, which is a rather capacious
-topic. I  involved in what could be called “humanities computing”
+topic. I have been involved in what could be called “humanities computing”
 related to South Asian literature and language for over a decade. I had been
 keeping that aspect of my research on the down low, but as it is now becoming
 an accepted method of humanist inquiry I am doing work more openly in that
 “field.” I am particularly interested in using computational methodologies to
-supplement my scholarship, working on both macro and micro levels. I am also
+supplement my research in literary history, working with texts on both macro and micro levels. For that reason, I am 
 interested in developing a richly annotated corpus of texts and performances
 related to South Asian literature, culture, and other fields (and areas).
 
 
-I have started work on a second book project titled “Publics of Sound: The Politics of Literary Innovation in Modern South Asia.” In that book, I combine a literary historical methodology with what I call “data-rich analysis” of text and performance, using digital tools to seek and identify patterns in a multilingual modernist corpus from roughly 1900 to the 1980s, focusing on Hindi and Urdu in relation to other languages, especially Bengali and Punjabi. While the literary historical aspects of this project grew out of research for my first book, the computational possibility grew out of a very productive `collaboration with with computational biologists <http://www.cal.msu.edu/biologistshumanities>`_ in using bioinformatic algorithms to detect the meter of Urdu poetry. I have extended our initial work to include free verse in Hindi and Urdu. I am seeking advanced training in computational linguistics and natural language processing, as well as more computer and data science, in order to adapt the methodologies of those disciplines for my literary research. 
+I have started work on a second book project titled “Publics of Sound: The Politics of Literary Innovation in Modern South Asia.” Through chapters focused on individual writers and movements, the book maps out the politics of sound and musicality in the discourse and practice of poetic modernism in Urdu and Hindi. That book will combine literary historical methodologies with what I call “data-rich analysis” of text and performance. I will use digital tools to seek and identify patterns in a multilingual modernist corpus from roughly 1900 to the 1980s. The project focuses on Hindi and Urdu but also involves other languages, as well. While the literary historical aspects of this project grew out of research for my first book, the computational techniques grew out of a very productive `collaboration with computational biologists <http://www.cal.msu.edu/biologistshumanities>`_ in using bioinformatic algorithms to detect the meter of Urdu poetry. I have extended our initial work to include free verse in Hindi and Urdu. I hope to also involve computational linguistics and natural language processing in my work, as well as computer and data science, in order to adapt the methodologies of those disciplines for my literary research. 
 
 I have also completed a few projects on **second-language acquisition**
 involving digital technologies. I hope to update and add those projects to this webpage in the near future. I regularly teach Hindi and sometimes Urdu, and
@@ -92,7 +92,7 @@ is a hands-on class that mixes theory and practice, culminating in a final
 project for the students.
 
 At MSU, I also coordinate the **Hindi** language program and have usually taught
-at the first- or second-year level. This year I am teaching first-year Hindi (LL151.2, LL152.2) and will be “flipping” the course so one hour of classtime will be online. In addition to online exercises, I am hoping to move all my the English speaking talks to that hour and spend the other three hours in the “target language.” I didn’t think I would be teaching that class when I agreed to have it flipped, but it should be interesting. If the videos are effective and not too embarassing, I will make them available to the public.
+at the first- or second-year level. This year I am teaching first-year Hindi (LL151.2, LL152.2) and will be partially “flipping” the course so one hour of classtime will be online. In addition to online exercises, I am hoping to move all of my own English speaking to that hour and spend the other three hours in the “target language.” I didn’t think I would be teaching that class when I agreed to have it flipped, but it should be interesting. If the videos are effective and not too embarassing, I will make them available to the public.
 
 .. _Digital Humanities: http://dh.cal.msu.edu/ 
 .. _Global Studies in Arts and Humanities: http://globalstudies.msu.edu/

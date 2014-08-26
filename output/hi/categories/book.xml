@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (book)</title><link>http://seanpue.com/</link><description></description><atom:link href="http://seanpue.com/hi/categories/book.xml" type="application/rss+xml" rel="self"></atom:link><language>hi</language><lastBuildDate>Thu, 07 Aug 2014 16:48:44 GMT</lastBuildDate><generator>Nikola &lt;http://getnikola.com/&gt;</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Book Cover</title><link>http://seanpue.com/hi/posts/book-cover/</link><description>&lt;div&gt;&lt;div class="link-figure"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (book)</title><link>http://seanpue.com/</link><description></description><atom:link href="http://seanpue.com/hi/categories/book.xml" type="application/rss+xml" rel="self"></atom:link><language>hi</language><lastBuildDate>Mon, 25 Aug 2014 23:49:14 GMT</lastBuildDate><generator>Nikola &lt;http://getnikola.com/&gt;</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>I Too Have Some Dreams Published!</title><link>http://seanpue.com/hi/posts/i-too-have-some-dreams-published/</link><description>&lt;div&gt;&lt;p&gt;My book, &lt;a class="reference external" href="http://www.ucpress.edu/book.php?isbn=9780520283107"&gt;I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry&lt;/a&gt; has just been published!&lt;/p&gt;
+&lt;p&gt;I have created a resource page for it here, &lt;a class="reference external" href="http://seanpue.com/itoohavesomedreams"&gt;http://seanpue.com/itoohavesomedreams&lt;/a&gt;. On that page, I will make the thirty poems in the appendix available in transliteration, Urdu script, and (eventually) devanagari for those of you want to read along.&lt;/p&gt;
+&lt;div class="admonition-book-description admonition"&gt;
+&lt;p class="first admonition-title"&gt;Book Description&lt;/p&gt;
+&lt;p class="last"&gt;&lt;em&gt;I Too Have Some Dreams&lt;/em&gt; explores the work of N. M. Rashed, Urdu's
+renowned modernist poet, whose career spans the last years of British India
+and the early decades of postcolonial South Asia. A. Sean Pue argues that
+Rashed’s poetry carved out a distinct role for literature in the maintenance
+of doubt, providing a platform for challenging the certainty of collective
+ideologies and opposing the evolving forms of empire and domination. This
+finely crafted study offers a timely contribution to global modernist studies
+and to modern South Asian literary history.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><guid>http://seanpue.com/hi/posts/i-too-have-some-dreams-published/</guid><pubDate>Mon, 25 Aug 2014 23:28:22 GMT</pubDate></item><item><title>Book Cover</title><link>http://seanpue.com/hi/posts/book-cover/</link><description>&lt;div&gt;&lt;div class="link-figure"&gt;
 &lt;div class="link-figure-media"&gt;
 &lt;a class="link-figure-image" href="http://www.ucpress.edu/book.php?isbn=9780520283107" target="_blank"&gt;
 &lt;img src="http://seanpue.com/galleries/i2havesomedreams/i2havesomedreams-medium.jpg" alt="I Too Have Some Dreams"&gt;&lt;/a&gt;
