@@ -48,65 +48,65 @@ Conclusion: Hasan the Potter
 
 Appendix: Poems in Transliteration and Translation
 
-§1. Bādal (sāneṭ)
+  §1. *Bādal (sāneṭ)*
 
-§2. Ek din—lārins bāġh meñ (ek kaifiyat)
+  §2. *Ek din—lārins bāġh meñ (ek kaifiyat)*
 
-§3. Sitāre (sāneṭ)
+  §3. *Sitāre (sāneṭ)*
 
-§4. Vādī-e pinhāñ
+  §4. *Vādī-e pinhāñ*
 
-§5. Gunāh aur muḥabbat
+  §5. *Gunāh aur muḥabbat*
 
-§6. Mukāfāt
+  §6. *Mukāfāt*
 
-§7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)
+  §7. *Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)*
 
-§8. Ittifāqāt
+  §8. *Ittifāqāt*
 
-§9. Shāʿir-e dar-māñdah
+  §9. *Shāʿir-e dar-māñdah*
 
-§10. Intiqām
+  §10. *Intiqām*
 
-§11. Hamah ūst
+  §11. *Hamah ūst*
 
-§12. Tel ke saudāgar
+  §12. *Tel ke saudāgar*
 
-§13. Mann-o-salvâ
+  §13. *Mann-o-salvâ*
 
-§14. Tamāshāgah-e lālah-zār
+  §14. *Tamāshāgah-e lālah-zār*
 
-§15. Namrūd kī ḳhudāʾī
+  §15. *Namrūd kī ḳhudāʾī*
 
-§16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)
+  §16. *Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)*
 
-§17. Zindagī se ḍarte ho?
+  §17. *Zindagī se ḍarte ho?*
 
-§18. Dil, mire ṣaḥrā-navard-e pīr dil
+  §18. *Dil, mire ṣaḥrā-navard-e pīr dil*
 
-§19. Ek aur shahr
+  §19. *Ek aur shahr*
 
-§20. Reg-e dīrūz
+  §20. *Reg-e dīrūz*
 
-§21. Zamānah ḳhudā hai
+  §21. *Zamānah ḳhudā hai*
 
-§22. Afsānah-e shahr
+  §22. *Afsānah-e shahr*
 
-§23. Yih ḳhalā pur nah huʾā
+  §23. *Yih ḳhalā pur nah huʾā*
 
-§24. T̤alab ke tale
+  §24. *T̤alab ke tale*
 
-§25. Gumāñ kā mumkin—jo tū hai maiñ hūñ!
+  §25. *Gumāñ kā mumkin—jo tū hai maiñ hūñ!*
 
-§26. Ḥasan kūzah-gar
+  §26. *Ḥasan kūzah-gar*
 
-§27. Ḥasan kūzah-gar (2)
+  §27. *Ḥasan kūzah-gar (2)*
 
-§28. Ḥasan kūzah-gar (3)
+  §28. *Ḥasan kūzah-gar (3)*
 
-§29. Ḥasan kūzah-gar (4)
+  §29. *Ḥasan kūzah-gar (4)*
 
-§30. Mere bhī haiñ kuchh ḳhvāb
+  §30. *Mere bhī haiñ kuchh ḳhvāb*
 
 Notes
 
