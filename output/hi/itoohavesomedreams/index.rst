@@ -16,7 +16,7 @@
   <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ available as an
   excerpt.
 
-  For those of you can understand Urdu or Hindi, you will soon be able to click
+  For those of you who can understand Urdu or Hindi, you will soon be able to click
   the poem title below and use the language selectors in the bar above to view
   the poems in Urdu script, transliteration, and devanagari. The appendix in
   the printed book has the poems in transliteration on the verso (left) side
