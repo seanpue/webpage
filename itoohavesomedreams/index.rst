@@ -6,15 +6,27 @@
 .. description: 
 .. type: text
 
+.. admonition:: Resource Page
 
-Welcome! This is the official resource page for my book. Below you will find the table of contents and also links to the thirty poems in the appendix. University of California Press has made the `Introduction <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ available as an excerpt. 
+  Welcome! This is a resource page for my book, `I Too Have Some Dreams: N. M.
+  Rashed and Modernism in Urdu Poetry (University of California Press, 2014)
+  <http://www.ucpress.edu/book.php?isbn=9780520283107>`_. Below you will find
+  the table of contents and also links to the thirty poems in the appendix. UC
+  Press has made the `Introduction
+  <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ available as an
+  excerpt.
 
-For those of you can understand Urdu or Hindi, you can click the poem title below and use the language selectors in the bar above to view the poems in Urdu script, transliteration, and (soon) devanagari. The appendix in the printed book has the poems in transliteration on the verso (left) side and the transliteration on the recto (right) side. 
+  For those of you can understand Urdu or Hindi, you will soon be able to click
+  the poem title below and use the language selectors in the bar above to view
+  the poems in Urdu script, transliteration, and devanagari. The appendix in
+  the printed book has the poems in transliteration on the verso (left) side
+  and in translation on the recto (right) side.
 
 .. link_figure:: http://www.ucpress.edu/book.php?isbn=9780520283107
       :title: I Too Have Some Dreams: <br/>N. M. Rashed and Modernism in Urdu Poetry
       :class: link-figure
       :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+
 
 
 Acknowledgments
@@ -84,7 +96,7 @@ Appendix: Poems in Transliteration and Translation
 
 §24. T̤alab ke tale
 
-§25. Gumāñ kā mumkin--jo tū hai maiñ hūñ!
+§25. Gumāñ kā mumkin—jo tū hai maiñ hūñ!
 
 §26. Ḥasan kūzah-gar
 
