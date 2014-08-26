@@ -67,7 +67,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/about','About'),
         ('/cv','C.V.'),
+        ('/itoohavesomedreams','I Too Have Some Dreams'),
         ('/archive.html', 'Archives'),
+        
         ('/categories/index.html', 'Tags'),
         #('/rss.xml', 'RSS'),
     ),
@@ -75,12 +77,14 @@ NAVIGATION_LINKS = {
         ('/ur/about','میرے بارے میں'),
         ('/ur/cv','سی وی'),
         ('/ur/archive.html', 'آرکائیو'),
+        ('/ur/itoohavesomedreams','میرے بھی ہیں کچھ خواب'),
         ('/ur/categories/index.html', 'ٹیگز'),
         #('/rss.xml', 'RSS'),
     ),
     'hi': (
         ('/hi/about','मेरे बारे में'),
         ('/hi/cv','सी वी'),
+        ('/hi/itoohavesomedreams','मेरे भी हैं कुछ ख़्वाब'),
         ('/hi/archive.html', 'अार्काइव'),
         ('/hi/categories/index.html', 'टैग्स'),
         #('/rss.xml', 'RSS'),
@@ -132,7 +136,8 @@ POSTS = (
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
     ("cv/index.rst", "", "story.tmpl"),
-    ("resources/*.rst","","story.tmpl")
+    ("resources/*.rst","","story.tmpl"),
+    ("itoohavesomedreams/*.rst","","story.tmpl")
 ## trying to move the CV into a seperate directory
 
 #    ("pages/*.txt", "", "story.tmpl"),

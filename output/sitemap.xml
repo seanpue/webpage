@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://seanpue.com/</loc>
-  <lastmod>2014-08-20</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/2014/</loc>
@@ -18,7 +18,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/archive.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/</loc>
@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.xml</loc>
@@ -34,7 +34,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/art.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/art.xml</loc>
@@ -50,7 +50,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.xml</loc>
@@ -58,7 +58,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/book.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/book.xml</loc>
@@ -66,7 +66,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/css.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/css.xml</loc>
@@ -82,7 +82,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/fp7.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/fp7.xml</loc>
@@ -90,7 +90,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/ghalib.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/ghalib.xml</loc>
@@ -114,7 +114,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi.xml</loc>
@@ -130,7 +130,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/miraji.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/miraji.xml</loc>
@@ -138,7 +138,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/nests.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/nests.xml</loc>
@@ -162,7 +162,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/translation.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/translation.xml</loc>
@@ -170,7 +170,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/urdu.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/urdu.xml</loc>
@@ -178,7 +178,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/word-clouds.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/word-clouds.xml</loc>
@@ -186,7 +186,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/words.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/words.xml</loc>
@@ -194,7 +194,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/zahoor.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/zahoor.xml</loc>
@@ -214,15 +214,15 @@
  </url>
  <url>
   <loc>http://seanpue.com/galleries/i2havesomedreams/rss.xml</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/galleries/rss.xml</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/2014/</loc>
@@ -234,7 +234,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/archive.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/</loc>
@@ -242,7 +242,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.xml</loc>
@@ -250,7 +250,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/art.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/art.xml</loc>
@@ -258,7 +258,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.xml</loc>
@@ -266,7 +266,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/book.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/book.xml</loc>
@@ -274,7 +274,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/css.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/css.xml</loc>
@@ -290,7 +290,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/fp7.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/fp7.xml</loc>
@@ -298,7 +298,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/ghalib.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/ghalib.xml</loc>
@@ -322,7 +322,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi.xml</loc>
@@ -338,7 +338,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/miraji.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/miraji.xml</loc>
@@ -346,7 +346,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/nests.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/nests.xml</loc>
@@ -362,7 +362,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/translation.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/translation.xml</loc>
@@ -370,7 +370,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/urdu.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/urdu.xml</loc>
@@ -378,7 +378,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/word-clouds.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/word-clouds.xml</loc>
@@ -386,7 +386,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/words.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/words.xml</loc>
@@ -394,7 +394,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/zahoor.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/zahoor.xml</loc>
@@ -414,11 +414,19 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/i2havesomedreams/rss.xml</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/rss.xml</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/i-too-have-some-dreams/</loc>
+  <lastmod>2014-08-25</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/</loc>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/added-hindi-and-urdu/</loc>
@@ -453,6 +461,14 @@
   <lastmod>2014-08-07</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/i-too-have-some-dreams/</loc>
+  <lastmod>2014-08-25</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/</loc>
+  <lastmod>2014-08-25</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/posts/added-hindi-and-urdu/</loc>
   <lastmod>2014-08-07</lastmod>
  </url>
@@ -478,7 +494,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/posts/word-clouds-in-hindi-and-urdu/</loc>
-  <lastmod>2014-08-20</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/rss.xml</loc>
@@ -486,7 +502,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/2014/</loc>
@@ -498,7 +514,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/archive.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/</loc>
@@ -506,7 +522,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.xml</loc>
@@ -514,7 +530,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/art.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/art.xml</loc>
@@ -522,7 +538,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.xml</loc>
@@ -530,7 +546,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/book.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/book.xml</loc>
@@ -538,7 +554,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/css.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/css.xml</loc>
@@ -554,7 +570,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/fp7.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/fp7.xml</loc>
@@ -562,7 +578,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/ghalib.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/ghalib.xml</loc>
@@ -586,7 +602,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi.xml</loc>
@@ -602,7 +618,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/miraji.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/miraji.xml</loc>
@@ -610,7 +626,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/nests.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/nests.xml</loc>
@@ -626,7 +642,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/translation.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/translation.xml</loc>
@@ -634,7 +650,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/urdu.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/urdu.xml</loc>
@@ -642,7 +658,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/word-clouds.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/word-clouds.xml</loc>
@@ -650,7 +666,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/words.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/words.xml</loc>
@@ -658,7 +674,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/zahoor.html</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/zahoor.xml</loc>
@@ -678,11 +694,19 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/i2havesomedreams/rss.xml</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/rss.xml</loc>
-  <lastmod>2014-08-07</lastmod>
+  <lastmod>2014-08-25</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/i-too-have-some-dreams/</loc>
+  <lastmod>2014-08-25</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/</loc>
+  <lastmod>2014-08-25</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/added-hindi-and-urdu/</loc>
