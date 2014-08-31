@@ -3,3 +3,4 @@ cache/*
 *.swp
 .DS_Store
 .doit.db
+xmlrpcsettings.py

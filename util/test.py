@@ -1,0 +1,2 @@
+import xmlrpcsettings
+print xmlrpcsettings.ursite

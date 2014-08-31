@@ -5,7 +5,13 @@
 .. link: 
 .. description: 
 .. type: text
+  
 
+.. link_figure:: http://www.ucpress.edu/book.php?isbn=9780520283107
+      :title: I Too Have Some Dreams
+      :class: link-figure
+      :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+      
 My book, `I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry <http://www.ucpress.edu/book.php?isbn=9780520283107>`_, has just been published!
 
 I have created a resource page for it here, `http://seanpue.com/itoohavesomedreams <http://seanpue.com/itoohavesomedreams>`_. On that page, I will make the thirty poems in the book’s appendix available in transliteration, Urdu script, and (eventually) devanagari for those of you want to read along. 
