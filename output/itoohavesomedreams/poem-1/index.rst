@@ -1,4 +1,4 @@
-.. title: Poem 1
+.. title: Hasan kuzagar
 .. slug: itoohavesomedreams/poem-1
 .. date: 2014/08/25 22:53:39
 .. tags: 
