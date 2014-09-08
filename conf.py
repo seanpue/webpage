@@ -61,6 +61,9 @@ TRANSLATIONS = {
   #  "es": "./es",
 }
 
+TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}" # new with version 7
+
+
 # Links for the sidebar / navigation bar.
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
