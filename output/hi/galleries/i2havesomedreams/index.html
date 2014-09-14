@@ -9,7 +9,35 @@
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (ur)" href="../../../ur/rss.xml">
 <link rel="canonical" href="http://seanpue.com/hi/galleries/i2havesomedreams/">
-<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><style type="text/css">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><style>
+/* This one does not seem to load (too big?)
+
+@font-face {
+    font-family: "Jameel";
+    src: local("Jameel Noori Nastaleeq"), url("../../../files/Jameel Noori Nastaleeq.ttf") format("opentype");
+}
+*/
+/* This has problems with tashdeed
+@font-face {
+    font-family: "Fajer";
+    src: local("Fajer Noori Nastalique"), url("../../../files/Fajer-Noori-Nastalique.ttf") format("opentype");
+}
+*/
+/* testing this one... looks like it may work */
+
+@font-face {
+    font-family: "UrdType";
+    src: local("Urdu Typesetting"), url("../../../files/UrdType.ttf") format("opentype");
+}
+
+html[lang="ur"] body {
+    font-family: "Jameel Noori Nastaleeq", UrdType;
+    font-size: 24px;
+    font-stretch: normal;
+}
+
+</style>
+<style type="text/css">
     .image-block {
         display: inline-block;
     }

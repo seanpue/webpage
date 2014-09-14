@@ -630,7 +630,36 @@ SOCIAL_BUTTONS_CODE=""
 # </script>
 # """
 
-# EXTRA_HEAD_DATA = """
+EXTRA_HEAD_DATA = """
+<style>
+/* This one does not seem to load (too big?)
+
+@font-face {
+    font-family: "Jameel";
+    src: local("Jameel Noori Nastaleeq"), url("/files/Jameel Noori Nastaleeq.ttf") format("opentype");
+}
+*/
+/* This has problems with tashdeed
+@font-face {
+    font-family: "Fajer";
+    src: local("Fajer Noori Nastalique"), url("/files/Fajer-Noori-Nastalique.ttf") format("opentype");
+}
+*/
+/* testing this one... looks like it may work */
+
+@font-face {
+    font-family: "UrdType";
+    src: local("Urdu Typesetting"), url("/files/UrdType.ttf") format("opentype");
+}
+
+html[lang="ur"] body {
+    font-family: "Jameel Noori Nastaleeq", UrdType;
+    font-size: 24px;
+    font-stretch: normal;
+}
+
+</style>
+"""
 # <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
 # <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
 # """

@@ -16,10 +16,10 @@
   <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ available as an
   excerpt.
 
-  For those of you who can understand Urdu or Hindi, you will soon be able to click
-  the poem title below and use the language selectors in the bar above to view
-  the poems in Urdu script, transliteration, and devanagari. The appendix in
-  the printed book has the poems in transliteration on the verso (left) side
+  For those of you who can understand Urdu or Hindi, you will soon be able to
+  click the poem title below and use the language selectors in the bar above to
+  view the poems in Urdu script, transliteration, and devanagari. The appendix
+  in the printed book has the poems in transliteration on the verso (left) side
   and in translation on the recto (right) side.
 
 .. link_figure:: http://www.ucpress.edu/book.php?isbn=9780520283107
@@ -48,66 +48,68 @@ Conclusion: Hasan the Potter
 
 Appendix: Poems in Transliteration and Translation
 
-  §1. *Bādal (sāneṭ)*
+  §1. `Bādal (sāneṭ) <poem_1/>`_
 
-  §2. *Ek din—lārins bāġh meñ (ek kaifiyat)*
+  §2. `Ek din—lārins bāġh meñ (ek kaifiyat) <poem_2/>`_
 
-  §3. *Sitāre (sāneṭ)*
+  §3. `Sitāre (sāneṭ) <poem_3/>`_
 
-  §4. *Vādī-e pinhāñ*
+  §4. `Vādī-e pinhāñ <poem_4/>`_
 
-  §5. *Gunāh aur muḥabbat*
+  §5. `Gunāh aur muḥabbat <poem_5/>`_
 
-  §6. *Mukāfāt*
+  §6. `Mukāfāt <poem_6/>`_
 
-  §7. *Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)*
+  §7. `Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz) <poem_7/>`_
 
-  §8. *Ittifāqāt*
+  §8. `Ittifāqāt <poem_8/>`_
 
-  §9. *Shāʿir-e dar-māñdah*
+  §9. `Shāʿir-e dar-māñdah <poem_9/>`_
 
-  §10. *Intiqām*
+  §10. `Intiqām <poem_10/>`_
 
-  §11. *Hamah ūst*
+  §11. `Hamah ūst <poem_11/>`_
 
-  §12. *Tel ke saudāgar*
+  §12. `Tel ke saudāgar <poem_12/>`_
 
-  §13. *Mann-o-salvâ*
+  §13. `Mann-o-salvâ <poem_13/>`_
 
-  §14. *Tamāshāgah-e lālah-zār*
+  §14. `Tamāshāgah-e lālah-zār <poem_14/>`_
 
-  §15. *Namrūd kī ḳhudāʾī*
+  §15. `Namrūd kī ḳhudāʾī <poem_15/>`_
 
-  §16. *Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)*
+  §16. `Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā) <poem_16/>`_
 
-  §17. *Zindagī se ḍarte ho?*
+  §17. `Zindagī se ḍarte ho? <poem_17/>`_
 
-  §18. *Dil, mire ṣaḥrā-navard-e pīr dil*
+  §18. `Dil, mire ṣaḥrā-navard-e pīr dil <poem_18/>`_
 
-  §19. *Ek aur shahr*
+  §19. `Ek aur shahr <poem_19/>`_
 
-  §20. *Reg-e dīrūz*
+  §20. `Reg-e dīrūz <poem_20/>`_
 
-  §21. *Zamānah ḳhudā hai*
+  §21. `Zamānah ḳhudā hai <poem_21/>`_
 
-  §22. *Afsānah-e shahr*
+  §22. `Afsānah-e shahr <poem_22/>`_
 
-  §23. *Yih ḳhalā pur nah huʾā*
+  §23. `Yih ḳhalā pur nah huʾā <poem_23/>`_
 
-  §24. *T̤alab ke tale*
+  §24. `T̤alab ke tale <poem_24/>`_
 
-  §25. *Gumāñ kā mumkin—jo tū hai maiñ hūñ!*
+  §25. `Gumāñ kā mumkin—jo tū hai maiñ hūñ! <poem_25/>`_
 
-  §26. *Ḥasan kūzah-gar*
+  §26. `Ḥasan kūzah-gar <poem_26/>`_
 
-  §27. *Ḥasan kūzah-gar (2)*
+  §27. `Ḥasan kūzah-gar (2) <poem_27/>`_
 
-  §28. *Ḥasan kūzah-gar (3)*
+  §28. `Ḥasan kūzah gar (3) <poem_28/>`_
 
-  §29. *Ḥasan kūzah-gar (4)*
+  §29. `Ḥasan kūzah-gar (4) <poem_29/>`_
 
-  §30. *Mere bhī haiñ kuchh ḳhvāb*
-
+  §30. `Mere bhī haiñ kuchh ḳhvāb <poem_30/>`_
+  
+.. include:: itoohavesomedreams/inclusion.txt
+ 
 Notes
 
 Bibliography

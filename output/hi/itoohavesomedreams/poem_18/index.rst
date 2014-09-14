@@ -1,6 +1,6 @@
 .. title: §18. Dil, mire ṣaḥrā-navard-e pīr dil
 .. slug: itoohavesomedreams/poem_18
-.. date: 2014-09-07 15:37:35 UTC
+.. date: 2014-09-13 17:08:13 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Dil, mire ṣaḥrā-navard-e pīr dil"
