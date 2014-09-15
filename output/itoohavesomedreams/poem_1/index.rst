@@ -1,6 +1,6 @@
 .. title: §1. Bādal (sāneṭ)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2014-09-15 02:46:33 UTC
+.. date: 2014-09-15 23:21:20 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Bādal (sāneṭ)"
@@ -23,3 +23,23 @@
 | mere liye javān hai yih kāʾināt phir
 | shādāb kar diyā hai dil un ke sarod ne!
 
+
+|right arrow link|_
+
+
+
+.. |right arrow link| replace::  §2. Ek din—lārins bāġh meñ (ek kaifiyat) :emoji:`arrow_right` 
+.. _right arrow link: /itoohavesomedreams/poem_2
+
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
+
+  A translation of this Urdu poem by N. M. Rashed as well as this transliteration appears in the
+  appendix of *I Too Have Some Dreams*. Then transliteration is intended for
+  people who can understand Urdu/Hindi or related languages. I hope to soon 
+  add performances of these poems as well. 
+  
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        

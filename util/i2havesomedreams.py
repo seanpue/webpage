@@ -38,12 +38,12 @@ def clean_trans(s):
     s = s.replace('--',u'—')
     s = s.replace(' -o- ','-o-')
     s = s.replace('\t','    ')# -o- ','-o-')
-    return s
+    return u''+s
 
 def cap_trans(s):
     if s[0]==u'ḥ':
         s=u'Ḥ'+s[1:]
-    return s
+    return u''+s
 
 # <codecell>
 
@@ -74,10 +74,6 @@ utc_datetime.strftime("%Y-%m-%d %H:%M:%S")+" UTC"
 
 # <codecell>
 
-inbook[0]['field_text_urdu']['und'][0]['value']
-
-# <codecell>
-
 import datetime
 import os
 import codecs
@@ -101,35 +97,65 @@ def generate_rst(n,poem_id,nodes):
 
     '''
 #    n=inbook[25]
-
-    text_trans=clean_trans(n['field_text_transliterated']['und'][0]['value'])
+    def get_title_trans(n):
+        return u''+cap_trans(clean_trans(n['field_title_transliterated']['und'][0]['value']))
+    text_trans = clean_trans(n['field_text_transliterated']['und'][0]['value'])
+    
     text_trans_lines = text_trans.split('\n')
     text_trans_lines = ['| '+s for s in text_trans_lines]
-    trans_title = cap_trans(clean_trans(n['field_title_transliterated']['und'][0]['value']))
+    trans_title = get_title_trans(n)
     text_transliterated_rst = '\n'.join(text_trans_lines)
     
-    
+    admonition = """
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
+
+  A translation of this Urdu poem by N. M. Rashed as well as this transliteration appears in the
+  appendix of *I Too Have Some Dreams*. Then transliteration is intended for
+  people who can understand Urdu/Hindi or related languages. I hope to soon 
+  add performances of these poems as well. 
+  
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        
+"""
+
     utc_datetime = datetime.datetime.utcnow()
     slug = 'itoohavesomedreams/poem_'+str(poem_id)    
     time_string = utc_datetime.strftime("%Y-%m-%d %H:%M:%S")+" UTC"
     
-    rst_text = '.. title: %s\n'       % (u'§'+str(poem_id)+'. '+trans_title)
-    rst_text+= '.. slug: %s\n'        % slug
+    rst_text = u'.. title: %s\n'       % (u'§'+str(poem_id)+'. '+trans_title)
+    rst_text+= u'.. slug: %s\n'        % slug
     
-    rst_text+= '.. date: %s\n'        % time_string
-    rst_text+= '.. tags: %s\n'        % 'poem itoohavesomedreams rashid'
-    rst_text+= '.. link: %s\n'        % '' # what is this?
-    rst_text+= '.. description: %s\n' % ('transliterated version of "'+trans_title+'"')
-    rst_text+= '.. type: text'+'\n'
-    rst_text+= '\n'
+    rst_text+= u'.. date: %s\n'        % time_string
+    rst_text+= u'.. tags: %s\n'        % 'poem itoohavesomedreams rashid'
+    rst_text+= u'.. link: %s\n'        % '' # what is this?
+    rst_text+= u'.. description: %s\n' % ('transliterated version of "'+trans_title+'"')
+    rst_text+= u'.. type: text'+'\n'
+    rst_text+= u'\n'
     rst_text+= u'\n\n'    
     rst_text+= text_transliterated_rst
     rst_text+= u'\n\n'
+    add_later=u''
     if poem_id>1:
-        rst_text+='|left arrow link|_\n\n'
-        rst_text+=".. |left arrow link| replace:: :emoji:`arrow_left`\n"
-        rst_text+='.. _left arrow link: /itoohavesomedreams/poem_'+str(poem_id-1)+'\n'
-        
+        rst_text+=u'|left arrow link|_\n'
+        next_poem = nodes[poem_id-2]
+        prev_title = get_title_trans(nodes[poem_id-2])
+        add_later+=u"\n.. |left arrow link| replace:: :emoji:`arrow_left` §{poem_id}. {poem_title} ".format(
+            poem_id=poem_id-1,
+            poem_title=prev_title#u''+get_title_trans(nodes[poem_id-2]) # could adjust -1 in def
+        )
+        add_later+='\n.. _left arrow link: /itoohavesomedreams/poem_{poem_id}\n'.format(poem_id=poem_id-1)
+    if poem_id<len(nodes):
+        rst_text+='\n|right arrow link|_\n'
+        add_later+=u"\n.. |right arrow link| replace::  §{poem_id}. {poem_title} :emoji:`arrow_right` ".format(
+            poem_id=poem_id+1,
+            poem_title=get_title_trans(nodes[poem_id])#prev_title#u''+get_title_trans(nodes[poem_id-2]) # could adjust -1 in def
+        )
+
+        add_later+='\n.. _right arrow link: /itoohavesomedreams/poem_'+str(poem_id+1)+'\n'
+    rst_text+='\n\n'+add_later+admonition;
 #    rst_text+= u'\n\n\u2403\n'#\u2403
 #    print rst_text
 
@@ -139,7 +165,7 @@ def generate_rst(n,poem_id,nodes):
         f.write(rst_text)
 
         
-def generate_ur_rst(n,poem_id): 
+def generate_ur_rst(n,poem_id,nodes): 
     '''
     generates RestructuredText string from Drupal node
     n = drupal node
@@ -157,31 +183,71 @@ def generate_ur_rst(n,poem_id):
 
     '''
 #    n=inbook[25]
-
+    def get_ur_title(n):
+        return n['field_title_urdu']['und'][0]['value']
     text_ur =n['field_text_urdu']['und'][0]['value']
     text_ur_lines = text_ur.split('\n')
     text_ur_lines = ['| '+s for s in text_ur_lines]
     text_ur_rst = '\n'.join(text_ur_lines)
     trans_title = cap_trans(clean_trans(n['field_title_transliterated']['und'][0]['value']))    
-    ur_title = n['field_title_urdu']['und'][0]['value']
+    ur_title = get_ur_title(n)#n['field_title_urdu']['und'][0]['value']
     utc_datetime = datetime.datetime.utcnow()
     slug = 'itoohavesomedreams/poem_'+str(poem_id)    
     time_string = utc_datetime.strftime("%Y-%m-%d %H:%M:%S")+" UTC"
     
-    rst_text = '.. title: %s\n'       % (u'§'+str(poem_id)+u'ـ '+ur_title)
-    rst_text+= '.. slug: %s\n'        % slug
+    rst_text = u'.. title: %s\n'       % (u'§'+str(poem_id)+u'ـ '+ur_title)
+    rst_text+= u'.. slug: %s\n'        % slug
     
-    rst_text+= '.. date: %s\n'        % time_string
-    rst_text+= '.. tags: %s\n'        % 'poem itoohavesomedreams rashid'
-    rst_text+= '.. link: %s\n'        % '' # what is this?
-    rst_text+= '.. description: %s\n' % ('Urdu version of "'+trans_title+'"')
-    rst_text+= '.. type: text'+'\n'
-    rst_text+= '\n'
+    rst_text+= u'.. date: %s\n'        % time_string
+    rst_text+= u'.. tags: %s\n'        % 'poem itoohavesomedreams rashid'
+    rst_text+= u'.. link: %s\n'        % '' # what is this?
+    rst_text+= u'.. description: %s\n' % ('Urdu version of "'+trans_title+'"')
+    rst_text+= u'.. type: text'+'\n'
+    rst_text+= u'\n'
     rst_text+= u'\n\n'    
-    rst_text+= text_ur_rst
-    rst_text+= u'\n\n\u2403\n'#\u2403
+    rst_text+= text_ur_rst+'\n\n'
+#    rst_text+= u'\n\n\u2403\n'#\u2403
  #   print rst_text
+    add_later=u''
+    admonition=u"""
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 
+  یہ ن م راشد کی نظم ہے ـ اس کا انگریزی ترجمہ اور ٹرانزلٹریشن میری کتاب
+  کے ضمیمہ میں مل سکتا ہےـ اردو
+  پڑھنے والوں کے لئے یہ پیج پیش کیا گیا ہےـ نستعلیق میں
+  دکھانے کے لئے 
+  `جمیل نوری نستعلیق فانٹ`_  انسٹال کیجئے.
+
+
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        
+.. _جمیل نوری نستعلیق فانٹ: http://ur.lmgtfy.com/?q=Jameel+Noori+nastaleeq
+ 
+
+"""
+    if poem_id>1:
+      rst_text+=u'\n|right arrow link|_\n'
+      next_poem = nodes[poem_id-2]
+      prev_title = get_ur_title(nodes[poem_id-2])
+      add_later+=u"\n.. |right arrow link| replace:: :emoji:`arrow_right` §{poem_id}. {poem_title}  ".format(
+          poem_id=poem_id-1,
+          poem_title=prev_title#u''+get_title_trans(nodes[poem_id-2]) # could adjust -1 in def
+      )
+      add_later+=u'\n.. _right arrow link: /itoohavesomedreams/poem_{poem_id}\n'.format(poem_id=poem_id-1)
+    if poem_id<len(nodes):
+      rst_text+=u'\n|left arrow link|_\n'
+      add_later+=u"\n.. |left arrow link| replace::   §{poem_id}. {poem_title} :emoji:`arrow_left` ".format(
+          poem_id=poem_id+1,
+          poem_title=get_ur_title(nodes[poem_id])#prev_title#u''+get_title_trans(nodes[poem_id-2]) # could adjust -1 in def
+      )
+      add_later+=u'\n.. _left arrow link: /itoohavesomedreams/poem_'+str(poem_id+1)+'\n'
+  
+    rst_text+='\n\n'+add_later+admonition;
+    
+        
     assert os.path.isdir('../itoohavesomedreams')
     filename_en = '../'+slug+'.ur'+'.rst' # format is : title.languageid.rst
     
@@ -196,7 +262,7 @@ def generate_ur_rst(n,poem_id):
 
 def index_link(n,n_id):
     trans_title = cap_trans(clean_trans(n['field_title_transliterated']['und'][0]['value']))
-    print u'  §'+str(n_id)+u'. `'+trans_title+u' <poem_'+str(n_id)+u'/>'+'`_'+'\n'
+    print u'  `§'+str(n_id)+u'. '+trans_title+u' <poem_'+str(n_id)+u'/>'+'`_'+'\n'
 
 
 # <codecell>
@@ -205,16 +271,9 @@ def index_link(n,n_id):
 
 for n_id, n in enumerate(inbook):
     generate_rst(n,n_id+1,inbook)
-    generate_ur_rst(n,n_id+1)#,inbook)
+    generate_ur_rst(n,n_id+1,inbook)#,inbook)
     index_link(n,n_id+1)
     
-
-# <codecell>
-
-
-# <codecell>
-
-(u'§'+str(poem_id)+u'ـ '+ur_title)
 
 # <codecell>
 

@@ -1,9 +1,9 @@
-.. title: §27ـ حسن کوزہ گر ()
+.. title: §27ـ حسن کوزہ گر ٢
 .. slug: itoohavesomedreams/poem_27
-.. date: 2014-09-15 02:46:33 UTC
+.. date: 2014-09-15 23:21:20 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Ḥasan kūzah-gar (2)"
+.. description: Urdu version of "Ḥasan kūzah-gar 2"
 .. type: text
 
 
@@ -117,4 +117,33 @@
 | 	ہر اک فن کے پرستار کا
 | 		آئینہ ہے
 
-␃
+
+|right arrow link|_
+
+|left arrow link|_
+
+
+
+.. |right arrow link| replace:: :emoji:`arrow_right` §26. حسن کوزہ گر  
+.. _right arrow link: /itoohavesomedreams/poem_26
+
+.. |left arrow link| replace::   §28. حسن کوزہ گر ٣ :emoji:`arrow_left` 
+.. _left arrow link: /itoohavesomedreams/poem_28
+
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
+
+  یہ ن م راشد کی نظم ہے ـ اس کا انگریزی ترجمہ اور ٹرانزلٹریشن میری کتاب
+  کے ضمیمہ میں مل سکتا ہےـ اردو
+  پڑھنے والوں کے لئے یہ پیج پیش کیا گیا ہےـ نستعلیق میں
+  دکھانے کے لئے 
+  `جمیل نوری نستعلیق فانٹ`_  انسٹال کیجئے.
+
+
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        
+.. _جمیل نوری نستعلیق فانٹ: http://ur.lmgtfy.com/?q=Jameel+Noori+nastaleeq
+ 
+

@@ -1,6 +1,6 @@
 .. title: §5ـ گناہ اور محبّت
 .. slug: itoohavesomedreams/poem_5
-.. date: 2014-09-15 02:46:33 UTC
+.. date: 2014-09-15 23:21:20 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Gunāh aur muḥabbat"
@@ -38,4 +38,33 @@
 | مجھے محبّت نے معصیت کے جہنّموں سے بچا لیا ہے
 | مجھے جوانی کی تیرہ و تار پستیوں سے اٹھا لیا ہے
 
-␃
+
+|right arrow link|_
+
+|left arrow link|_
+
+
+
+.. |right arrow link| replace:: :emoji:`arrow_right` §4. وادیِ پنہاں  
+.. _right arrow link: /itoohavesomedreams/poem_4
+
+.. |left arrow link| replace::   §6. مکافات :emoji:`arrow_left` 
+.. _left arrow link: /itoohavesomedreams/poem_6
+
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
+
+  یہ ن م راشد کی نظم ہے ـ اس کا انگریزی ترجمہ اور ٹرانزلٹریشن میری کتاب
+  کے ضمیمہ میں مل سکتا ہےـ اردو
+  پڑھنے والوں کے لئے یہ پیج پیش کیا گیا ہےـ نستعلیق میں
+  دکھانے کے لئے 
+  `جمیل نوری نستعلیق فانٹ`_  انسٹال کیجئے.
+
+
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        
+.. _جمیل نوری نستعلیق فانٹ: http://ur.lmgtfy.com/?q=Jameel+Noori+nastaleeq
+ 
+

@@ -1,6 +1,6 @@
 .. title: §8ـ اتّفاقات
 .. slug: itoohavesomedreams/poem_8
-.. date: 2014-09-15 02:46:33 UTC
+.. date: 2014-09-15 23:21:20 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ittifāqāt"
@@ -46,4 +46,33 @@
 | شبنمی گھاس پہ دو پیکرِ یخ بستہ ملیں،
 | اور خدا ہو تو پشیماں ہو جائے!
 
-␃
+
+|right arrow link|_
+
+|left arrow link|_
+
+
+
+.. |right arrow link| replace:: :emoji:`arrow_right` §7. حزنِ انسان (افلاطونی عشق پر ایک طنز)  
+.. _right arrow link: /itoohavesomedreams/poem_7
+
+.. |left arrow link| replace::   §9. شاعرِ در ماندہ :emoji:`arrow_left` 
+.. _left arrow link: /itoohavesomedreams/poem_9
+
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
+
+  یہ ن م راشد کی نظم ہے ـ اس کا انگریزی ترجمہ اور ٹرانزلٹریشن میری کتاب
+  کے ضمیمہ میں مل سکتا ہےـ اردو
+  پڑھنے والوں کے لئے یہ پیج پیش کیا گیا ہےـ نستعلیق میں
+  دکھانے کے لئے 
+  `جمیل نوری نستعلیق فانٹ`_  انسٹال کیجئے.
+
+
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        
+.. _جمیل نوری نستعلیق فانٹ: http://ur.lmgtfy.com/?q=Jameel+Noori+nastaleeq
+ 
+

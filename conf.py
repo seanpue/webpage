@@ -375,12 +375,15 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
 
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}<br/><div data-social-share-privacy="true"></div>'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year,
                                        license=LICENSE)
-CONTENT_FOOTER += '''<!-- AddThis Button BEGIN -->
+
+CONTENT_FOOTER += ''
+
+''''<!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style " style="display:inline">
 <a class="addthis_button_preferred_1"></a>
 <a class="addthis_button_preferred_2"></a>
@@ -519,7 +522,7 @@ DEPLOY_DRAFTS = False
 #        data-color-scheme="black" data-icon-size="32" data-panel-bottom="plain"
 #        data-services="plus.google.com,facebook.com,digg.com,email,delicious.com,twitter.com"
 #        style="float:left"></div>"""
-SOCIAL_BUTTONS_CODE = """
+"""
 <!-- AddThis Smart Layers BEGIN -->
 <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52e16acc1b9a7a65"></script>
@@ -538,6 +541,7 @@ SOCIAL_BUTTONS_CODE = """
   });
 </script>
 <!-- AddThis Smart Layers END -->"""
+
 SOCIAL_BUTTONS_CODE=""
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
@@ -616,6 +620,11 @@ SOCIAL_BUTTONS_CODE=""
 #added from 
 #BODY_END = """<script src="http://graingert.co.uk/shareNice/code.js"
 #    type="text/javascript"></script>"""
+BODY_END = """
+<script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script>
+<script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script>
+<script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
+"""
 
 # <script type="text/javascript" src="/assets/js/tipuesearch_set.js"></script>
 # <script type="text/javascript" src="/assets/js/tipuesearch.js"></script>
@@ -632,6 +641,7 @@ SOCIAL_BUTTONS_CODE=""
 
 EXTRA_HEAD_DATA = """
 <style>
+
 /* This one does not seem to load (too big?)
 
 @font-face {
@@ -657,7 +667,10 @@ html[lang="ur"] body {
     font-size: 24px;
     font-stretch: normal;
 }
-
+.emoji {
+    height: 1.4em;
+    vertical-align: text-bottom;
+}
 </style>
 """
 # <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
@@ -679,7 +692,13 @@ html[lang="ur"] body {
 # EXTRA_HEAD_DATA = ""
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-BODY_END = """<script>
+BODY_END = """
+
+<script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script>
+<script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"shortname":"seanpue"}}}</script>
+<script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
+
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

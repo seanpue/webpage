@@ -1,6 +1,6 @@
 .. title: §17ـ زندگی سے ڈرتے ہو؟
 .. slug: itoohavesomedreams/poem_17
-.. date: 2014-09-15 02:46:33 UTC
+.. date: 2014-09-15 23:21:20 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Zindagī se ḍarte ho?"
@@ -48,4 +48,33 @@
 | ہاں، ابھی تو تم بھی ہو، ہاں، ابھی تو ہم بھی ہیں،
 | تم ابھی سے ڈرتے ہو!
 
-␃
+
+|right arrow link|_
+
+|left arrow link|_
+
+
+
+.. |right arrow link| replace:: :emoji:`arrow_right` §16. وہ حرفِ تنہا (جسے تمنّائے وصلِ معنا)  
+.. _right arrow link: /itoohavesomedreams/poem_16
+
+.. |left arrow link| replace::   §18. دل، مرے صحرا نوردِ پیر دل :emoji:`arrow_left` 
+.. _left arrow link: /itoohavesomedreams/poem_18
+
+.. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
+
+  یہ ن م راشد کی نظم ہے ـ اس کا انگریزی ترجمہ اور ٹرانزلٹریشن میری کتاب
+  کے ضمیمہ میں مل سکتا ہےـ اردو
+  پڑھنے والوں کے لئے یہ پیج پیش کیا گیا ہےـ نستعلیق میں
+  دکھانے کے لئے 
+  `جمیل نوری نستعلیق فانٹ`_  انسٹال کیجئے.
+
+
+  .. link_figure:: /itoohavesomedreams/
+        :title: I Too Have Some Dreams Resource Page
+        :class: link-figure
+        :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+        
+.. _جمیل نوری نستعلیق فانٹ: http://ur.lmgtfy.com/?q=Jameel+Noori+nastaleeq
+ 
+
