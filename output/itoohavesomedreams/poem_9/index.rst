@@ -1,6 +1,6 @@
 .. title: §9. Shāʿir-e dar-māñdah
 .. slug: itoohavesomedreams/poem_9
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Shāʿir-e dar-māñdah"
@@ -37,4 +37,7 @@
 | aur jis ʿahd kī hai tujh ko duʿāʾoñ meñ talāsh
 | āp hī āp huvaidā ho jāʾe!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_8

@@ -1,6 +1,6 @@
 .. title: §30. Mere bhī haiñ kuchh ḳhvāb
 .. slug: itoohavesomedreams/poem_30
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Mere bhī haiñ kuchh ḳhvāb"
@@ -83,4 +83,7 @@
 |     mere bhī haiñ kuchh ḳhvāb
 |     mere bhī haiñ kuchh ḳhvāb!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_29

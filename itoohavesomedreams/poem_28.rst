@@ -1,6 +1,6 @@
 .. title: §28. Ḥasan kūzah gar (3)
 .. slug: itoohavesomedreams/poem_28
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥasan kūzah gar (3)"
@@ -107,4 +107,7 @@
 | vuh phir se ek raqṣ-e be-zamāñ bane
 |             vuh royat-e azal bane!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_27

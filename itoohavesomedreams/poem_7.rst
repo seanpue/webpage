@@ -1,6 +1,6 @@
 .. title: §7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)
 .. slug: itoohavesomedreams/poem_7
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"
@@ -38,4 +38,7 @@
 | muskarā de kih hai tābindah abhī terā shabāb
 | hai yihī ḥaẓrat-e yazdāñ ke tamasḳhur kā javāb!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_6

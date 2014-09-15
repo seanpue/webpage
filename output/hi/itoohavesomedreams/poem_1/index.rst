@@ -1,6 +1,6 @@
 .. title: §1. Bādal (sāneṭ)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Bādal (sāneṭ)"
@@ -23,4 +23,3 @@
 | mere liye javān hai yih kāʾināt phir
 | shādāb kar diyā hai dil un ke sarod ne!
 
-␃

@@ -1,6 +1,6 @@
 .. title: §8. Ittifāqāt
 .. slug: itoohavesomedreams/poem_8
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ittifāqāt"
@@ -46,4 +46,7 @@
 | shab-namī ghās pah do paikar-e yaḳh-bastah mileñ,
 | aur ḳhudā ho to pashemāñ ho jāʾe!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_7

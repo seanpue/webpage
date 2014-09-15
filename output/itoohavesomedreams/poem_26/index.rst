@@ -1,6 +1,6 @@
 .. title: §26. Ḥasan kūzah-gar
 .. slug: itoohavesomedreams/poem_26
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥasan kūzah-gar"
@@ -107,4 +107,7 @@
 | se phir vuh sharāre nikālūñ kih jin se
 | diloñ ke ḳharābe hoñ roshan!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_25

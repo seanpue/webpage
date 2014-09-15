@@ -1,6 +1,6 @@
 .. title: §14ـ تماشاگہِ لالہ زار
 .. slug: itoohavesomedreams/poem_14
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Tamāshāgah-e lālah-zār"

@@ -1,6 +1,6 @@
 .. title: §16ـ وہ حرفِ تنہا (جسے تمنّائے وصلِ معنا)
 .. slug: itoohavesomedreams/poem_16
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)"

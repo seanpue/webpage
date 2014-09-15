@@ -1,6 +1,6 @@
 .. title: §17. Zindagī se ḍarte ho?
 .. slug: itoohavesomedreams/poem_17
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Zindagī se ḍarte ho?"
@@ -48,4 +48,7 @@
 | hāñ, abhī to tum bhī ho, hāñ, abhī to ham bhī haiñ,
 | tum abhī se ḍarte ho!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_16

@@ -1,6 +1,6 @@
 .. title: §19. Ek aur shahr
 .. slug: itoohavesomedreams/poem_19
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ek aur shahr"
@@ -28,4 +28,7 @@
 | kyā phir in kī kamīñ meñ vaqt ke t̤ūfāñ kī ik lahr?
 |     kyā sab vīrānī ke dil-band?
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_18

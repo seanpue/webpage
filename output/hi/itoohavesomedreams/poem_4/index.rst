@@ -1,6 +1,6 @@
 .. title: §4. Vādī-e pinhāñ
 .. slug: itoohavesomedreams/poem_4
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Vādī-e pinhāñ"
@@ -39,4 +39,7 @@
 | jis jagah ahrīmanoñ kā bhī nahīñ kuchh iḳhtiyār
 | mashriq-o-maġhrib ke pār!
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_3

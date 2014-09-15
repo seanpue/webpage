@@ -1,6 +1,6 @@
 .. title: §11. Hamah ūst
 .. slug: itoohavesomedreams/poem_11
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Hamah ūst"
@@ -109,4 +109,7 @@
 | vuh to sākit thā, jāmid thā!
 | rūsī adīboñ kī sar-chashmah-gāhoñ kī us ko ḳhabar ho gaʾī thī?
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_10

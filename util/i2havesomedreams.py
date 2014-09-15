@@ -83,7 +83,7 @@ import os
 import codecs
 
 
-def generate_rst(n,poem_id): 
+def generate_rst(n,poem_id,nodes): 
     '''
     generates RestructuredText string from Drupal node
     n = drupal node
@@ -124,7 +124,13 @@ def generate_rst(n,poem_id):
     rst_text+= '\n'
     rst_text+= u'\n\n'    
     rst_text+= text_transliterated_rst
-    rst_text+= u'\n\n\u2403\n'#\u2403
+    rst_text+= u'\n\n'
+    if poem_id>1:
+        rst_text+='|left arrow link|_\n\n'
+        rst_text+=".. |left arrow link| replace:: :emoji:`arrow_left`\n"
+        rst_text+='.. _left arrow link: /itoohavesomedreams/poem_'+str(poem_id-1)+'\n'
+        
+#    rst_text+= u'\n\n\u2403\n'#\u2403
 #    print rst_text
 
     assert os.path.isdir('../itoohavesomedreams')
@@ -198,8 +204,8 @@ def index_link(n,n_id):
 
 
 for n_id, n in enumerate(inbook):
-    generate_rst(n,n_id+1)
-    generate_ur_rst(n,n_id+1)
+    generate_rst(n,n_id+1,inbook)
+    generate_ur_rst(n,n_id+1)#,inbook)
     index_link(n,n_id+1)
     
 

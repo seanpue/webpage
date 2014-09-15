@@ -1,6 +1,6 @@
 .. title: §24. T̤alab ke tale
 .. slug: itoohavesomedreams/poem_24
-.. date: 2014-09-13 17:08:13 UTC
+.. date: 2014-09-15 02:46:33 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "T̤alab ke tale"
@@ -42,4 +42,7 @@
 | jo bāt̤in ke ṭūṭe darīchoñ ke pīchhe
 | sharārat se hañstā chalā jā rahā hai—
 
-␃
+|left arrow link|_
+
+.. |left arrow link| replace:: :emoji:`arrow_left`
+.. _left arrow link: /itoohavesomedreams/poem_23
