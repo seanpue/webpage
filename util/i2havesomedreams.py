@@ -110,7 +110,7 @@ def generate_rst(n,poem_id,nodes):
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 
   A translation of this Urdu poem by N. M. Rashed as well as this transliteration appears in the
-  appendix of *I Too Have Some Dreams*. Then transliteration is intended for
+  appendix of *I Too Have Some Dreams*. The transliteration is intended for
   people who can understand Urdu/Hindi or related languages. I hope to soon 
   add performances of these poems as well. 
   

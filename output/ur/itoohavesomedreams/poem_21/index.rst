@@ -1,6 +1,6 @@
 .. title: §21ـ زمانہ خدا ہے
 .. slug: itoohavesomedreams/poem_21
-.. date: 2014-09-15 23:21:20 UTC
+.. date: 2014-09-16 13:52:02 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Zamānah ḳhudā hai"
