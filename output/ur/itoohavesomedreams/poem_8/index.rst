@@ -1,6 +1,6 @@
 .. title: §8ـ اتّفاقات
 .. slug: itoohavesomedreams/poem_8
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ittifāqāt"
@@ -54,10 +54,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §7. حزنِ انسان (افلاطونی عشق پر ایک طنز)  
-.. _right arrow link: /itoohavesomedreams/poem_7
+.. _right arrow link: /ur/itoohavesomedreams/poem_7
 
 .. |left arrow link| replace::   §9. شاعرِ در ماندہ :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_9
+.. _left arrow link: /ur/itoohavesomedreams/poem_9
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

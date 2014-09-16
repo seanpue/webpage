@@ -1,6 +1,6 @@
 .. title: §8. Ittifāqāt
 .. slug: itoohavesomedreams/poem_8
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ittifāqāt"

@@ -1,6 +1,6 @@
 .. title: §11ـ ہمہ اوست
 .. slug: itoohavesomedreams/poem_11
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Hamah ūst"
@@ -117,10 +117,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §10. انتقام  
-.. _right arrow link: /itoohavesomedreams/poem_10
+.. _right arrow link: /ur/itoohavesomedreams/poem_10
 
 .. |left arrow link| replace::   §12. تیل کے سوداگر :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_12
+.. _left arrow link: /ur/itoohavesomedreams/poem_12
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

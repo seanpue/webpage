@@ -1,6 +1,6 @@
 .. title: §5ـ گناہ اور محبّت
 .. slug: itoohavesomedreams/poem_5
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Gunāh aur muḥabbat"
@@ -46,10 +46,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §4. وادیِ پنہاں  
-.. _right arrow link: /itoohavesomedreams/poem_4
+.. _right arrow link: /ur/itoohavesomedreams/poem_4
 
 .. |left arrow link| replace::   §6. مکافات :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_6
+.. _left arrow link: /ur/itoohavesomedreams/poem_6
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

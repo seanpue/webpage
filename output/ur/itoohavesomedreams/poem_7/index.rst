@@ -1,6 +1,6 @@
 .. title: §7ـ حزنِ انسان (افلاطونی عشق پر ایک طنز)
 .. slug: itoohavesomedreams/poem_7
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"
@@ -46,10 +46,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §6. مکافات  
-.. _right arrow link: /itoohavesomedreams/poem_6
+.. _right arrow link: /ur/itoohavesomedreams/poem_6
 
 .. |left arrow link| replace::   §8. اتّفاقات :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_8
+.. _left arrow link: /ur/itoohavesomedreams/poem_8
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

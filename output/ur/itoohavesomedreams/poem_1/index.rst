@@ -1,6 +1,6 @@
 .. title: §1ـ بادل (سانیٹ)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:26 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Bādal (sāneṭ)"
@@ -29,7 +29,7 @@
 
 
 .. |left arrow link| replace::   §2. ایک دن۔لارنس باغ میں (ایک کیفیت) :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_2
+.. _left arrow link: /ur/itoohavesomedreams/poem_2
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

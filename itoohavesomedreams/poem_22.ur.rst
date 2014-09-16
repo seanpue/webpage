@@ -1,6 +1,6 @@
 .. title: §22ـ افسانہِ شہر
 .. slug: itoohavesomedreams/poem_22
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Afsānah-e shahr"
@@ -38,10 +38,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §21. زمانہ خدا ہے  
-.. _right arrow link: /itoohavesomedreams/poem_21
+.. _right arrow link: /ur/itoohavesomedreams/poem_21
 
 .. |left arrow link| replace::   §23. یہ خلا پر نہ ہوا :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_23
+.. _left arrow link: /ur/itoohavesomedreams/poem_23
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

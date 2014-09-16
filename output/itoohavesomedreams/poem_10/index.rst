@@ -1,6 +1,6 @@
 .. title: §10. Intiqām
 .. slug: itoohavesomedreams/poem_10
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Intiqām"

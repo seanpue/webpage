@@ -1,6 +1,6 @@
 .. title: §24ـ طلب کے تلے
 .. slug: itoohavesomedreams/poem_24
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "T̤alab ke tale"
@@ -50,10 +50,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §23. یہ خلا پر نہ ہوا  
-.. _right arrow link: /itoohavesomedreams/poem_23
+.. _right arrow link: /ur/itoohavesomedreams/poem_23
 
 .. |left arrow link| replace::   §25. گماں کا ممکن۔جو تو ہے میں ہوں! :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_25
+.. _left arrow link: /ur/itoohavesomedreams/poem_25
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

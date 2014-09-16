@@ -1,6 +1,6 @@
 .. title: §19ـ ایک اور شہر
 .. slug: itoohavesomedreams/poem_19
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ek aur shahr"
@@ -36,10 +36,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §18. دل، مرے صحرا نوردِ پیر دل  
-.. _right arrow link: /itoohavesomedreams/poem_18
+.. _right arrow link: /ur/itoohavesomedreams/poem_18
 
 .. |left arrow link| replace::   §20. ریگِ دیروز :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_20
+.. _left arrow link: /ur/itoohavesomedreams/poem_20
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

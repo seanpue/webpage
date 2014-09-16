@@ -1,6 +1,6 @@
 .. title: §15ـ نمرود کی خدائی
 .. slug: itoohavesomedreams/poem_15
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Namrūd kī ḳhudāʾī"
@@ -62,10 +62,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §14. تماشاگہِ لالہ زار  
-.. _right arrow link: /itoohavesomedreams/poem_14
+.. _right arrow link: /ur/itoohavesomedreams/poem_14
 
 .. |left arrow link| replace::   §16. وہ حرفِ تنہا (جسے تمنّائے وصلِ معنا) :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_16
+.. _left arrow link: /ur/itoohavesomedreams/poem_16
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

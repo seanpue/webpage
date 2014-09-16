@@ -1,6 +1,6 @@
 .. title: §27ـ حسن کوزہ گر ٢
 .. slug: itoohavesomedreams/poem_27
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ḥasan kūzah-gar 2"
@@ -125,10 +125,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §26. حسن کوزہ گر  
-.. _right arrow link: /itoohavesomedreams/poem_26
+.. _right arrow link: /ur/itoohavesomedreams/poem_26
 
 .. |left arrow link| replace::   §28. حسن کوزہ گر ٣ :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_28
+.. _left arrow link: /ur/itoohavesomedreams/poem_28
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

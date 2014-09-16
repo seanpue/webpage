@@ -1,6 +1,6 @@
 .. title: §3ـ ستارے (سانیٹ)
 .. slug: itoohavesomedreams/poem_3
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Sitāre (sāneṭ)"
@@ -31,10 +31,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §2. ایک دن۔لارنس باغ میں (ایک کیفیت)  
-.. _right arrow link: /itoohavesomedreams/poem_2
+.. _right arrow link: /ur/itoohavesomedreams/poem_2
 
 .. |left arrow link| replace::   §4. وادیِ پنہاں :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_4
+.. _left arrow link: /ur/itoohavesomedreams/poem_4
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

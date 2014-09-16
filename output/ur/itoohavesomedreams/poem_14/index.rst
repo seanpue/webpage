@@ -1,6 +1,6 @@
 .. title: §14ـ تماشاگہِ لالہ زار
 .. slug: itoohavesomedreams/poem_14
-.. date: 2014-09-16 13:52:02 UTC
+.. date: 2014-09-16 15:56:27 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Tamāshāgah-e lālah-zār"
@@ -61,10 +61,10 @@
 
 
 .. |right arrow link| replace:: :emoji:`arrow_right` §13. منّ و سلویٰ  
-.. _right arrow link: /itoohavesomedreams/poem_13
+.. _right arrow link: /ur/itoohavesomedreams/poem_13
 
 .. |left arrow link| replace::   §15. نمرود کی خدائی :emoji:`arrow_left` 
-.. _left arrow link: /itoohavesomedreams/poem_15
+.. _left arrow link: /ur/itoohavesomedreams/poem_15
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 
