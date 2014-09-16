@@ -1,4 +1,4 @@
-.. title: I Too Have Some Dreams
+.. title: I Too Have Some Dreams Resource Page
 .. slug: itoohavesomedreams
 .. date: 2014/08/25 19:39:09
 .. tags: 
@@ -6,8 +6,14 @@
 .. description: 
 .. type: text
 
+.. link_figure:: http://www.ucpress.edu/book.php?isbn=9780520283107
+      :title: I Too Have Some Dreams: <br/>N. M. Rashed and Modernism in Urdu Poetry
+      :class: link-figure
+      :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
+
 .. admonition:: Resource Page
 
+      
   Welcome! This is a resource page for my book, `I Too Have Some Dreams: N. M.
   Rashed and Modernism in Urdu Poetry (University of California Press, 2014)
   <http://www.ucpress.edu/book.php?isbn=9780520283107>`_. Below you will find
@@ -22,13 +28,9 @@
   in the printed book has the poems in transliteration on the verso (left) side
   and in translation on the recto (right) side.
 
-.. link_figure:: http://www.ucpress.edu/book.php?isbn=9780520283107
-      :title: I Too Have Some Dreams: <br/>N. M. Rashed and Modernism in Urdu Poetry
-      :class: link-figure
-      :image_url: /galleries/i2havesomedreams/i2havesomedreams-small.jpg
 
 
-
+ 
 Acknowledgments
 
 Note on Transliteration
@@ -114,6 +116,17 @@ Bibliography
 
 Index 
 
+.. admonition:: Book Description
+
+  *I Too Have Some Dreams* explores the work of N. M. Rashed, Urdu's
+  renowned modernist poet, whose career spans the last years of British India
+  and the early decades of postcolonial South Asia. A. Sean Pue argues that
+  Rashed’s poetry carved out a distinct role for literature in the maintenance
+  of doubt, providing a platform for challenging the certainty of collective
+  ideologies and opposing the evolving forms of empire and domination. This
+  finely crafted study offers a timely contribution to global modernist studies
+  and to modern South Asian literary history.
+ 
 .. admonition:: Blurb
 
    “This is a tour de force in the study of Urdu literary history. Pue’s study is beautifully crafted, thoughtfully argued, and meticulously researched. This is one of the best studies of N.M. Rashed’s life and poetry available.”
