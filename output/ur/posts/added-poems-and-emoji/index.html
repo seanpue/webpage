@@ -18,21 +18,21 @@
     src: local("Jameel Noori Nastaleeq"), url("../../../files/Jameel Noori Nastaleeq.ttf") format("opentype");
 }
 */
-/* This has problems with tashdeed
+/* This has problems with tashdeed but works on mobile, sort of */
 @font-face {
     font-family: "Fajer";
     src: local("Fajer Noori Nastalique"), url("../../../files/Fajer-Noori-Nastalique.ttf") format("opentype");
 }
-*/
-/* testing this one... looks like it may work */
 
+/* testing this one... looks like it may work */
+/*
 @font-face {
     font-family: "UrdType";
     src: local("Urdu Typesetting"), url("../../../files/UrdType.ttf") format("opentype");
 }
-
+*/
 html[lang="ur"] body {
-    font-family: "Jameel Noori Nastaleeq", UrdType;
+    font-family: "Jameel Noori Nastaleeq", Fajer;
     font-size: 24px;
     font-stretch: normal;
 }
