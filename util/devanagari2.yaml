@@ -1,0 +1,287 @@
+---
+rules:
+  t: \N{DEVANAGARI LETTER TA}
+  <wb> <consonant> a h <wb>: \N{DEVANAGARI LETTER HA}
+  <consonant> a h <wb>: \N{DEVANAGARI VOWEL SIGN AA}
+onmatch:
+  -
+    <consonant> <long_vowel> <s> + <t> <long_vowel>: \N{DEVANAGARI SIGN VIRAMA}
+  - 
+    <consonant> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <consonant> <vowel> <vowel_nasal> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <consonant> <short_vowel> <h_char> + <consonant>: ''
+  -
+    <consonant> <short_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <wb> <vowel> <consonant> + <consonant> <vowel>: ''
+  -
+    <wb> <consonant> <short_vowel> <z> + <z> <short_vowel> <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <short_vowel> <consonant>: ''
+  -
+    <n> + <consonant>: ''
+  -
+    <wb> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
+  - 
+    <consonant> + <consonant>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <k> + <k_group>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <ch> + <ch_group>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <wb> <consonant> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <wb> <consonant> <long_vowel> <consonant> + <consonant> <short_vowel> <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> <sibilant> + <consonant> <wb>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <wb>: ''
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <long_vowel> <wb>: ''
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <long_vowel> <consonant> <wb>: ''
+  -
+    <wb> <short_vowel> <consonant> <short_vowel> <consonant> + <consonant> <short_vowel> <consonant>: ''
+  -
+    <vowel> <n> + <consonant>: ''
+  -
+    <consonant> + <n> <aa> <wb>: ''
+  -
+    <consonant> + <n> <e> <wb>: ''
+  -
+    <consonant> + <t> <aa> <wb>: ''
+  -
+    <consonant> + <t> <e> <wb>: ''
+  -
+    <consonant> + <t> <ii> <wb>: ''
+  -
+    <consonant> + <ain> <short_vowel> <wb>: ''
+  -
+    <short_vowel> <ain> + <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> + <consonant> <long_vowel>: ''
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <long_vowel>: ''
+  -
+    <consonant> + <consonant>: \N{DEVANAGARI SIGN VIRAMA}
+tokens:
+  "\n":
+  - wb
+  ' ':
+  - wb
+  '!':
+  - punctuation
+  - wb
+  '''':
+  - letter_break
+  '_':
+  - under_score
+  (:
+  - punctuation
+  - wb
+  ((:
+  - ain
+  - consonant
+  (-e):
+  - hidden_izaafat
+  ):
+  - punctuation
+  - wb
+  )):
+  - vowel
+  ',':
+  - punctuation
+  - wb
+  '-':
+  - wb
+  --:
+  - punctuation
+  - wb
+  '----':
+  - punctuation
+  - wb
+  -e:
+  - izaafat
+  .r:
+  - consonant
+  .s:
+  - consonant
+  .z:
+  - consonant
+  /:
+  - wb
+  ':':
+  - punctuation
+  - wb
+  :n:
+  - consonant
+  :t:
+  - consonant
+  :z:
+  - consonant
+  ;:
+  - punctuation
+  - wb
+  ;aa:
+  - vowel
+  - long_vowel
+  ;d:
+  - consonant
+  ;dh:
+  - consonant
+  ;e:
+  - vowel
+  - short_vowel
+  - short_vowel_e
+  ;g:
+  - consonant
+  ;h:
+  - consonant
+  - h_char
+  ;m:
+  - vowel_nasal
+  ;o:
+  - vowel
+  ;n:
+  - vowel_nasal
+  ;r:
+  - consonant
+  ;rh:
+  - consonant
+  ;s:
+  - consonant
+  ;t:
+  - consonant
+  ;th:
+  - consonant
+  ;x:
+  - ;x_class
+  - consonant
+  ;z:
+  - consonant
+  '?':
+  - punctuation
+  - wb
+  "\0":
+  - wb
+  '[':
+  - punctuation
+  - wb
+  ']':
+  - punctuation
+  - wb
+  a:
+  - short_vowel
+  - short_vowel_a
+  - vowel
+  - a
+  aa:
+  - alef
+  - aa
+  - vowel
+  - long_vowel
+  - candrabindu_vowel
+  ai:
+  - long_vowel
+  - vowel
+  au:
+  - long_vowel
+  - vowel
+  b:
+  - consonant
+  bh:
+  - consonant
+  ch:
+  - consonant
+  - ch
+  chh:
+  - consonant
+  - ch_group
+  d:
+  - consonant
+  dh:
+  - consonant
+  e:
+  - long_vowel
+  - e
+  - vowel
+  f:
+  - consonant
+  g:
+  - consonant
+  gh:
+  - consonant
+  h:
+  - consonant
+  - consonant_h
+  - h
+  - h_char
+  i:
+  - short_vowel
+  - vowel
+  ii:
+  - long_vowel
+  - vowel
+  - ii
+  j:
+  - consonant
+  jh:
+  - consonant
+  k:
+  - consonant
+  - k
+  - k_group
+  kh:
+  - consonant
+  - k_group
+  l:
+  - consonant
+  m:
+  - consonant
+  n:
+  - consonant
+  - n
+  o:
+  - vowel
+  - long_vowel
+  p:
+  - consonant
+  ph:
+  - consonant
+  q:
+  - consonant
+  r:
+  - consonant
+  s:
+  - consonant
+  - sibilant
+  sh:
+  - consonant
+  - sibilant
+  t:
+  - consonant
+  - t
+  th:
+  - consonant
+  u:
+  - short_vowel
+  - vowel
+  uu:
+  - vowel
+  - long_vowel
+  - candrabindu_vowel
+  v:
+  - consonant
+  w:
+  - consonant
+  y:
+  - consonant
+  z:
+  - consonant
+  - z
+  zh:
+  - consonant
+  '|':
+  - hindi_break

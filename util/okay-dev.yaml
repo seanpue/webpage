@@ -1,0 +1,52 @@
+{!!python/unicode '.sadaa': "\u0938\u0926\u093E", !!python/unicode ':tara;h': "\u0924\u0930\
+    \u0939", !!python/unicode ';xabar': "\u0959\u092C\u0930", !!python/unicode ';xudaa': "\u0959\u0941\
+    \u0926\u093E", !!python/unicode ';xvaab': "\u0959\u094D\u0935\u093E\u092C", !!python/unicode ';xvud': "\u0959\u0941\
+    \u0926", !!python/unicode 'aa': "\u0906", !!python/unicode 'aa))o': "\u0906\u0913",
+  !!python/unicode 'aag': "\u0906\u0917", !!python/unicode 'aaj': "\u0906\u091C",
+  !!python/unicode 'aap': "\u0906\u092A", !!python/unicode 'ab': "\u0905\u092C", !!python/unicode 'abhii': "\u0905\u092D\
+    \u0940", !!python/unicode 'ai': "\u0910", !!python/unicode 'alaa))o': "\u0905\u0932\
+    \u093E\u0913", !!python/unicode 'aur': "\u0914\u0930", !!python/unicode 'ban': "\u092C\u0928",
+  !!python/unicode 'bhii': "\u092D\u0940", !!python/unicode 'de': "\u0926\u0947",
+  !!python/unicode 'dil': "\u0926\u093F\u0932", !!python/unicode 'do': "\u0926\u094B",
+  !!python/unicode 'duur': "\u0926\u0942\u0930", !!python/unicode 'ek': "\u090F\u0915",
+  !!python/unicode 'ga))e': "\u0917\u090F", !!python/unicode 'ga))ii': "\u0917\u0908",
+  !!python/unicode 'gayaa': "\u0917\u092F\u093E", !!python/unicode 'hai': "\u0939\u0948",
+  !!python/unicode 'hai;n': "\u0939\u0948\u0902", !!python/unicode 'ham': "\u0939\u092E",
+  !!python/unicode 'hame;n': "\u0939\u092E\u0947\u0902", !!python/unicode 'har': "\u0939\u0930",
+  !!python/unicode 'hii': "\u0939\u0940", !!python/unicode 'ho': "\u0939\u094B", !!python/unicode 'ho;n': "\u0939\u094B\
+    \u0902", !!python/unicode 'hu))aa': "\u0939\u0941\u0906", !!python/unicode 'hu))e': "\u0939\u0941\
+    \u090F", !!python/unicode 'hu))ii': "\u0939\u0941\u0908", !!python/unicode 'ik': "\u0907\u0915",
+  !!python/unicode 'in': "\u0907\u0928", !!python/unicode 'is': "\u0907\u0938", !!python/unicode 'jaag': "\u091C\u093E\
+    \u0917", !!python/unicode 'jab': "\u091C\u092C", !!python/unicode 'jahaa;n': "\u091C\u0939\
+    \u093E\u0901", !!python/unicode 'jaise': "\u091C\u0948\u0938\u0947", !!python/unicode 'jin': "\u091C\u093F\
+    \u0928", !!python/unicode 'jis': "\u091C\u093F\u0938", !!python/unicode 'jism': "\u091C\u093F\
+    \u0938\u094D\u092E", !!python/unicode 'jo': "\u091C\u094B", !!python/unicode 'kaa': "\u0915\u093E",
+  !!python/unicode 'kabhii': "\u0915\u092D\u0940", !!python/unicode 'kahaa;n': "\u0915\u0939\
+    \u093E\u0901", !!python/unicode 'kar': "\u0915\u0930", !!python/unicode 'ke': "\u0915\u0947",
+  !!python/unicode 'kih': "\u0915\u093F", !!python/unicode 'kii': "\u0915\u0940",
+  !!python/unicode 'kis': "\u0915\u093F\u0938", !!python/unicode 'kisii': "\u0915\u093F\
+    \u0938\u0940", !!python/unicode 'ko': "\u0915\u094B", !!python/unicode 'ko))ii': "\u0915\u094B\
+    \u0908", !!python/unicode 'kuchh': "\u0915\u0941\u091B", !!python/unicode 'kyaa': "\u0915\u094D\
+    \u092F\u093E", !!python/unicode 'liye': "\u0932\u093F\u092F\u0947", !!python/unicode 'magar': "\u092E\u0917\
+    \u0930", !!python/unicode 'mai;n': "\u092E\u0948\u0902", !!python/unicode 'me;n': "\u092E\u0947\
+    \u0902", !!python/unicode 'mere': "\u092E\u0947\u0930\u0947", !!python/unicode 'merii': "\u092E\u0947\
+    \u0930\u0940", !!python/unicode 'miraa': "\u092E\u093F\u0930\u093E", !!python/unicode 'mire': "\u092E\u093F\
+    \u0930\u0947", !!python/unicode 'mirii': "\u092E\u093F\u0930\u0940", !!python/unicode 'mu;habbat': "\u092E\u0941\
+    \u0939\u092C\u094D\u092C\u0924", !!python/unicode 'mujh': "\u092E\u0941\u091D",
+  !!python/unicode 'mujhe': "\u092E\u0941\u091D\u0947", !!python/unicode 'na))e': "\u0928\u090F",
+  !!python/unicode 'nahii;n': "\u0928\u0939\u0940\u0902", !!python/unicode 'ne': "\u0928\u0947",
+  !!python/unicode 'paa': "\u092A\u093E", !!python/unicode 'par': "\u092A\u0930",
+  !!python/unicode 'phir': "\u092B\u093F\u0930", !!python/unicode 'raat': "\u0930\u093E\
+    \u0924", !!python/unicode 'rah': "\u0930\u093E", !!python/unicode 'rahaa': "\u0930\u0939\
+    \u093E", !!python/unicode 'rahe': "\u0930\u0939\u0947", !!python/unicode 'rahii': "\u0930\u0939\
+    \u0940", !!python/unicode 'reg': "\u0930\u0947\u0917", !!python/unicode 'ruu;h': "\u0930\u0942\
+    \u0939", !!python/unicode 'sab': "\u0938\u092C", !!python/unicode 'sar': "\u0938\u0930",
+  !!python/unicode 'se': "\u0938\u0947", !!python/unicode 'shahkaar': "\u0936\u0939\
+    \u094D\u0915\u093E\u0930", !!python/unicode 'tak': "\u0924\u0915", !!python/unicode 'tamaam': "\u0924\u092E\
+    \u093E\u092E", !!python/unicode 'tamannaa': "\u0924\u092E\u0928\u094D\u0928\u093E",
+  !!python/unicode 'terii': "\u0924\u0947\u0930\u0940", !!python/unicode 'thaa': "\u0925\u093E",
+  !!python/unicode 'the': "\u0925\u0947", !!python/unicode 'thii': "\u0925\u0940",
+  !!python/unicode 'to': "\u0924\u094B", !!python/unicode 'tujhe': "\u0924\u0941\u091D\
+    \u0947", !!python/unicode 'tum': "\u0924\u0941\u092E", !!python/unicode 'tuu': "\u0924\u0942",
+  !!python/unicode 'un': "\u0909\u0928", !!python/unicode 'us': "\u0909\u0938", !!python/unicode 'vaqt': "\u0935\u0958\
+    \u094D\u0924", !!python/unicode 'yaa': "\u092F\u093E"}
