@@ -35,7 +35,7 @@ Acknowledgments
 
 Note on Transliteration
 
-`Introduction <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ `Notes </files/intro_notes.pdf`_
+`Introduction <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ `(Footnotes) </files/intro_notes.pdf>`_
 
 1\. Embodiment
 
