@@ -37,6 +37,7 @@ rules:
   ;z: \N{DEVANAGARI LETTER ZA}
   <wb> <consonant> <short_vowel> <consonant> a h <wb>: \N{DEVANAGARI LETTER HA}
   <consonant> a (( aa: \N{DEVANAGARI LETTER AA}
+  <consonant> a (( <vowel>: ''
   <consonant> a ((: \N{DEVANAGARI VOWEL SIGN AA}
   <wb> a ((: \N{DEVANAGARI LETTER AA}
   <wb> i (( t i: \N{DEVANAGARI LETTER E}\N{DEVANAGARI LETTER TA}
@@ -70,7 +71,7 @@ rules:
   <consonant> u (( aa: \N{DEVANAGARI VOWEL SIGN U}\N{DEVANAGARI LETTER AA}
   <consonant> uu )) o ;n <wb>: \N{DEVANAGARI VOWEL SIGN U}\N{DEVANAGARI LETTER O}\N{DEVANAGARI SIGN ANUSVARA}
   <consonant> uu )) e ;n <wb>: \N{DEVANAGARI VOWEL SIGN U}\N{DEVANAGARI LETTER E}\N{DEVANAGARI SIGN CANDRABINDU}
-  <long_vowel> (( ii: \N{DEVANAGARI LETTER II}
+  <vowel> (( ii: \N{DEVANAGARI LETTER II}
   <vowel> (( i: \N{DEVANAGARI LETTER I}
   <consonant> (( a <wb>: \N{DEVANAGARI VOWEL SIGN AA}
   <consonant> (( <wb>: ''
@@ -92,7 +93,7 @@ rules:
   <wb> u: \N{DEVANAGARI LETTER U}
   <wb> uu: \N{DEVANAGARI LETTER UU}
   <wb> y i h <wb>: \N{DEVANAGARI LETTER YA}\N{DEVANAGARI VOWEL SIGN E}
-  <wb> y i h ii <wb>: \N{DEVANAGARI LETTER YA}\N{DEVANAGARI VOWEL SIGN II}
+  <wb> y i h ii <wb>: \N{DEVANAGARI LETTER YA}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN II}
   <wb> v u h <wb>: \N{DEVANAGARI LETTER VA}\N{DEVANAGARI VOWEL SIGN O}
   <wb> v u h ii <wb>: \N{DEVANAGARI LETTER VA}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN II}
   <wb> n a h <wb>: \N{DEVANAGARI LETTER NA}
@@ -101,12 +102,13 @@ rules:
   '?': '?'
   a: ''
   <wb> <consonant> a h <wb>: \N{DEVANAGARI LETTER HA}
+  <wb> <consonant> a h <izaafat>: \N{DEVANAGARI LETTER HA}
   <consonant> a h <wb>: \N{DEVANAGARI VOWEL SIGN AA}
   <consonant> a h <izaafat>: \N{DEVANAGARI VOWEL SIGN AA}
   aa: \N{DEVANAGARI VOWEL SIGN AA}
   <candrabindu_vowel> ;n <wb>: \N{DEVANAGARI SIGN CANDRABINDU}
-  <r> <candrabindu_vowel> ;n <wb>: \N{DEVANAGARI SIGN ANUSVARA}
-  <vowel> <e> ;n <wb>: \N\N{DEVANAGARI SIGN CANDRABINDU}
+  <r> <consonant> <candrabindu_vowel> ;n <wb>: \N{DEVANAGARI SIGN ANUSVARA}
+  <vowel> <e> ;n <wb>: \N{DEVANAGARI SIGN CANDRABINDU}
   ai: \N{DEVANAGARI VOWEL SIGN AI}
   au: \N{DEVANAGARI VOWEL SIGN AU}
   b: \N{DEVANAGARI LETTER BA}
@@ -160,13 +162,34 @@ rules:
   '_': ''
 onmatch:
   -
-    <consonant> <long_vowel> <s> + <t> <long_vowel>: \N{DEVANAGARI SIGN VIRAMA}
+    <z_consonant> + <z_consonant>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <m> + <h_char>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <n> + consonant: ''
+  - 
+    <k> + <kh>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <r> + <r>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <r> + <z>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <l> + <h>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <consonant> <vowel> <s> + <t> <long_vowel>: \N{DEVANAGARI SIGN VIRAMA}
   - 
     <consonant> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
   -
     <consonant> <vowel> <vowel_nasal> <consonant> + <consonant> <long_vowel>: ''
   -
     <consonant> <short_vowel> <h_char> + <consonant>: ''
+  -
+    <wb> <consonant> <short_vowel> <consonant> + <consonant> <long_vowel> <vowel_nasal>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <short_vowel>: ''
+
+  -
+    <wb> <short_vowel> <consonant> + <consonant> <long_vowel> <consonant>: ''
   -
     <consonant> <short_vowel> <consonant> + <consonant> <long_vowel>: ''
   -
@@ -265,6 +288,7 @@ tokens:
   - consonant
   .z:
   - consonant
+  - z_consonant
   /:
   - wb
   ':':
@@ -276,6 +300,7 @@ tokens:
   - consonant
   :z:
   - consonant
+  - z_consonant
   ;:
   - punctuation
   - wb
@@ -316,6 +341,7 @@ tokens:
   - consonant
   ;z:
   - consonant
+  - z_consonant
   '?':
   - punctuation
   - wb
@@ -391,10 +417,12 @@ tokens:
   kh:
   - consonant
   - k_group
+  - kh
   l:
   - consonant
   m:
   - consonant
+  - m
   n:
   - consonant
   - n
@@ -409,9 +437,11 @@ tokens:
   - consonant
   r:
   - consonant
+  - r
   s:
   - consonant
   - sibilant
+  - s
   sh:
   - consonant
   - sibilant
@@ -436,6 +466,7 @@ tokens:
   z:
   - consonant
   - z
+  - z_consonant
   zh:
   - consonant
   '|':

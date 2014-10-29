@@ -105,6 +105,7 @@ rules:
   v: c
   y: c
   z: c
+  '_': ''
   zh: c
 tokens:
   ' ':
@@ -129,6 +130,8 @@ tokens:
   ',':
   - wb
   - punctuation
+  '_':
+  - underscore
   '-':
   - wb
   --:

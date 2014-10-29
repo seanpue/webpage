@@ -1,7 +1,7 @@
 ---
 rules:
   t: \N{DEVANAGARI LETTER TA}
-  <wb> <consonant> a h <wb>: \N{DEVANAGARI LETTER HA}
+  <wb> v u h <wb>: \N{DEVANAGARI LETTER HA}
   <consonant> a h <wb>: \N{DEVANAGARI VOWEL SIGN AA}
 onmatch:
   -

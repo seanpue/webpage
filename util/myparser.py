@@ -34,14 +34,14 @@ def compare_rules(x,y):
     Compares rules and sees which has more tokens or conditions (prev, next)
     """
     
-    diff = len(y['tokens'])-len(x['tokens'])
+    diff = 10*(len(y['tokens'])-len(x['tokens']))   
     if diff != 0:
         return diff
     (x_conds, y_conds) = (0,0)
     for cond in ('prev','next'):
         if cond in x: x_conds +=len(x[cond])
         if cond in y: y_conds +=len(y[cond])
-    for cond in ('prev_class', 'next_class'):
+    for cond in ('prev_classes', 'next_classes'):
         if cond in x: x_conds += len(x[cond])
         if cond in y: y_conds += len(y[cond])
     return y_conds - x_conds # see if one has  more <classes>
@@ -128,10 +128,10 @@ def rules_from_yaml_data(rules_raw):
         _ += '(?:' # cluster for following tokens, clusters 
         _ += ' \('
         _ += '\s?(.+?)' # group 5, next tokens
-        _ += '((?:\s?<.+?>\s+)+)?' # group 6, next class
+        _ += '((?:\s?<.+?>\s+?)+)?' # group 6, next class
         _ += '\s?\)'
         _ += '|'
-        _ += ' ((?:\s?<.+?>\s+)+)?' # group 7, follo
+        _ += ' ((?:<.+?>\s?)+)?' # group 7, follo
         _ += ')?$'
         
         m = re.match (_, key, re.S)
@@ -207,12 +207,14 @@ class Parser:
                     if 'next_tokens' in rule:
                         r_tkns += rule['next_tokens']
                     if all(r_tkns[i] == tkns[i_start+i] for i in range(len(r_tkns)) ):
-                        pdb.set_trace()  
+                    #    pdb.set_trace()  
                         if 'prev_classes' in rule:
-                            prev_classes = rule['prev_classes']
+                            prev_classes = rule['prev_classes'][::-1] # reverse these
                             if i_start - len(prev_classes) < -1: 
                                 continue
-                            to_match = reversed(tkns[i_start-len(prev_classes):i_start])+[' ']
+                            to_match =([' ']+tkns)[i_start+1-len(prev_classes):i_start+1][::-1]
+                             #tkns[i_start-len(prev_classes):i_start][::-1]+[' '] 
+                            
                             if not all(prev_classes[i] in self.tokens[to_match[i]] for i in range(len(prev_classes))): 
                                 continue
                                 
@@ -228,11 +230,11 @@ class Parser:
                                 
                         if 'next_classes' in rule:
                             next_classes = rule['next_classes']
-                            if i_start + len(r_tkns)+len(next_classes) > len(next_classes):
+                            if i_start + len(r_tkns)+len(next_classes) > len(tkns)+1:
                                 continue
                                 
                             to_match = tkns[i_start+len(r_tkns):i_start+len(r_tkns)+len(next_classes)] + [' ']
-                            if not all(next_classes[i] in self.tokens[to_match[i]] for i in range(len(prev_classes))): 
+                            if not all(next_classes[i] in self.tokens[to_match[i]] for i in range(len(next_classes))): 
                                 continue
                             #prev_classes:i_start]+[' ']
                             #if i_start+len(r_tkns)==len(tkns): # if end of string
@@ -329,7 +331,7 @@ class Parser:
                 if 'next_tokens' in rule:
                     r_tkns += rule['next_tokens']
                 if all(r_tkns[i] == tkns[i_start+i] for i in range(len(r_tkns)) ):
-                    if 'prev_class' in rule: # if rule has a prev class
+                    if 'prev_classes' in rule: # if rule has a prev class
                         if i_start==0:
                             # if at start of string, allow for word break
                             prev_token = 'b'
@@ -377,7 +379,8 @@ if __name__ == '__main__':
     import pdb
     pdb.set_trace()  
     p = Parser('devanagari.yaml')
-    print(p.parse("taa"))
+    pdb.set_trace()  
+    print(p.parse("tah"))#rah_rau))o;n"))#taa tah tii itihaas"))
     print 'hi'
     #print_scan(s,knownOnly=False)
     #scn = scan(" ko))sab paimaane be-.sarfah jab siim-o-zar miizaan")#be-;xvudii le ga))ii kahaa;n mujh ko")#der se inti:zaar hai apnaa")# faryaadii hai kis kii sho;xii-e ta;hriir kaa")
