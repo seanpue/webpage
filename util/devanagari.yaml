@@ -11,6 +11,8 @@ rules:
   )): ''
   ',': ','
   '-': ''
+  '- h aa <wb>': \N{HYPHEN}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN AA}
+  '- h aa -e <wb>': \N{HYPHEN}\N{DEVANAGARI LETTER HA}\N{DEVANAGARI VOWEL SIGN AA}-\N{DEVANAGARI LETTER E}-
   -e <wb>: \N{HYPHEN}\N{DEVANAGARI LETTER E}\N{HYPHEN}
   .ri: \N{DEVANAGARI VOWEL SIGN VOCALIC R}
   .s: \N{DEVANAGARI LETTER SA}
@@ -176,6 +178,12 @@ onmatch:
   -
     <l> + <h>: \N{DEVANAGARI SIGN VIRAMA}
   -
+    <v> + <v>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <;t> + <;th>: \N{DEVANAGARI SIGN VIRAMA}
+  -
+    <d> + <d> : \N{DEVANAGARI SIGN VIRAMA}
+  -
     <consonant> <vowel> <s> + <t> <long_vowel>: \N{DEVANAGARI SIGN VIRAMA}
   - 
     <consonant> <long_vowel> <consonant> + <consonant> <long_vowel>: ''
@@ -334,8 +342,10 @@ tokens:
   - consonant
   ;t:
   - consonant
+  - ;t
   ;th:
   - consonant
+  - ;th
   ;x:
   - ;x_class
   - consonant
@@ -382,6 +392,7 @@ tokens:
   - ch_group
   d:
   - consonant
+  - d
   dh:
   - consonant
   e:
@@ -459,6 +470,7 @@ tokens:
   - candrabindu_vowel
   v:
   - consonant
+  - v
   w:
   - consonant
   y:

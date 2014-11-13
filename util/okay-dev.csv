@@ -15,7 +15,7 @@ chhupne,छुपने
 hanuuz-e zamaanah,हनूज़‐ए‐ज़माना
 piir-zaal,पीरज़ाल
 ahriimano;n,अह्रीमनों
-((adl-e be-bahaa,अद्ल‐ए‐बेबहा
+khule,खुले
 aur,और
 ba;xshish,बख़शिश
 sang-bastah,संगबसता
@@ -83,7 +83,7 @@ rahte,रहते
 baadah-gusaar,बादागुसार
 bhii,भी
 banegii,बनेगी
-khule,खुले
+((adl-e be-bahaa,अद्ल‐ए‐बेबहा
 gu;zraa,गुज़रा
 liyaa,लिया
 royaa-e aasmaanii,रोया‐ए‐आस्मानी
@@ -260,6 +260,7 @@ ujrat,उज्रत
 vi.saal-e rah-guzar,विसाल‐ए‐रहगुज़र
 sharaabe;n,शराबें
 duur,दूर
+;xizaa;n,ख़िज़ाँ
 lagaataar,लगातार
 pesh_tar,पेशतर
 navard-e piir,नवर्द‐ए‐पीर
@@ -313,6 +314,7 @@ vasiilah,वसीला
 ziinah,ज़ीना
 bar,बर
 bas,बस
+.sahraa))o;n,सहराओं
 ;duubte,डूबते
 rahaa,रहा
 aa;xir,आख़िर
@@ -376,7 +378,6 @@ chhuu;raa,छूड़ा
 larazne,लरज़ने
 asiirii,असीरी
 aaho;n,आहों
-ghulte,घुलते
 ;hau.slah-e ;xvub,हौस्ला‐ए‐ख़ुब
 bichha;r-kar,बिछड़कर
 ((anqaa,अंक़ा
@@ -496,7 +497,7 @@ liye,लिये
 saraab,सराब
 du((aa))e;n,दुआएँ
 dhaare,धारे
-sun-kar,सुनकर
+utaare,उतारे
 dar-o-diivaar,दर‐ओ‐दीवार
 baar-o-barg,बार‐ओ‐बर्ग
 ;xuu,ख़ू
@@ -567,7 +568,7 @@ mujhii,मुझी
 sarodo;n,सरोदों
 miinaar-o-gunbad,मीनार‐ओ‐गुंबद
 shahr-e barbaad,शहर‐ए‐बरबाद
-pahchaantaa,पहचानता
+javaanii,जवानी
 jaah-o-jalaal-e qadiim,जाह‐ओ‐जलाल‐ए‐क़दीम
 kaarvaa;n,कारवाँ
 qirmiz,क़िरमिज़
@@ -624,11 +625,9 @@ gahraa,गहरा
 salaamat,सलामत
 fashaar,फ़शार
 sail-e nuur-e andaruu;n,सैल‐ए‐नूर‐ए‐अंदरूँ
-jalaal,जलाल
 nikal,निकल
 piro))e,पिरोए
 ta((biir,ताबीर
-tire,तिरे
 bol,बोल
 laa))e;nge,लाएंगे
 ((ajam,अजम
@@ -675,11 +674,10 @@ rab:t,रब्त
 kinaaro;n,किनारों
 barahnah-o-kaahiidah,बरहना‐ओ‐काहीदा
 kahii;n,कहीं
-mub'ham,मुबहम
 diruun-e aadam,दिरून‐ए‐आदम
 partav,परतव
 paa))o;n,पाओं
-utaare,उतारे
+sun-kar,सुनकर
 thii;n,थीं
 qudsiyo;n,क़ुदसियों
 gesuu))o;n,गेसुओं
@@ -688,6 +686,7 @@ kuuzah-gar,कूज़ागर
 dekhne,देखने
 ta;xt-e jam-o-taaj-e kai,तख़्त‐ए‐जम‐ओ‐ताज‐ए‐कै
 kaamraaniyaa;n,कामरानियाँ
+gar,गर
 aadmii,आदमी
 aazaad,आज़ाद
 ma((.suum,मासूम
@@ -698,6 +697,7 @@ tumhaare,तुम्हारे
 gul-o-yaasmin,गुल‐ओ‐यास्मिन
 mat,मत
 yuu;n,यूँ
+pahchaantaa,पहचानता
 mad,मद
 kaise,कैसे
 nikaaluu;n,निकालूँ
@@ -784,7 +784,7 @@ himmat-e naa-;xvub,हिम्मत‐ए‐नाख़ुब
 dard-e majruumii,दर्द‐ए‐मजरूमी
 hamaarii,हमारी
 be-chaare,बेचारे
-m;o;hsin-kush-o-naa-sipaas,मोह्सिनकुश‐ओ‐नासिपास
+izdi;haam-e ravaa;n,इज़्दिहाम‐ए‐रवाँ
 shahr-o-qaryah,शहर‐ओ‐क़रया
 kitne,कितने
 sar_;had,सरहद
@@ -833,8 +833,10 @@ sar,सर
 paivand,पैवंद
 sunsaan,सुंसान
 naa-rasaa,नारसा
+((uzlat-guzii;n,उज़लतगुज़ीं
 bhuuluu;n,भूलूँ
 parastaar,परस्तार
+lam;he,लम्हे
 likhuu;n,लिखूँ
 utre;n,उतरें
 banaa-re;xtah,बनारेख़्ता
@@ -866,6 +868,7 @@ merii,मेरी
 bahaa))e,बहाए
 sochii,सोची
 suukhe,सूखे
+;gurbat,ग़ुरबत
 roz-e bashaarat,रोज़‐ए‐बशारत
 zahr,ज़हर
 cha;rhaa,चढ़ा
@@ -891,6 +894,7 @@ sujhaa))ii,सुझाई
 ;xvaab-e jamuud,ख़्वाब‐ए‐जमूद
 kaalii,काली
 muhiib,मुहीब
+havaa-e taazah-o-kisht-e shaadaab-o-chashmah-e jaa;n-firoz,हवा‐ए‐ताज़ा‐ओ‐किश्त‐ए‐शादाब‐ओ‐चशमा‐ए‐जाँफ़िरोज़
 bah-gil,बगिल
 aa-ke,आके
 zhuuliidah,झ़ूलीदा
@@ -914,7 +918,7 @@ tum,तुम
 da;gaa,दग़ा
 .sifr-e ((a:ziim,सिफ़्र‐ए‐अज़ीम
 ji;nhe;n,जिंहें
-afrangii,अफ़्रंगी
+afrangii,अफ़रंगी
 ga))e,गए
 gurisnah-nigah,गुरिस्नानिगह
 ;zauq,ज़ौक़
@@ -967,7 +971,7 @@ labo;n,लबों
 jaraa;siim,जरासीम
 pa;ziiraa))ii,पज़ीराई
 jaante,जानते
-ishtiraak-e giraa;n-bahaa,इश्तिराक‐ए‐गिराँबहा
+ishtiraak-e giraa;n-bahaa,इशतिराक‐ए‐गिराँबहा
 be-ma((nii,बेमानी
 sust,सुस्त
 parvardah-e ((ashvah-baazii,परवर्दा‐ए‐अशवाबाज़ी
@@ -1179,7 +1183,7 @@ kuuzo;n,कूज़ों
 luu;h-e aa))iinah,लूह‐ए‐आईना
 ;xvaahisho;n,ख़्वाहिशों
 shahanshaaho;n,शहंशाहों
-((aruus-e javaa;n-saal-e fardaa,अरूस‐ए‐जवाँसाल‐ए‐फ़र्दा
+((aruus-e javaa;n-saal-e fardaa,अरूस‐ए‐जवाँसाल‐ए‐फ़रदा
 daastaa;n,दास्ताँ
 anaa,अना
 ha;nse,हंसे
@@ -1216,7 +1220,7 @@ navaa,नवा
 ma;hruumiyo;n,महरूमियों
 dhokaa,धोका
 iiraa;n,ईराँ
-buzurg-o-bar-tar,बुज़ुर्ग‐ओ‐बरतर
+base,बसे
 kashaakash,कशाकश
 .sadaa))o;n,सदाओं
 kinaayo;n,किनायों
@@ -1306,6 +1310,7 @@ sa;xaavato;n,सख़ावतों
 lu;n;dhaa))e;nge,लुंढाएंगे
 d;ehliiz,देहलीज़
 alvand,अल्वंद
+nihaa;n-;xaano;n,निहाँख़ानों
 qaamat,क़ामत
 hu))aa,हुआ
 baaz,बाज़
@@ -1360,7 +1365,7 @@ pul,पुल
 rif((at,रिफ़अत
 ;tuu;t,टूट
 qiyaas,क़ियास
-base,बसे
+buzurg-o-bar-tar,बुज़ुर्ग‐ओ‐बरतर
 u;nhii;n,उंहीं
 man:zir-e rangii;n,मंज़िर‐ए‐रंगीं
 laasho;n,लाशों
@@ -1376,6 +1381,7 @@ vilaadat,विलादत
 jho;np;re,झोंपड़े
 tah;ziib,तहज़ीब
 rakho,रखो
+tanhaa))ii-e jaa;n_kaah,तंहाई‐ए‐जांकाह
 ;haasil,हासिल
 ;xaa:tir,ख़ातिर
 bhar,भर
@@ -1482,7 +1488,7 @@ kitaabe;n,किताबें
 taaziyaane,ताज़ियाने
 gaa))e;n,गाएँ
 chaahat,चाहत
-uljhane;n,उल्झनें
+uljhane;n,उलझनें
 mu;guul,मुग़ूल
 bahaane,बहाने
 paikar,पैकर
@@ -1529,7 +1535,6 @@ suuraj,सूरज
 paanii,पानी
 ;gaar,ग़ार
 sar-bastah-o-ruu-band,सरबसता‐ओ‐रूबंद
-rango;n,रंगों
 ;xayaabaan-e sa((dii,ख़याबान‐ए‐सादी
 ((i;zaar-e jahaa;n,इज़ार‐ए‐जहाँ
 vujuud,वुजूद
@@ -1551,6 +1556,7 @@ izhdihaam,इझ़्दिहाम
 shahr-e auhaam,शहर‐ए‐औहाम
 aasmaa;n,आस्माँ
 pahchaantii,पहचानती
+uu;nche,ऊंचे
 andar,अंदर
 chaahtaa,चाहता
 ka))ii,कई
@@ -1569,7 +1575,7 @@ vus((at,वुसअत
 shaayad,शायद
 manba((-e kaif-o-suruur,मंबा‐ए‐कैफ़‐ओ‐सुरूर
 shaa;xo;n,शाख़ों
-gar,गर
+rango;n,रंगों
 ;xaraabo;n,ख़राबों
 nau;hah-;xvaanii,नौहाख़्वानी
 aazaadii,आज़ादी
@@ -1604,7 +1610,6 @@ ishtiraakii,इश्तिराकी
 shab,शब
 shai,शै
 labaaso;n,लबासों
-shikastah,शिकस्ता
 naazuk-sii,नाज़ुकसी
 dostii,दोस्ती
 ab,अब
@@ -1681,7 +1686,7 @@ ba;gdaad,बग़दाद
 aa))e;nge,आएंगे
 sochtii,सोचती
 avvalii;n,अव्वलीं
-javaanii,जवानी
+jalaal,जलाल
 baqaa-e mauhuum,बक़ा‐ए‐मौहूम
 naazukii,नाज़ुकी
 kam,कम
@@ -1723,7 +1728,7 @@ shau;x,शौख़
 raah-gu;zaar,राहगुज़ार
 u;thtii,उठती
 ta;hsii;n,तहसीं
-nihaa;n-;xaano;n,निहाँख़ानों
+mub'ham,मुबहम
 aisaa,ऐसा
 tapaak,तपाक
 chashmah-e makr-o-riyaa,चशमा‐ए‐मक्र‐ओ‐रिया
@@ -1738,7 +1743,7 @@ un,उन
 sitam,सितम
 :tilismii,तिलिस्मी
 dhaat,धात
-.sahraa))o;n,सहराओं
+ta))miin,तमीन
 nikal-kar,निकलकर
 ummiid,उम्मीद
 raahe;n,राहें
@@ -1952,8 +1957,8 @@ kise,किसे
 aamad,आमद
 aadam-e nau,आदम‐ए‐नौ
 ;hijaabo;n,हिजाबों
-;xizaa;n,ख़िज़ाँ
-dar,दर
+shikastah,शिकस्ता
+rakkhii,रक्खी
 goshah-e niim-raushan,गोशा‐ए‐नीमरौशन
 sham((o;n,शमों
 .suufiyo;n,सूफ़ियों
@@ -2070,7 +2075,7 @@ qa:tre,क़तरे
 naujavaa;n,नौजवाँ
 terii,तेरी
 ma((.siyat,मासियत
-;gurbat,ग़ुरबत
+;gam-e jaavidaa;n,ग़म‐ए‐जाविदाँ
 na;gmah-zan,नग़माज़न
 tumhe;n,तुम्हें
 vaqt,वक़्त
@@ -2097,7 +2102,7 @@ shab-e gunah,शब‐ए‐गुनह
 varnah,वरना
 ;harf-o-ma((nii,हर्फ़‐ओ‐मानी
 yaasmin,यास्मिन
-;gam-e jaavidaa;n,ग़म‐ए‐जाविदाँ
+tire,तिरे
 paarah-e naan,पारा‐ए‐नान
 (,(
 taaziyaano;n,ताज़ियानों
@@ -2132,7 +2137,7 @@ tah-e ;xaak,तह‐ए‐ख़ाक
 :tu;gyaa;n,तुग़्याँ
 ummiid-e zifaaf,उम्मीद‐ए‐ज़िफ़ाफ़
 jannat,जन्नत
-izdi;haam-e ravaa;n,इज़्दिहाम‐ए‐रवाँ
+m;o;hsin-kush-o-naa-sipaas,मोह्सिनकुश‐ओ‐नासिपास
 dunyaa-e aab-o-rang,दुंया‐ए‐आब‐ओ‐रंग
 pastiyo;n,पस्तियों
 qaaf,क़ाफ़
@@ -2213,7 +2218,7 @@ aa))ii,आई
 maut,मौत
 eshiyaa,एशिया
 a;ndoh,अंदोह
-shaqiiq-o-nastaran,शक़ीक़‐ओ‐नस्तरन
+shaqiiq-o-nastaran,शक़ीक़‐ओ‐नसतरन
 .sa;hn,सहन
 agar,अगर
 tamas;xur,तमस्ख़ुर
@@ -2227,7 +2232,7 @@ aatii,आती
 kuchh,कुछ
 dilvaa,दिलवा
 kaun-sii,कौनसी
-uu;nche,ऊंचे
+ghulte,घुलते
 mu;htaaj,मुहताज
 labaadah,लबादा
 guu;njii,गूंजी
@@ -2262,7 +2267,7 @@ haatho;n,हाथों
 miltaa,मिलता
 gadaa))o;n,गदाओं
 tanhaa,तंहा
-rakkhii,रक्खी
+dar,दर
 abad,अबद
 ;harf,हर्फ़
 dil-aavez,दिलआवेज़
@@ -2331,7 +2336,7 @@ diin,दीन
 hai;,है;
 ubhraa,उभरा
 naa-tavaa;n,नातवाँ
-la;z;zat-e tasliim,लज़्ज़त‐ए‐तस्लीम
+la;z;zat-e tasliim,लज़्ज़त‐ए‐तसलीम
 kyo;nkar,क्योंकर
 ashk,अश्क
 dekhii,देखी

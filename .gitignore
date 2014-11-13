@@ -4,3 +4,4 @@ cache/*
 .DS_Store
 .doit.db
 xmlrpcsettings.py
+util/from_rekhta/*
