@@ -187,6 +187,13 @@ Conference Papers
 .. Exact dates follow in comments.
 
 **2014**
+“N. M. Rashed in New York.”
+Annual Conference on South Asia, 
+University of Wisconsin, Madison.
+
+.. 18 October 2014
+
+**2014**
 “Poets in a Muslim Land: 
 Sufism, Modernity, and Indo-Muslim Artistic Subjectivity.”
 Muslim Studies Conference on “Journeys of Practice,” 
@@ -278,6 +285,14 @@ Invited Papers
 
 
 .. Exact dates follow in comments.
+
+**2014**
+“The Place of Analogy in Collaborative, Interdisciplinary Computing,
+or,
+What Does Bioinformatics Have to Do with Urdu Poetry?”
+Cyberinfrastructure (CI) Days, Michigan State University.
+
+.. 24 October 2014; http://vprgs.msu.edu/ci-days/2014/sessions#SeanPue
 
 **2013**
 “The Politics of Literary Form: The Poetic Meters of Miraji.”
@@ -508,15 +523,17 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014)
 
-GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
+GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014) 
 
 GSAH 220: Global Espionage: Identity, Intelligence, Power (Fall 2012)
 
 GSAH 230: Encountering Difference: East-West, North South (Fall 2009, Fall 2010, Fall 2011)
 
+GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
+
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
 
-LL151.2: Basic Hindi I (Fall 2008, Fall 2009, Fall 2010, Fall 2012)
+LL151.2: Basic Hindi I (Fall 2008, Fall 2009, Fall 2010, Fall 2012, Fall 2014)
 
 LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013)
 
@@ -546,19 +563,19 @@ American Institute of Pakistan Studies, Board of Trustees
 Michigan State University
 =========================
 
-**2013-**
+**2013–14**
 Asian Studies Center Advisory Board
 
-**2012-** 
+**2012–14** 
 Global Studies in Arts and Humanities Advisory Committee
 
-**2009-10**
+**2009–10**
 Global Studies in Arts and Humanities Planning Committee
 
-**2009-**
+**2009–**
 Core Faculty Member, Muslim Studies
 
-**2008-12** 
+**2008-12, 2014–** 
 Global Studies in Arts and Humanities Curriculum Committee
 
 **2008-**
@@ -568,7 +585,7 @@ Core Faculty Member, Asian Studies Center
 Consulting Faculty Member, Gender in Global Context Center
 
 **2008-** 
-Integrated Media/Digital Humanities Committee, College of Arts and Letters
+Integrated Media/Digital Humanities Steering Committee, College of Arts and Letters
 
 **2008-**
 Contractual Core Faculty Member, Global Studies in Arts and Humanities
@@ -595,6 +612,6 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 20 August 2014.
+   This C.V. was last updated on 28 October 2014.
 
 
