@@ -19,13 +19,13 @@ We are going to be hosting a simultaneous Data Carpentry and Software Carpentry 
 
 There is some work that needs to be done to tweak the content of the Data/Software Carpentry lessons for humanists, but there is not too much to do.
 
-I have also been thinking about trying to teach my current DH students a little bit of Javascript, which is the language used in most web programming and, which I learned at the Davis session, can even also run a full-fledged server in four lines of code using the [MEAN] stack. (Insane!) I haven't tried that out yet. Since the goal of Software Carpentry, which uses the languages Python and R, is to teach proper programming technique, there is no reason some of the lessons can't be adjusted to use Javascript, too. It's useful for DH people as there are quite a number of neat mapping and visualization tools that work primarily through Javascript. It's also everywhere and difficult to avoid, even if you want to.
+I have also been thinking about trying to teach my current DH students a little bit of Javascript, which is the language used in most web programming and, as I learned at the Davis session, can even run a full-fledged server in four lines of code using the [MEAN] stack. (Insane!) I haven't tried that out yet. Since the goal of Software Carpentry, which uses the languages Python and R, is to teach proper programming technique, there is no reason some of the lessons can't be adjusted to use Javascript, too. It's useful for DH people as there are quite a number of neat mapping and visualization tools that work primarily through Javascript. It's also everywhere and difficult to avoid, even if you want to.
 
-[Python]: (http://python.org)
-[Michigan State]: (http://msu.edu)
-[MEAN]: (http://en.wikipedia.org/wiki/MEAN)
-[Humanities, Arts, Science and Technology Alliance and Collaboratory]: (http://www.hastac.org)
-[HASTAC 2015]: (http://hastac2015.org)
-[Digital Humanities Seminar]:(http://seanpue.githubi.io/al340)
-[Software Carpentry]:  (http://software-carpentry.org)
-[Data Carpentry]: (http://datacarpentry.org)
+[Python]: http://python.org
+[Michigan State]: http://msu.edu
+[MEAN]: http://en.wikipedia.org/wiki/MEAN
+[Humanities, Arts, Science and Technology Alliance and Collaboratory]: http://www.hastac.org
+[HASTAC 2015]: http://hastac2015.org
+[Digital Humanities Seminar]:http://seanpue.githubi.io/al340
+[Software Carpentry]:  http://software-carpentry.org
+[Data Carpentry]: http://datacarpentry.org
