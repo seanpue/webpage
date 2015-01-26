@@ -398,7 +398,7 @@ WRITE_TAG_CLOUD = True
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+#REDIRECTIONS = []
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -720,7 +720,7 @@ COMMENT_SYSTEM_ID = "seanpue"
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata
-# PRETTY_URLS = False
+PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.

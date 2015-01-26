@@ -5,11 +5,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://seanpue.com/2014/index.html</loc>
+  <loc>http://seanpue.com/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/2015/index.html</loc>
+  <loc>http://seanpue.com/2014/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/2015/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -17,7 +21,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/about/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/archive.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -25,15 +37,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/academic/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/art.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/art/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/blogging-academic.html</loc>
-  <lastmod>2014-01-28</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/blogging/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -41,7 +65,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/book/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/coding.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/coding/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -49,11 +81,19 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/css/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/d3.html</loc>
-  <lastmod>2014-04-06</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/data-carpentry.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/data-carpentry/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -61,23 +101,31 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/fp7/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/ghalib.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/ghalib/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/hindi-urdu-blogging.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi-urdu-translation-css.html</loc>
-  <lastmod>2014-03-26</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/hindi.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/categories/index.html</loc>
+  <loc>http://seanpue.com/categories/hindi/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -85,11 +133,19 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/javascript/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/miraji-words.html</loc>
-  <lastmod>2014-03-26</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/miraji.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/miraji/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -97,19 +153,31 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/nests/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/python.html</loc>
-  <lastmod>2014-01-25</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/software-carpentry.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/software-carpentry/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/topic-modeling.html</loc>
-  <lastmod>2014-04-06</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/translation.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/translation/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -117,7 +185,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/word-clouds.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/word-clouds/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -125,7 +201,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/words/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/zahoor.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/zahoor/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -133,19 +217,51 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/galleries/i2havesomedreams/index.html</loc>
+  <loc>http://seanpue.com/cv/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/galleries/index.html</loc>
+  <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/2014/index.html</loc>
+  <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری_files/poll.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/2015/index.html</loc>
+  <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری_files/poll_data/7r8gQb8MIqE_002.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری_files/poll_data/hub.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری_files/poll_data/hub_002.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری_files/poll_data/ping.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/galleries/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/galleries/i2havesomedreams/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/2014/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/2015/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -153,7 +269,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/about/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/archive.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -161,7 +285,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/academic/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/art.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/art/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -169,7 +301,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/blogging/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/book.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/book/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -177,15 +317,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/coding/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/css.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/css/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/d3.html</loc>
-  <lastmod>2014-04-06</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/data-carpentry.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/data-carpentry/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -193,23 +345,31 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/fp7/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/ghalib.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/ghalib/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/hindi-urdu-blogging.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi-urdu-translation-css.html</loc>
-  <lastmod>2014-03-26</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/hindi.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/categories/index.html</loc>
+  <loc>http://seanpue.com/hi/categories/hindi/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -217,11 +377,19 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/javascript/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/miraji-words.html</loc>
-  <lastmod>2014-03-26</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/miraji.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/miraji/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -229,15 +397,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/nests/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/software-carpentry.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/software-carpentry/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/topic-modeling.html</loc>
-  <lastmod>2014-04-06</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/translation.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/translation/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -245,7 +425,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/word-clouds.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/word-clouds/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -253,7 +441,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/words/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/zahoor.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/zahoor/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -261,19 +457,19 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/galleries/i2havesomedreams/index.html</loc>
+  <loc>http://seanpue.com/hi/cv/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/galleries/index.html</loc>
+  <loc>http://seanpue.com/hi/galleries/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/i-too-have-some-dreams/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <loc>http://seanpue.com/hi/galleries/i2havesomedreams/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/index.html</loc>
+  <loc>http://seanpue.com/hi/i-too-have-some-dreams/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -281,7 +477,23 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/errata.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/errata/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem-1.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem-1/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -289,7 +501,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_1/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_10.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_10/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -297,7 +517,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_11/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_12.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_12/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -305,7 +533,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_13/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_14.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_14/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -313,7 +549,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_15/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_16.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_16/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -321,7 +565,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_17/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_18.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_18/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -329,7 +581,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_19/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_2.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_2/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -337,7 +597,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_20/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_21.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_21/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -345,7 +613,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_22/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_23.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_23/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -353,7 +629,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_24/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_25.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_25/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -361,7 +645,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_26/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_27.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_27/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -369,7 +661,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_28/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_29.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_29/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -377,7 +677,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_3/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_30.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_30/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -385,7 +693,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_4/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_5.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_5/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -393,7 +709,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_6/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_7.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_7/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -401,15 +725,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_8/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams/poem_9.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/poem-1/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <loc>http://seanpue.com/hi/itoohavesomedreams/poem_9/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/poem-1/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/added-hindi-and-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/added-hindi-and-urdu/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -417,7 +753,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/posts/added-poems-and-emoji/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/posts/book-cover.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/book-cover/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -425,11 +769,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/posts/devanagaring-urdu/index.html</loc>
-  <lastmod>2014-09-26</lastmod>
+  <loc>http://seanpue.com/hi/posts/certified-datasoftware-carpentry-trainer/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/devanagaring-urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/first-review-of-my-book-in-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/first-review-of-my-book-in-urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/i-too-have-some-dreams-published.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/i-too-have-some-dreams-published/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -437,15 +797,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/posts/long-time-no-blog/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/posts/mirajis-favorite-words.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/hi/posts/translation-blogging/index.html</loc>
-  <lastmod>2014-02-11</lastmod>
+  <loc>http://seanpue.com/hi/posts/mirajis-favorite-words/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/translation-blogging/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/posts/welcome-to-my-blog.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/posts/welcome-to-my-blog/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -453,11 +825,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/i-too-have-some-dreams/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <loc>http://seanpue.com/hi/posts/who-was-ghalib/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/index.html</loc>
+  <loc>http://seanpue.com/hi/posts/word-clouds-in-hindi-and-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/i-too-have-some-dreams/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -465,7 +841,23 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/errata.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/errata/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem-1.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem-1/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -473,7 +865,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_1/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_10.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_10/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -481,7 +881,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_11/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_12.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_12/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -489,7 +897,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_13/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_14.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_14/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -497,7 +913,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_15/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_16.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_16/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -505,7 +929,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_17/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_18.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_18/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -513,7 +945,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_19/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_2.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_2/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -521,7 +961,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_20/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_21.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_21/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -529,7 +977,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_22/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_23.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_23/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -537,7 +993,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_24/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_25.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_25/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -545,7 +1009,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_26/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_27.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_27/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -553,7 +1025,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_28/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_29.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_29/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -561,7 +1041,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_3/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_30.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_30/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -569,7 +1057,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_4/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_5.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_5/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -577,7 +1073,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_6/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_7.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_7/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -585,15 +1089,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_8/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/itoohavesomedreams/poem_9.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/poem-1/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <loc>http://seanpue.com/itoohavesomedreams/poem_9/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/poem-1/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/added-hindi-and-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/added-hindi-and-urdu/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -601,7 +1117,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/posts/added-poems-and-emoji/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/posts/book-cover.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/book-cover/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -609,11 +1133,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/posts/devanagaring-urdu/index.html</loc>
-  <lastmod>2014-09-26</lastmod>
+  <loc>http://seanpue.com/posts/certified-datasoftware-carpentry-trainer/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/devanagaring-urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/first-review-of-my-book-in-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/first-review-of-my-book-in-urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/i-too-have-some-dreams-published.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/i-too-have-some-dreams-published/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -621,15 +1161,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/posts/long-time-no-blog/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/posts/mirajis-favorite-words.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/posts/translation-blogging/index.html</loc>
-  <lastmod>2014-02-11</lastmod>
+  <loc>http://seanpue.com/posts/mirajis-favorite-words/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/translation-blogging/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/posts/welcome-to-my-blog.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/posts/welcome-to-my-blog/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -637,11 +1189,23 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/2014/index.html</loc>
+  <loc>http://seanpue.com/posts/who-was-ghalib/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/2015/index.html</loc>
+  <loc>http://seanpue.com/posts/word-clouds-in-hindi-and-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/2014/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/2015/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -649,7 +1213,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/about/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/archive.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -657,7 +1229,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/academic/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/art.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/art/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -665,7 +1245,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/blogging/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/book.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/book/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -673,15 +1261,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/coding/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/css.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/css/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/d3.html</loc>
-  <lastmod>2014-04-06</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/data-carpentry.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/data-carpentry/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -689,23 +1289,31 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/fp7/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/ghalib.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/ghalib/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/hindi-urdu-blogging.html</loc>
-  <lastmod>2014-02-04</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi-urdu-translation-css.html</loc>
-  <lastmod>2014-03-26</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/hindi.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/categories/index.html</loc>
+  <loc>http://seanpue.com/ur/categories/hindi/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -713,11 +1321,19 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/javascript/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/miraji-words.html</loc>
-  <lastmod>2014-03-26</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/miraji.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/miraji/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -725,15 +1341,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/nests/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/software-carpentry.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/software-carpentry/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/topic-modeling.html</loc>
-  <lastmod>2014-04-06</lastmod>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/translation.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/translation/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -741,7 +1369,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/word-clouds.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/word-clouds/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -749,7 +1385,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/words/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/zahoor.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/zahoor/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -757,19 +1401,19 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/galleries/i2havesomedreams/index.html</loc>
+  <loc>http://seanpue.com/ur/cv/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/galleries/index.html</loc>
+  <loc>http://seanpue.com/ur/galleries/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/i-too-have-some-dreams/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <loc>http://seanpue.com/ur/galleries/i2havesomedreams/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/index.html</loc>
+  <loc>http://seanpue.com/ur/i-too-have-some-dreams/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -777,7 +1421,23 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/errata.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/errata/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem-1.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem-1/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -785,7 +1445,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_1/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_10.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_10/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -793,7 +1461,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_11/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_12.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_12/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -801,7 +1477,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_13/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_14.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_14/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -809,7 +1493,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_15/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_16.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_16/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -817,7 +1509,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_17/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_18.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_18/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -825,7 +1525,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_19/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_2.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_2/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -833,7 +1541,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_20/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_21.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_21/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -841,7 +1557,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_22/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_23.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_23/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -849,7 +1573,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_24/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_25.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_25/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -857,7 +1589,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_26/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_27.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_27/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -865,7 +1605,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_28/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_29.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_29/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -873,7 +1621,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_3/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_30.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_30/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -881,7 +1637,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_4/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_5.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_5/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -889,7 +1653,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_6/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_7.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_7/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -897,15 +1669,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_8/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams/poem_9.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/poem-1/index.html</loc>
-  <lastmod>2014-08-25</lastmod>
+  <loc>http://seanpue.com/ur/itoohavesomedreams/poem_9/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/poem-1/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/added-hindi-and-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/added-hindi-and-urdu/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -913,7 +1697,15 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/posts/added-poems-and-emoji/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/posts/book-cover.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/book-cover/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -921,11 +1713,27 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/posts/devanagaring-urdu/index.html</loc>
-  <lastmod>2014-09-26</lastmod>
+  <loc>http://seanpue.com/ur/posts/certified-datasoftware-carpentry-trainer/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/devanagaring-urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/first-review-of-my-book-in-urdu.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/first-review-of-my-book-in-urdu/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/i-too-have-some-dreams-published.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/i-too-have-some-dreams-published/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
@@ -933,19 +1741,39 @@
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/posts/long-time-no-blog/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/posts/mirajis-favorite-words.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
-  <loc>http://seanpue.com/ur/posts/translation-blogging/index.html</loc>
-  <lastmod>2014-02-11</lastmod>
+  <loc>http://seanpue.com/ur/posts/mirajis-favorite-words/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/translation-blogging/</loc>
+  <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/welcome-to-my-blog.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/posts/welcome-to-my-blog/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/posts/who-was-ghalib.html</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/who-was-ghalib/</loc>
+  <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/word-clouds-in-hindi-and-urdu.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
 </urlset>
