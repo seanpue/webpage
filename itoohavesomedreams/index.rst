@@ -17,7 +17,7 @@
   Welcome! This is a resource page for my book, `I Too Have Some Dreams: N. M.
   Rashed and Modernism in Urdu Poetry (University of California Press, 2014)
   <http://www.ucpress.edu/book.php?isbn=9780520283107>`_. Below you will find
-  the table of contents and also links to the thirty poems in the appendix. UC
+  the table of contents and also links to the thirty poems in the appendix, as well as a list of errata. UC
   Press has made the `Introduction
   <http://www.ucpress.edu/content/chapters/12808.intro.pdf>`_ available as an
   excerpt.
@@ -115,6 +115,11 @@ Notes
 Bibliography
 
 Index 
+
+
+|
+
+`List of Errata <errata/>`_
 
 .. admonition:: Book Description
 
