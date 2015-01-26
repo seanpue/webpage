@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
@@ -411,13 +410,18 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-DEPLOY_COMMANDS = {
-     'default': [
-         'cp cv/cv.pdf output/cv.pdf',
-         'cp cv/cv-2page.pdf output/cv-2page.pdf',
+# DEPLOY_COMMANDS = {
+#     'default': [
 #         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
-     ]
-}
+#     ]
+# }
+DEPLOY_COMMANDS = [
+ #'rst2pdf pages/cv.rst --strip-elements-with-class=contents,admonition output/cv.pdf -s output/assets/pdfstyles/cv_styles.txt',
+ 'cp cv/cv.pdf output/cv.pdf',
+ 'cp cv/cv-2page.pdf output/cv-2page.pdf',
+# 'git push origin master',
+# 'git push production'
+]
 
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
@@ -425,7 +429,7 @@ DEPLOY_COMMANDS = {
 # GITHUB_SOURCE_BRANCH = 'master'
 # GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
-# The name of the remote where you wish to push to, using github_G.
+# The name of the remote where you wish to push to, using github_deploy.
 # GITHUB_REMOTE_NAME = 'origin'
 
 # Where the output site should be located
@@ -619,7 +623,7 @@ RSS_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>."'
+LICENSE = 'This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.'
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 # LICENSE = """
@@ -630,8 +634,9 @@ LICENSE = '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}<br/><div data-social-share-privacy="true"></div>'
+#CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}<br/><div data-social-share-privacy="true"></div>'
 
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br/><div data-social-share-privacy="true"></div>'
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
 # intelligently format the setting properly.
@@ -775,7 +780,7 @@ COMMENT_SYSTEM_ID = "seanpue"
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty.
 # (translatable)
-# SOCIAL_BUTTONS_CODE = """
+SOCIAL_BUTTONS_CODE = ""#"
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
 # <a class="addthis_button_more">Share</a>
@@ -872,7 +877,11 @@ COMMENT_SYSTEM_ID = "seanpue"
 # in the default template (base.tmpl).
 # (translatable)
 # BODY_END = ""
-
+BODY_END = """
+<script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script>
+<script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script>
+<script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
+"""
 # The possibility to extract metadata from the filename by using a
 # regular expression.
 # To make it work you need to name parts of your regular expression.
