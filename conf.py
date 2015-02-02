@@ -230,7 +230,7 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.rst", "", "story.tmpl"),
-    ("cv/index.rst", "", "story.tmpl"),
+    ("cv/cv.rst", "", "story.tmpl"),
     ("resources/*.rst","","story.tmpl"),
     ("itoohavesomedreams/*.rst","","story.tmpl")
 )

@@ -1,6 +1,6 @@
 .. title: Curriculum Vitae of A. Sean Pue
 .. slug: cv
-.. date: 2014/01/26 23:00
+.. date: 2015/02/05 23:00
 .. tags:
 .. link:
 .. description:
@@ -481,6 +481,9 @@ Berkeley Urdu Language Program in Pakistan Fellowship (Lahore)
 ---------------
 Research Awards
 ---------------
+**2014**
+American Institute of Pakistan Studies, International Travel Award
+
 **2012-3**
 MSU College of Arts and Letters Faculty Learning Community Grant, 
 “Digital Humanities,” with Danielle DeVoss
@@ -521,7 +524,7 @@ Teaching
 Michigan State University
 =========================
 
-AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014)
+AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
 GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014) 
 
@@ -531,13 +534,15 @@ GSAH 230: Encountering Difference: East-West, North South (Fall 2009, Fall 2010,
 
 GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
 
+GSAH 499: Senior Thesis in Global Studies in Arts and Humanities (Spring 2015)
+
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
 
 LL151.2: Basic Hindi I (Fall 2008, Fall 2009, Fall 2010, Fall 2012, Fall 2014)
 
-LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013)
+LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013, Spring 2015)
 
-LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013))
+LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013)
 
 LL252.2: Intermediate Hindi II (Spring 2014)
 
@@ -562,6 +567,12 @@ American Institute of Pakistan Studies, Board of Trustees
 
 Michigan State University
 =========================
+
+**2014—** 
+Global Studies in Arts and Humanities Curriculum Committee
+
+**2013—** 
+College Advisory Council, College of Arts and Letters
 
 **2013–14**
 Asian Studies Center Advisory Board
@@ -612,6 +623,6 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 28 October 2014.
+   This C.V. was last updated on 05 February 2015.
 
 
