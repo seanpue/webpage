@@ -25,7 +25,7 @@ When printing a PDF, you can print two pages a sheet. For left-to-right document
 
 <a href="http://en.wikipedia.org/wiki/Recto_and_verso"><img alt="Recto and verso.svg" src="http://upload.wikimedia.org/wikipedia/commons/7/7b/Recto_and_verso.svg" height="145" width="218"></a>
 
-However, for [right-to-left](http://en.wikipedia.org/wiki/Right-to-left) books there is a problem as the verso and recto are reversed, meaning one reads the right page then the left page. It's rather disorienting to read them if they are reversed. So I went about looking for a good solution.
+However, for [right-to-left](http://en.wikipedia.org/wiki/Right-to-left) books there is a problem as the verso and recto are reversed, meaning one reads the right page then the left page. It's rather disorienting to read them if they are not printed correctly. So I went about looking for a good solution.
 
 <a href="http://en.wikipedia.org/wiki/Recto_and_verso"><img alt="Recto and verso RTL.svg" src="http://upload.wikimedia.org/wikipedia/commons/f/fa/Recto_and_verso_RTL.svg" height="145" width="218"></a>
 
