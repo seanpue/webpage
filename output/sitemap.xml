@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/categories/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/academic.html</loc>
@@ -43,6 +43,10 @@
  <url>
   <loc>http://seanpue.com/categories/art/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/binders/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/blogging-academic.html</loc>
@@ -71,6 +75,10 @@
  <url>
   <loc>http://seanpue.com/categories/coding/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/crl/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/css.html</loc>
@@ -133,6 +141,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/majeed_amjad/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/miraji-words.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -153,12 +165,28 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/categories/pdf/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/pdfjam/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/pdfpun/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/categories/python.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/reviews-itoohavesomedreams-transliteration/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/categories/rtl/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/categories/software-carpentry.html</loc>
@@ -282,7 +310,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/academic.html</loc>
@@ -299,6 +327,10 @@
  <url>
   <loc>http://seanpue.com/hi/categories/art/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/binders/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/blogging.html</loc>
@@ -323,6 +355,10 @@
  <url>
   <loc>http://seanpue.com/hi/categories/coding/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/crl/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/css.html</loc>
@@ -385,6 +421,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/majeed_amjad/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/miraji-words.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -405,8 +445,24 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/categories/pdf/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/pdfjam/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/pdfpun/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/categories/reviews-itoohavesomedreams-transliteration/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/categories/rtl/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/categories/software-carpentry.html</loc>
@@ -490,7 +546,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/index-1.html</loc>
-  <lastmod>2015-01-26</lastmod>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/itoohavesomedreams.html</loc>
@@ -837,6 +893,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/posts/printing-right-to-left-pdf-books/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/posts/reading-group-on-topic-modeling-tomorrow/</loc>
   <lastmod>2015-01-27</lastmod>
  </url>
@@ -870,7 +930,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/index-1.html</loc>
-  <lastmod>2015-03-07</lastmod>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/itoohavesomedreams/</loc>
@@ -1213,6 +1273,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/posts/printing-right-to-left-pdf-books/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/posts/translation-blogging/</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -1262,7 +1326,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/academic.html</loc>
@@ -1279,6 +1343,10 @@
  <url>
   <loc>http://seanpue.com/ur/categories/art/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/binders/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/blogging.html</loc>
@@ -1303,6 +1371,10 @@
  <url>
   <loc>http://seanpue.com/ur/categories/coding/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/crl/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/css.html</loc>
@@ -1365,6 +1437,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/majeed_amjad/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/miraji-words.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -1385,8 +1461,24 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/ur/categories/pdf/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/pdfjam/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/pdfpun/</loc>
+  <lastmod>2015-03-09</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/ur/categories/reviews-itoohavesomedreams-transliteration/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/categories/rtl/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/categories/software-carpentry.html</loc>
@@ -1470,7 +1562,7 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/index-1.html</loc>
-  <lastmod>2015-01-26</lastmod>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/itoohavesomedreams.html</loc>
@@ -1815,6 +1907,10 @@
  <url>
   <loc>http://seanpue.com/ur/posts/mirajis-favorite-words/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/printing-right-to-left-pdf-books/</loc>
+  <lastmod>2015-03-09</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/reading-group-on-topic-modeling-tomorrow/</loc>

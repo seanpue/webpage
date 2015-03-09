@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue</title><link>http://seanpue.com/</link><description>This is the blog of A. Sean Pue.</description><atom:link href="http://seanpue.com/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 08 Mar 2015 22:09:12 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Good Times in Pakistan</title><link>http://seanpue.com/posts/good-times-in-pakistan/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I received a travel grant from the &lt;a href="http://www.pakistanstudies-aips.org"&gt;American Institute of Pakistan Studies&lt;/a&gt; that
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue</title><link>http://seanpue.com/</link><description>This is the blog of A. Sean Pue.</description><atom:link href="http://seanpue.com/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 09 Mar 2015 16:41:51 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Printing Right-To-Left PDF Books</title><link>http://seanpue.com/posts/printing-right-to-left-pdf-books/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;Today is the first day of Spring Break, and so I am enjoying some nice weather and not teaching.&lt;/p&gt;
+&lt;p&gt;I am working on a panel abstract about the poet Majeed Amjad for the &lt;a href="http://southasiaconference.wisc.edu/"&gt;Annual Conference on South Asia&lt;/a&gt; held in beautiful Madison, Wisconsin.
+I have applied to bring a certain professor from Pakistan to the event, and two amazing Urdu professors
+from University of Virginia have also signed on to the panel. I do hope it goes forward.&lt;/p&gt;
+&lt;p&gt;I found an interesting  &lt;a href="http://catalog.crl.edu/record=b2874293~S1"&gt;book&lt;/a&gt; on Majeed Amjad through my library. It is actually available as PDF through the
+&lt;a href="http://www.crl.edu/"&gt;Center for Research Libraries&lt;/a&gt; (CRL), of which &lt;a href="http://lib.msu.edu"&gt;my university library&lt;/a&gt; is a member.&lt;/p&gt;
+&lt;p&gt;It's wonderful to be able to download a PDF of the book. However, I love writing on books.
+Actually, I don't like writing on my own books but rather on photocopies of them, especially when doing research. I like to print pages double-sided and then keep the pages in a recycled report cover that I can put it in my file cabinet when I am done. That doesn't take much space, and I can see four pages at a time when reading/skimming.&lt;/p&gt;
+&lt;p&gt;When printing a PDF, you can print two pages a sheet. For left-to-right documents, that is not a problem.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Recto_and_verso"&gt;&lt;img alt="Recto and verso.svg" src="http://upload.wikimedia.org/wikipedia/commons/7/7b/Recto_and_verso.svg" height="145" width="218"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;However, for &lt;a href="http://en.wikipedia.org/wiki/Right-to-left"&gt;right-to-left&lt;/a&gt; books there is a problem as the verso and recto are reversed, meaning one reads the right page then the left page. It's rather disorienting to read them if they are reversed. So I went about looking for a good solution.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Recto_and_verso"&gt;&lt;img alt="Recto and verso RTL.svg" src="http://upload.wikimedia.org/wikipedia/commons/f/fa/Recto_and_verso_RTL.svg" height="145" width="218"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;First, I explored a PDF-manipulation library for the Python language called &lt;a href="https://github.com/mstamy2/PyPDF2"&gt;PyPDF2&lt;/a&gt;. It is quite neat, but I had some
+trouble accomplishing the task of merging the pages.&lt;/p&gt;
+&lt;p&gt;I then stumbled upon a set of PDF shell scripts called &lt;a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/"&gt;PDFjam&lt;/a&gt;. I already had them installed on my computer,
+perhaps as part of the document preparation system &lt;a href="http://seanpue.com/posts/printing-right-to-left-pdf-books/www.latex-project.org/"&gt;LaTeX&lt;/a&gt;. (I use &lt;a href="https://tug.org/mactex/"&gt;MacTex&lt;/a&gt; which is a distribution of &lt;a href="https://www.tug.org/texlive/"&gt;Tex Live&lt;/a&gt; for OS X.)&lt;/p&gt;
+&lt;p&gt;There is a program in PDFjam called &lt;code&gt;pdfnup&lt;/code&gt; which allows to "n-up the pages of pdf files."
+To &lt;a href="http://en.wikipedia.org/wiki/N-up"&gt;n-up&lt;/a&gt; apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called &lt;code&gt;pdfpun&lt;/code&gt;—a right-to-left version and exactly what I needed!&lt;/p&gt;
+&lt;p&gt;For all the other RTL PDF book printers out there, here is the command I used on the original file &lt;code&gt;dds-85303.pdf&lt;/code&gt; to save it as &lt;code&gt;gulaab_ke_phuul.pdf&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="n"&gt;pdfpun&lt;/span&gt; &lt;span class="n"&gt;dds&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;85303.&lt;/span&gt;&lt;span class="n"&gt;pdf&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;outfile&lt;/span&gt; &lt;span class="n"&gt;gulaab_ke_phuul&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;pdf&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;That was close. However, there was a problem in that the pages were two small. I tried messing around with the
+parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  &lt;code&gt;pdfpun&lt;/code&gt; allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="n"&gt;pdfpun&lt;/span&gt; &lt;span class="n"&gt;dds&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;85303.&lt;/span&gt;&lt;span class="n"&gt;pdf&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;257&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;outfile&lt;/span&gt; &lt;span class="n"&gt;gulaab_ke_phuul&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;pdf&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;The pattern is here:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="n"&gt;pdfpun&lt;/span&gt; &lt;span class="n"&gt;ORIGFILE&lt;/span&gt; &lt;span class="n"&gt;PAGERANGE&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;outfile&lt;/span&gt; &lt;span class="n"&gt;OUTPUTFILE&lt;/span&gt;
+&lt;/pre&gt;
+
+
+&lt;p&gt;It worked perfectly. Now I'm off to read the book!
+&lt;a href="https://www.flickr.com/photos/129471681@N03/16581802309" title="Gulaab ke phuul by Sean Pue, on Flickr"&gt;&lt;img src="https://farm8.staticflickr.com/7610/16581802309_a177566398_n.jpg" width="240" height="320" alt="Gulaab ke phuul"&gt;&lt;/a&gt;&lt;a href="https://www.flickr.com/photos/129471681@N03/16742082536" title="Gulaab ke phuul by Sean Pue, on Flickr"&gt;&lt;img src="https://farm9.staticflickr.com/8706/16742082536_b0c7c7ecde_n.jpg" width="240" height="320" alt="Gulaab ke phuul"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>CRL</category><category>PDFjam</category><category>binders</category><category>majeed_amjad</category><category>pdf</category><category>pdfpun</category><category>rtl</category><guid>http://seanpue.com/posts/printing-right-to-left-pdf-books/</guid><pubDate>Mon, 09 Mar 2015 18:43:50 GMT</pubDate></item><item><title>Good Times in Pakistan</title><link>http://seanpue.com/posts/good-times-in-pakistan/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I received a travel grant from the &lt;a href="http://www.pakistanstudies-aips.org"&gt;American Institute of Pakistan Studies&lt;/a&gt; that
 brought me to Karachi and Lahore to give talks in February. This is a (late!) blog post about my rejuvenating visit.&lt;/p&gt;
 &lt;p&gt;On February 8–10, I attended the amazing &lt;a href="http://www.karachiliteraturefestival.org/"&gt;Karachi Literature Festival&lt;/a&gt; (KLF) and
 participated in a panel launching my new book, &lt;a href="http://seanpue.com/itoohavesomedreams/"&gt;I Too Have Some Dreams: N. M.
@@ -145,24 +180,4 @@ to say about word clouds in Urdu and Hindi, but the poster will have to suffice 
 &lt;li&gt;&lt;em&gt;man&lt;/em&gt; (mind)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;chāñd&lt;/em&gt; (moon)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I will do the same for Rāshid and Ḳhālid later, but this list is just too delightful not to share.&lt;/p&gt;&lt;/div&gt;</description><category>miraji</category><category>words</category><guid>http://seanpue.com/posts/mirajis-favorite-words/</guid><pubDate>Tue, 11 Feb 2014 15:53:04 GMT</pubDate></item><item><title>Added Hindi and Urdu</title><link>http://seanpue.com/posts/added-hindi-and-urdu/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I added the Urdu translation of the blog software, and I also translated the
-blog commands into Hindi. Should I care to, I can now compose Hindi and Urdu
-versions of my posts. The translations of the blog
-software are &lt;a class="reference external" href="https://www.transifex.com/projects/p/nikola/"&gt;crowdsourced&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I do not do much computing in Hindi, so I checked some of the phrases against
-the Wordpress translations in addition to querying to see how many instances
-there are of particular words on the Internet. For example, one phrase I was
-wavering on was the word for archive. अभिलेखागार &lt;em&gt;abhilekhāgār&lt;/em&gt; or “archive” has
-217,000 hits (many of which are Indian government archive websites), whereas
-अार्काइव &lt;em&gt;ārkāiv&lt;/em&gt; has 592,000. That‘s what the Urdu translation went with as
-آرکائیو. So I went with अार्काइव. On the other hand, The Hindi word for
-“categories,” श्रेणियाँ &lt;em&gt;shreṇiyāñ&lt;/em&gt;, had 814,000 pages, whereas कैटेगरी &lt;em&gt;kaiṭegarī&lt;/em&gt; had
-129,000 and the plural form कैटेगरियां only 49,100.&lt;/p&gt;
-&lt;p&gt;I am trying to figure out now what the best current &lt;a class="reference external" href="http://seanpue.com/posts/added-hindi-and-urdu/_http://en.wikipedia.org/wiki/Cascading_Style_Sheets"&gt;CSS&lt;/a&gt; styling is for
-displaying Hindi and Urdu text on the Internet. Most browsers on recent
-computers can handle displaying the text to the extent that it is at least
-readable. Urdu in its preferred script, &lt;em&gt;nastaʿlīq&lt;/em&gt;, is rather difficult to
-render, so I would be curious to hear suggestions. There are ways of embedding
-fonts in webpages that might be a possibility. I have not been following those
-technologies very closely, and so it will be interesting to find out how
-standardized the techniques are at this point.&lt;/p&gt;&lt;/div&gt;</description><category>css</category><category>hindi</category><category>translation</category><category>urdu</category><guid>http://seanpue.com/posts/added-hindi-and-urdu/</guid><pubDate>Wed, 05 Feb 2014 01:30:41 GMT</pubDate></item></channel></rss>
+&lt;p&gt;I will do the same for Rāshid and Ḳhālid later, but this list is just too delightful not to share.&lt;/p&gt;&lt;/div&gt;</description><category>miraji</category><category>words</category><guid>http://seanpue.com/posts/mirajis-favorite-words/</guid><pubDate>Tue, 11 Feb 2014 15:53:04 GMT</pubDate></item></channel></rss>

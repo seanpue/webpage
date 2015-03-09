@@ -100,6 +100,61 @@
 <div class="postindex">
     <article class="h-entry post-text">
     <header>
+        <h1 class="p-name entry-title"><a href="posts/printing-right-to-left-pdf-books/" class="u-url">Printing Right-To-Left PDF Books</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">A. Sean Pue</span></p>
+            <p class="dateline"><a href="posts/printing-right-to-left-pdf-books/" rel="bookmark"><time class="published dt-published" datetime="2015-03-09T14:43:50-04:00" title="2015-03-09 14:43">2015-03-09 14:43</time></a></p>
+                <p class="commentline">
+        
+    <a href="posts/printing-right-to-left-pdf-books/#disqus_thread" data-disqus-identifier="cache/posts/printing-right-to-left-pdf-books.html">Comments</a>
+
+
+        </p>
+</div>
+    </header>
+    <div class="e-content entry-content">
+    <div>
+<p>Today is the first day of Spring Break, and so I am enjoying some nice weather and not teaching.</p>
+<p>I am working on a panel abstract about the poet Majeed Amjad for the <a href="http://southasiaconference.wisc.edu/">Annual Conference on South Asia</a> held in beautiful Madison, Wisconsin.
+I have applied to bring a certain professor from Pakistan to the event, and two amazing Urdu professors
+from University of Virginia have also signed on to the panel. I do hope it goes forward.</p>
+<p>I found an interesting  <a href="http://catalog.crl.edu/record=b2874293~S1">book</a> on Majeed Amjad through my library. It is actually available as PDF through the
+<a href="http://www.crl.edu/">Center for Research Libraries</a> (CRL), of which <a href="http://lib.msu.edu">my university library</a> is a member.</p>
+<p>It's wonderful to be able to download a PDF of the book. However, I love writing on books.
+Actually, I don't like writing on my own books but rather on photocopies of them, especially when doing research. I like to print pages double-sided and then keep the pages in a recycled report cover that I can put it in my file cabinet when I am done. That doesn't take much space, and I can see four pages at a time when reading/skimming.</p>
+<p>When printing a PDF, you can print two pages a sheet. For left-to-right documents, that is not a problem.</p>
+<p><a href="http://en.wikipedia.org/wiki/Recto_and_verso"><img alt="Recto and verso.svg" src="http://upload.wikimedia.org/wikipedia/commons/7/7b/Recto_and_verso.svg" height="145" width="218"></a></p>
+<p>However, for <a href="http://en.wikipedia.org/wiki/Right-to-left">right-to-left</a> books there is a problem as the verso and recto are reversed, meaning one reads the right page then the left page. It's rather disorienting to read them if they are reversed. So I went about looking for a good solution.</p>
+<p><a href="http://en.wikipedia.org/wiki/Recto_and_verso"><img alt="Recto and verso RTL.svg" src="http://upload.wikimedia.org/wikipedia/commons/f/fa/Recto_and_verso_RTL.svg" height="145" width="218"></a></p>
+<p>First, I explored a PDF-manipulation library for the Python language called <a href="https://github.com/mstamy2/PyPDF2">PyPDF2</a>. It is quite neat, but I had some
+trouble accomplishing the task of merging the pages.</p>
+<p>I then stumbled upon a set of PDF shell scripts called <a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/">PDFjam</a>. I already had them installed on my computer,
+perhaps as part of the document preparation system <a href="posts/printing-right-to-left-pdf-books/www.latex-project.org/">LaTeX</a>. (I use <a href="https://tug.org/mactex/">MacTex</a> which is a distribution of <a href="https://www.tug.org/texlive/">Tex Live</a> for OS X.)</p>
+<p>There is a program in PDFjam called <code>pdfnup</code> which allows to "n-up the pages of pdf files."
+To <a href="http://en.wikipedia.org/wiki/N-up">n-up</a> apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called <code>pdfpun</code>—a right-to-left version and exactly what I needed!</p>
+<p>For all the other RTL PDF book printers out there, here is the command I used on the original file <code>dds-85303.pdf</code> to save it as <code>gulaab_ke_phuul.pdf</code>:</p>
+<pre class="code literal-block"><span class="n">pdfpun</span> <span class="n">dds</span><span class="o">-</span><span class="mf">85303.</span><span class="n">pdf</span> <span class="o">--</span><span class="n">outfile</span> <span class="n">gulaab_ke_phuul</span><span class="p">.</span><span class="n">pdf</span>
+</pre>
+
+
+<p>That was close. However, there was a problem in that the pages were two small. I tried messing around with the
+parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  <code>pdfpun</code> allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:</p>
+<pre class="code literal-block"><span class="n">pdfpun</span> <span class="n">dds</span><span class="o">-</span><span class="mf">85303.</span><span class="n">pdf</span> <span class="mi">2</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="o">-</span><span class="mi">257</span> <span class="o">--</span><span class="n">outfile</span> <span class="n">gulaab_ke_phuul</span><span class="p">.</span><span class="n">pdf</span>
+</pre>
+
+
+<p>The pattern is here:</p>
+<pre class="code literal-block"><span class="n">pdfpun</span> <span class="n">ORIGFILE</span> <span class="n">PAGERANGE</span> <span class="o">--</span><span class="n">outfile</span> <span class="n">OUTPUTFILE</span>
+</pre>
+
+
+<p>It worked perfectly. Now I'm off to read the book!
+<a href="https://www.flickr.com/photos/129471681@N03/16581802309" title="Gulaab ke phuul by Sean Pue, on Flickr"><img src="https://farm8.staticflickr.com/7610/16581802309_a177566398_n.jpg" width="240" height="320" alt="Gulaab ke phuul"></a><a href="https://www.flickr.com/photos/129471681@N03/16742082536" title="Gulaab ke phuul by Sean Pue, on Flickr"><img src="https://farm9.staticflickr.com/8706/16742082536_b0c7c7ecde_n.jpg" width="240" height="320" alt="Gulaab ke phuul"></a></p>
+</div>
+    </div>
+    </article>
+    <article class="h-entry post-text">
+    <header>
         <h1 class="p-name entry-title"><a href="posts/good-times-in-pakistan/" class="u-url">Good Times in Pakistan</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn">A. Sean Pue</span></p>
@@ -434,46 +489,6 @@ to say about word clouds in Urdu and Hindi, but the poster will have to suffice 
 <em>chāñd</em> (moon)</li>
 </ol>
 <p>I will do the same for Rāshid and Ḳhālid later, but this list is just too delightful not to share.</p>
-</div>
-    </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/added-hindi-and-urdu/" class="u-url">Added Hindi and Urdu</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">A. Sean Pue</span></p>
-            <p class="dateline"><a href="posts/added-hindi-and-urdu/" rel="bookmark"><time class="published dt-published" datetime="2014-02-04T20:30:41-05:00" title="2014-02-04 20:30">2014-02-04 20:30</time></a></p>
-                <p class="commentline">
-        
-    <a href="posts/added-hindi-and-urdu/#disqus_thread" data-disqus-identifier="cache/posts/added-hindi-and-urdu.html">Comments</a>
-
-
-        </p>
-</div>
-    </header>
-    <div class="e-content entry-content">
-    <div>
-<p>I added the Urdu translation of the blog software, and I also translated the
-blog commands into Hindi. Should I care to, I can now compose Hindi and Urdu
-versions of my posts. The translations of the blog
-software are <a class="reference external" href="https://www.transifex.com/projects/p/nikola/">crowdsourced</a>.</p>
-<p>I do not do much computing in Hindi, so I checked some of the phrases against
-the Wordpress translations in addition to querying to see how many instances
-there are of particular words on the Internet. For example, one phrase I was
-wavering on was the word for archive. अभिलेखागार <em>abhilekhāgār</em> or “archive” has
-217,000 hits (many of which are Indian government archive websites), whereas
-अार्काइव <em>ārkāiv</em> has 592,000. That‘s what the Urdu translation went with as
-آرکائیو. So I went with अार्काइव. On the other hand, The Hindi word for
-“categories,” श्रेणियाँ <em>shreṇiyāñ</em>, had 814,000 pages, whereas कैटेगरी <em>kaiṭegarī</em> had
-129,000 and the plural form कैटेगरियां only 49,100.</p>
-<p>I am trying to figure out now what the best current <a class="reference external" href="posts/added-hindi-and-urdu/_http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> styling is for
-displaying Hindi and Urdu text on the Internet. Most browsers on recent
-computers can handle displaying the text to the extent that it is at least
-readable. Urdu in its preferred script, <em>nastaʿlīq</em>, is rather difficult to
-render, so I would be curious to hear suggestions. There are ways of embedding
-fonts in webpages that might be a possibility. I have not been following those
-technologies very closely, and so it will be interesting to find out how
-standardized the techniques are at this point.</p>
 </div>
     </div>
     </article>
