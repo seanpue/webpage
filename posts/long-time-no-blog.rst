@@ -1,8 +1,8 @@
 .. title: Long Time No Blog
 .. slug: long-time-no-blog
 .. date: 2015-01-25 16:49:00 UTC
-.. tags: 
-.. link: 
+.. tags:
+.. link:
 .. description: blogging
 .. type: text
 

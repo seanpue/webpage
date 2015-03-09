@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://seanpue.com/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/2014/</loc>
@@ -213,6 +213,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/cv/</loc>
+  <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/files/webpages/امریکہ میں ن م راشد کے خوابوں کی بازگشت | ہم شہری.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -242,11 +246,15 @@
  </url>
  <url>
   <loc>http://seanpue.com/galleries/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/galleries/i2havesomedreams/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/galleries/pakistan2015/</loc>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/</loc>
@@ -466,11 +474,15 @@
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/galleries/i2havesomedreams/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/hi/galleries/pakistan2015/</loc>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/hi/i-too-have-some-dreams/</loc>
@@ -797,6 +809,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/hi/posts/good-times-in-pakistan/</loc>
+  <lastmod>2015-03-07</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/hi/posts/i-too-have-some-dreams-published.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -851,6 +867,10 @@
  <url>
   <loc>http://seanpue.com/i-too-have-some-dreams/</loc>
   <lastmod>2015-01-26</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/index-1.html</loc>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/itoohavesomedreams/</loc>
@@ -1165,6 +1185,10 @@
   <lastmod>2015-02-02</lastmod>
  </url>
  <url>
+  <loc>http://seanpue.com/posts/good-times-in-pakistan/</loc>
+  <lastmod>2015-03-07</lastmod>
+ </url>
+ <url>
   <loc>http://seanpue.com/posts/i-too-have-some-dreams-published.html</loc>
   <lastmod>2015-01-26</lastmod>
  </url>
@@ -1430,11 +1454,15 @@
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/galleries/i2havesomedreams/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/galleries/pakistan2015/</loc>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/i-too-have-some-dreams/</loc>
@@ -1759,6 +1787,10 @@
  <url>
   <loc>http://seanpue.com/ur/posts/first-urdu-review-of-my-book/</loc>
   <lastmod>2015-02-02</lastmod>
+ </url>
+ <url>
+  <loc>http://seanpue.com/ur/posts/good-times-in-pakistan/</loc>
+  <lastmod>2015-03-07</lastmod>
  </url>
  <url>
   <loc>http://seanpue.com/ur/posts/i-too-have-some-dreams-published.html</loc>
