@@ -59,7 +59,9 @@ pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
 ```
 
 It worked perfectly. Now I'm off to read the book!
+
 <a href="https://www.flickr.com/photos/129471681@N03/16581802309" title="Gulaab ke phuul by Sean Pue, on Flickr"><img src="https://farm8.staticflickr.com/7610/16581802309_a177566398_n.jpg" width="240" height="320" alt="Gulaab ke phuul"></a><a href="https://www.flickr.com/photos/129471681@N03/16742082536" title="Gulaab ke phuul by Sean Pue, on Flickr"><img src="https://farm9.staticflickr.com/8706/16742082536_b0c7c7ecde_n.jpg" width="240" height="320" alt="Gulaab ke phuul"></a>
+
 
 [Annual Conference on South Asia]: http://southasiaconference.wisc.edu/
 [PyPDF2]: https://github.com/mstamy2/PyPDF2
