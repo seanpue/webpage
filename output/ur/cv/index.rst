@@ -280,11 +280,41 @@ Siting South Asia: A Graduate Student Conference, Columbia University.
 “Alternative Geographies: Urdu Translations of Modern Persian Poetry.”
 American Comparative Literature Association Annual Meeting, Penn State University.
 
-Invited Papers
-==============
+Invited Presentations
+=====================
 
 
 .. Exact dates follow in comments.
+
+**2015**
+“The Digital Divan: Computational Approaches to Urdu Poetry.”
+YCSD Lecture, Habib University, Karachi
+
+.. 11 February 2015; video: https://vimeo.com/119823748; article: 
+
+**2015**
+“Digital Humanities.”
+Indus Valley School of Art and Architecture (IVS), Karachi
+
+.. 10 February 2015
+
+**2015**
+“A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.”
+Social Sciences and Arts, Institute of Business Administration, Karachi
+
+.. 9 February 2015; article: www.dawn.com/news/1162564 
+
+
+**2015**
+“Mere bhi hain kuch khvab: Conversation with A. Sean Pue and Book Launch: I Too have Some Dreams: N.M. Rashed and Modernism in Urdu Poetry,” with Asif Farrukhi and Sarah Humayun.
+Karachi Literature Festival
+
+.. 8 February 2015
+
+
+**2015**
+“A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.”
+Social Sciences and Arts, Institute of Business Administration, Karachi
 
 **2014**
 “The Place of Analogy in Collaborative, Interdisciplinary Computing,
@@ -623,6 +653,6 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 05 February 2015.
+   This C.V. was last updated on 08 February 2015.
 
 
