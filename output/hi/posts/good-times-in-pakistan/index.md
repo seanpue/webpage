@@ -80,6 +80,7 @@ I have posted some of my photos from the trip in this [photo album].
 [Art Section]: https://www.facebook.com/events/397538987071420/
 [Kamran Asdar Ali]: http://www.utexas.edu/cola/depts/anthropology/faculty/alik1
 [Fahd Ali]: http://habib.edu.pk/AHSS/fahd-ali/
+[article in Dawn]: http://www.dawn.com/news/1162564
 [article]: http://pakistaniaat.org/index.php/pak/article/view/184
 [Department of Social Sciences & Liberal Arts]: http://iba.edu.pk/iba_department_of_social_sciences_and_liberal_arts.php
 [Institute of Business Administration]: http://iba.edu.pk/
