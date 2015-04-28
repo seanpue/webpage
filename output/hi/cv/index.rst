@@ -312,10 +312,6 @@ Karachi Literature Festival.
 .. 8 February 2015
 
 
-**2015**
-“A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.”
-Social Sciences and Arts, Institute of Business Administration, Karachi.
-
 **2014**
 “The Place of Analogy in Collaborative, Interdisciplinary Computing,
 or,
@@ -653,6 +649,6 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 08 April 2015.
+   This C.V. was last updated on 28 April 2015.
 
 
