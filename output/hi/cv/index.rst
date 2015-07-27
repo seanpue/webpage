@@ -28,18 +28,18 @@
             text-indent: -1.5em;
           }
    </style>
-    
+
 
 -------------------
 Contact Information
 -------------------
 | **e-mail:**
-  a@seanpue.com 
-  **twitter:** 
+  a@seanpue.com
+  **twitter:**
   @seanpue
   **github:**
   seanpue
-| **address:** 
+| **address:**
   B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
 --------------------
@@ -49,7 +49,7 @@ Academic Appointment
     Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
 |   Core Faculty, Global Studies in Arts and Humanities
-| **2008–14** 
+| **2008–14**
     Assistant Professor, Michigan State University
 
 --------------------
@@ -86,63 +86,63 @@ Publications
 
 Book
 ====
-*I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry*. 
+*I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry*.
 Berkeley, CA: University of California Press, 2014.
 
 Articles
 ========
-**2013** 
-“Rethinking Modernism and Progressivism in Urdu Poetry.” 
+**2013**
+“Rethinking Modernism and Progressivism in Urdu Poetry.”
 *Pakistaniaat* 5.1 (2013): 1-15.
 
 **2012**
 “Ephemeral Asia: N. M. Rashed’s A Stranger in Iran.”
 *Comparative Literature* 64.1 (2012): 73-92.
 
-**2011** 
+**2011**
 “In the Mirror of Ghalib: Postcolonial Reflections on Indo-Muslim Selfhood.”
 *Indian Economic and Social History Review* 48.4 (October-December 2011), 571-592.
 
-**2011** 
-“N. M. Rashed and Faiz Ahmed Faiz: A Comparative Analysis.” 
+**2011**
+“N. M. Rashed and Faiz Ahmed Faiz: A Comparative Analysis.”
 *Bunyaad: Journal of Urdu Studies*  2 (2011), 3-18.
 
 **2010**
 “Time is God: Temporality in Pakistani Modernism.”
 *Journal of Commonwealth and Postcolonial Studies* 16.1 (2009), 102-116.
 
-**2008** 
-“Digital Encoding of South Asian Languages: A Contemporary Guide to Unicode and Fonts.” 
+**2008**
+“Digital Encoding of South Asian Languages: A Contemporary Guide to Unicode and Fonts.”
 *South Asia Language Pedagogy and Technology* 1 (2008).
 
-**2008** 
-“Web-Browser Extensions for South Asia Language Classrooms.” 
+**2008**
+“Web-Browser Extensions for South Asia Language Classrooms.”
 *South Asia Language Pedagogy and Technology* 1 (2008).
 
 Book Chapters
 =============
 **2013**
-“Faiz Ahmed Faiz and N. M. Rashed: A Comparative Analysis.” 
-In *Daybreak: Writings on Faiz*, 
+“Faiz Ahmed Faiz and N. M. Rashed: A Comparative Analysis.”
+In *Daybreak: Writings on Faiz*,
 ed. Yasmeen Hameed.
-Karachi: Oxford University Press, 2013. 
+Karachi: Oxford University Press, 2013.
 
 **2010**
-“Shibli Nomani.” 
-In *Nationalism in the Vernacular: 
+“Shibli Nomani.”
+In *Nationalism in the Vernacular:
 Hindi, Urdu and the Literature of Indian Freedom*,
 edited by Shobna Nijhawan,
 171–177.
 New Delhi: Permanent Black, 2010.
 
 **2008** “Krishan Chandar.”
-*The Oxford India Anthology of Modern Urdu Literature*, 
-edited by Mehr Farooqi, 56–65. 
+*The Oxford India Anthology of Modern Urdu Literature*,
+edited by Mehr Farooqi, 56–65.
 Delhi: Oxford University Press, 2008.
 
 **2006**
-“Poems of Desire.” 
-In *Men of the Global South*, 
+“Poems of Desire.”
+In *Men of the Global South*,
 edited by Adam Jones,
 6–13.
 London: Zed Books, 2006.
@@ -151,18 +151,18 @@ London: Zed Books, 2006.
 Book Reviews
 ============
 **2009**
-Review of *A History of Urdu Literature*, 
-by T. Graham Bailey. 
+Review of *A History of Urdu Literature*,
+by T. Graham Bailey.
 *The Book Review* (February 2009).
 
 **2008**
-Review of *Enlightenment in the Colony: 
-The Jewish Question and the Crisis of Postcolonial Culture*, 
+Review of *Enlightenment in the Colony:
+The Jewish Question and the Crisis of Postcolonial Culture*,
 by Aamir R. Mufti.
 *Annual of Urdu Studies* 23 (2008): 274-9.
 
 **2005**
-Review of *Urdu Texts and Contexts*, 
+Review of *Urdu Texts and Contexts*,
 by C. M. Naim.
 *Annual of Urdu Studies* 20 (2005): 288-290.
 
@@ -174,7 +174,7 @@ translated by Christopher Shackle and Javed Majeed.
 Translations
 ============
 
-**2005** Krishan Chandar, “Irani Pilau.” 
+**2005** Krishan Chandar, “Irani Pilau.”
 *Annual of Urdu Studies* 20 (2005): 203-210.
 
 -------------
@@ -186,23 +186,35 @@ Conference Papers
 
 .. Exact dates follow in comments.
 
+**2015**
+“Using Bioinformatic Algorithms to Analyze the Politics of Form in Modernist Urdu Poetry.”
+DH 2015: Global Digital Humanities, Sydney.
+
+.. 1 July 2015
+
+**2015**
+“Using Bioinformatic Algorithms to Analyze the Politics of Form in Modernist Urdu Poetry.”
+HASTAC 2015, Michigan State University.
+
+.. 28 May 2015
+
 **2014**
 “N. M. Rashed in New York.”
-Annual Conference on South Asia, 
+Annual Conference on South Asia,
 University of Wisconsin, Madison.
 
 .. 18 October 2014
 
 **2014**
-“Poets in a Muslim Land: 
+“Poets in a Muslim Land:
 Sufism, Modernity, and Indo-Muslim Artistic Subjectivity.”
-Muslim Studies Conference on “Journeys of Practice,” 
+Muslim Studies Conference on “Journeys of Practice,”
 Michigan State University.
 
 .. 20 March 2014
 
 **2013**
-“Translating Rhythm: 
+“Translating Rhythm:
 Data-Rich Literary Analysis for Understanding the Politics of Literary Form.”
 XVI International Conference of the Forum on Contemporary Theory on
 “Translation, Comparatism and the Global South,” University of Mysore.
@@ -210,17 +222,17 @@ XVI International Conference of the Forum on Contemporary Theory on
 .. 18 December 2013
 
 **2013**
-“Free Verse in Urdu: Identity, Influence, and Innovation.” 
+“Free Verse in Urdu: Identity, Influence, and Innovation.”
 Annual Conference on South Asia, University of Wisconsin, Madison.
 
 .. 18 October 2013
 
 **2013**
-“Bioinformatic Approaches to the Computation of Poetic Meter,” 
+“Bioinformatic Approaches to the Computation of Poetic Meter,”
 with Tracy K. Teal and C. Titus Brown.
 Shared Horizons: Data, Biomedicine, and Digital Humanities, University of Maryland.
 
-.. 12 April 2013 
+.. 12 April 2013
 
 **2013**
 “Modernism and Realism in Late Colonial India.”
@@ -229,7 +241,7 @@ American Comparative Literature Association Annual Meeting, Toronto.
 .. 6 April 2013
 
 **2010**
-“Desert Wandering: The Modern Landscape of Urdu Poetry.” 
+“Desert Wandering: The Modern Landscape of Urdu Poetry.”
 American Comparative Literature Association Annual Meeting, New Orleans.
 
 **2010**
@@ -252,7 +264,7 @@ Association for Asian Studies Annual Meeting, Atlanta.
 “In the Mirror of Ghalib.”
 Association for Asian Studies Annual Meeting, Boston.
 
-**2006** 
+**2006**
 “Parallel to the Horizon: Desire and Duration in Pakistani Modernism.”
 Horizons: Comparative Literature Graduate Student Conference, Stanford University.
 
@@ -260,11 +272,11 @@ Horizons: Comparative Literature Graduate Student Conference, Stanford Universit
 “Distance at Death: N. M. Rashed and the Progressives.”
 Annual Conference on South Asia, University of Wisconsin, Madison.
 
-**2005** 
-“*Ham Eshiyai*: Solidarities After Empire.” 
+**2005**
+“*Ham Eshiyai*: Solidarities After Empire.”
 Imagining Empire: South Asia Graduate Student Conference, University of Chicago.
 
-**2005** 
+**2005**
 “Partition and National Identity: Urdu Debates on Pakistan’s ‘Fundamental Problem.’”
 Modern Language Association Annual Convention, Washington, D. C.
 
@@ -287,10 +299,15 @@ Invited Presentations
 .. Exact dates follow in comments.
 
 **2015**
+“Topic Modeling Urdu Poetry." Locus: Texts Analysis in Humanities and Social Science, Michigan State University.
+
+.. 09 April 2015; Topic Modeling Urdu Poetry; http://digitalhumanities.msu.edu/locus/past/
+
+**2015**
 “The Digital Divan: Computational Approaches to Urdu Poetry.”
 YCSD Lecture, Habib University, Karachi.
 
-.. 11 February 2015; video: https://vimeo.com/119823748; article: 
+.. 11 February 2015; video: https://vimeo.com/119823748; article:
 
 **2015**
 “Digital Humanities.”
@@ -302,7 +319,7 @@ Indus Valley School of Art and Architecture (IVS), Karachi.
 “A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.”
 Social Sciences and Arts, Institute of Business Administration, Karachi.
 
-.. 9 February 2015; article: www.dawn.com/news/1162564 
+.. 9 February 2015; article: www.dawn.com/news/1162564
 
 
 **2015**
@@ -326,7 +343,7 @@ Contemporary Hindi/Urdu Literature and Arts, Princeton University.
 
 .. 6 December 2013
 
-**2013** 
+**2013**
 “A Punjabi Critique of Sufi Idiom: N. M. Rashed and Urdu Literary Tradition.”
 South Asia Seminar, University of Texas at Austin.
 
@@ -337,7 +354,7 @@ Research Presentation.
 Audio Cultures of India: Sound, Science, and History,
 Neubauer Collegium for Culture and Society, University of Chicago.
 
-.. 16 September 2013 
+.. 16 September 2013
 
 **2013**
 “Temporality and Islam in Urdu Literary Modernism.”
@@ -356,7 +373,7 @@ Center for the Study of Developing Societies, New Delhi.
 
 **2012**
 “Ghazals on the Go: Teaching the Culture of Urdu Poetry.”
-Center for Language Teaching Advancement, 
+Center for Language Teaching Advancement,
 Professional Development Event,
 Michigan State University.
 
@@ -364,24 +381,24 @@ Michigan State University.
 “Mobile-Ready Hindi-Urdu Digital Literature Reader.”
 South Asian Language Pedagogy Conference, Yale University.
 
-**2011** 
+**2011**
 “The Mobile Frontier of South Asian Language Pedagogy.”
-Looking Through the Languages: 
+Looking Through the Languages:
 South Asian Language Study for the Liberal Arts Conference,
 Yale University.
 
 **2011**
 “Hindi, Urdu, and Beyond:
-Web-Based Video and Handwriting Widgets for Mobile and Traditional Devices.” 
+Web-Based Video and Handwriting Widgets for Mobile and Traditional Devices.”
 Explorations in Instructional Technology, Michigan State University.
 
 **2011**
 “Faiz the Poet.”
-Guftugu: Faiz Ahmed Faiz, A Centennial Celebration, 
+Guftugu: Faiz Ahmed Faiz, A Centennial Celebration,
 Center for South Asia Studies, University of California, Berkeley.
 
 **2011**
-“N. M. Rashed and Faiz Ahmed Faiz: A Comparative Analysis.” 
+“N. M. Rashed and Faiz Ahmed Faiz: A Comparative Analysis.”
 Faiz Ahmad Faiz Birth Centenary Colloquium,
 Lahore University of Management Science.
 
@@ -390,28 +407,28 @@ Lahore University of Management Science.
 Lahore University of Management Science.
 
 **2011**
-Response to *The Language of the Gods in the World of Men: 
-Sanskrit, Culture, and Power in Premodern India* by Sheldon Pollock. 
+Response to *The Language of the Gods in the World of Men:
+Sanskrit, Culture, and Power in Premodern India* by Sheldon Pollock.
 Cosmopolitan and Vernacular Languages: A Global Conversation, University of Michigan.
 
 **2010**
 “Dialogue and Truth: An Introduction to Gandhi and His Global Legacy.”
 Kapur Endowment Lecture, Michigan State University.
 
-**2010** 
+**2010**
 “Bridging the Language and Literature Divide:
 Textual Encapsulation for South Asian Language Pedagogy and Digital Humanities.”
 Teaching South Asia: Language Instruction and Literary Culture, Yale University.
 
 **2010**
 “Ephemeral Asia:
-N. M. Rashed’s A Stranger in Iran and the Problem of Modernism in Urdu.” 
+N. M. Rashed’s A Stranger in Iran and the Problem of Modernism in Urdu.”
 Global Studies Forum, Michigan State University.
 
 **2009**
 “Blending Content for South Asian Language Pedagogy,”
 with Manan Ahmed.
-Two-day Workshop, South Asia Summer Language Institute, 
+Two-day Workshop, South Asia Summer Language Institute,
 University of Wisconsin, 2009.
 
 **2009**
@@ -419,17 +436,17 @@ University of Wisconsin, 2009.
 South Asia Seminar, University of Chicago.
 
 **2008**
-“Temporality in Pakistani Modernism.” 
+“Temporality in Pakistani Modernism.”
 UrduFest: Contemporary and Historical Facets of Urdu and Its Literature,
 University of Virginia.
 
 **2006**
 “The Problem of the Vulgar.”
-Between Popular Culture and State Ideology: 
+Between Popular Culture and State Ideology:
 Urdu literature and Urdu Media in Present-day Pakistan,
 Internationales Wissenschaftsforum, Heidelberg.
 
-**2003** 
+**2003**
 “The Buried City: N. M. Rashed and Modern Urdu Poetry.”
 Sarai @ Center for the Study of Developing Societies, New Delhi.
 
@@ -471,7 +488,7 @@ South Asian Language Resource Center Pedagogical Resources Grant ($16,800)
 
 **2004**
 “Mir in Cyberspace,”
-Center for Advanced Research in Language Acquisition Mini-Grant ($3000) 
+Center for Advanced Research in Language Acquisition Mini-Grant ($3000)
 
 
 -----------
@@ -480,10 +497,10 @@ Fellowships
 
 **2011**
 American Institute of Pakistan Studies
-Short Term Research and Lecturing Fellowship 
+Short Term Research and Lecturing Fellowship
 (“N. M. Rashed and Modernism in Urdu Poetry” in Lahore and Islamabad)
 
-**2005-6** 
+**2005-6**
 FLAS Fellowship (Urdu), Columbia University
 
 **2003**
@@ -511,7 +528,7 @@ Research Awards
 American Institute of Pakistan Studies, International Travel Award
 
 **2012-3**
-MSU College of Arts and Letters Faculty Learning Community Grant, 
+MSU College of Arts and Letters Faculty Learning Community Grant,
 “Digital Humanities,” with Danielle DeVoss
 
 **2012**
@@ -538,8 +555,8 @@ MSU College of Arts and Letters “Think Tank” Curriculum Development Grant,
 Prizes
 ------
 **2013**
-Global Outlook::Digital Humanities Essay Competition, 
-First Prize, 
+Global Outlook::Digital Humanities Essay Competition,
+First Prize,
 for “Bioinformatic Approaches to the Computational Analysis of Urdu Poetic Meter,”
 with Tracy K. Teal and C. Titus Brown.
 
@@ -552,7 +569,7 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
-GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014) 
+GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014)
 
 GSAH 220: Global Espionage: Identity, Intelligence, Power (Fall 2012)
 
@@ -594,16 +611,16 @@ American Institute of Pakistan Studies, Board of Trustees
 Michigan State University
 =========================
 
-**2014—** 
+**2014—**
 Global Studies in Arts and Humanities Curriculum Committee
 
-**2013—** 
+**2013—**
 College Advisory Council, College of Arts and Letters
 
 **2013–14**
 Asian Studies Center Advisory Board
 
-**2012–14** 
+**2012–14**
 Global Studies in Arts and Humanities Advisory Committee
 
 **2009–10**
@@ -612,7 +629,7 @@ Global Studies in Arts and Humanities Planning Committee
 **2009–**
 Core Faculty Member, Muslim Studies
 
-**2008-12, 2014–** 
+**2008-12, 2014–**
 Global Studies in Arts and Humanities Curriculum Committee
 
 **2008-**
@@ -621,7 +638,7 @@ Core Faculty Member, Asian Studies Center
 **2008-**
 Consulting Faculty Member, Gender in Global Context Center
 
-**2008-** 
+**2008-**
 Integrated Media/Digital Humanities Steering Committee, College of Arts and Letters
 
 **2008-**
@@ -649,6 +666,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 28 April 2015.
-
-
+   This C.V. was last updated on 27 July 2015.
