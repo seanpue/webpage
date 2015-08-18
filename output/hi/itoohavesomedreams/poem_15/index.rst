@@ -1,6 +1,6 @@
 .. title: §15ـ नमरूद की ख़ुदाई
 .. slug: itoohavesomedreams/poem_15
-.. date: 2015-08-18 16:51:41 UTC
+.. date: 2015-08-18 17:40:10 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Namrūd kī ḳhudāʾī"

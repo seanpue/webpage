@@ -1,6 +1,6 @@
 .. title: §16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)
 .. slug: itoohavesomedreams/poem_16
-.. date: 2015-08-18 16:51:41 UTC
+.. date: 2015-08-18 17:40:10 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)"

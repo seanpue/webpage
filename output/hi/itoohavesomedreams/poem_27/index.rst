@@ -1,6 +1,6 @@
 .. title: §27ـ हसन कूज़ा-गर २
 .. slug: itoohavesomedreams/poem_27
-.. date: 2015-08-18 16:51:42 UTC
+.. date: 2015-08-18 17:40:11 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ḥasan kūzah-gar 2"

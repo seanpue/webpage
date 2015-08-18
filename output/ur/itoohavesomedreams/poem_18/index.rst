@@ -1,6 +1,6 @@
 .. title: §18ـ دل، مرے صحرا نوردِ پیر دل
 .. slug: itoohavesomedreams/poem_18
-.. date: 2015-08-18 16:51:41 UTC
+.. date: 2015-08-18 17:40:10 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Dil, mire ṣaḥrā-navard-e pīr dil"

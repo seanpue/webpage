@@ -1,6 +1,6 @@
 .. title: §11. Hamah ūst
 .. slug: itoohavesomedreams/poem_11
-.. date: 2015-08-18 16:51:41 UTC
+.. date: 2015-08-18 17:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Hamah ūst"
