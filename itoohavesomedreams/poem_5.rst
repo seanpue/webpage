@@ -1,6 +1,6 @@
 .. title: §5. Gunāh aur muḥabbat
 .. slug: itoohavesomedreams/poem_5
-.. date: 2015-08-18 18:09:28 UTC
+.. date: 2015-08-18 18:14:54 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Gunāh aur muḥabbat"
