@@ -8,7 +8,7 @@
 .. type: text
 
 I have added Devanagari (Hindi) versions of N. M. Rashed’s Urdu poems
-to the `Resource Webpage for I Too Have Some Dreams <itoohavesomedreams>`_.
+to the `Resource Webpage for I Too Have Some Dreams </itoohavesomedreams>`_.
 
 These are being generated from the same transliteration that makes the
 Urdu and romanized versions. There will be a few errors, but they are looking
