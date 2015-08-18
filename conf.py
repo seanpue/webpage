@@ -881,6 +881,9 @@ BODY_END = """
 <script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script>
 <script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script>
 <script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
+
+<script type="text/javascript">$('article').each(function(i,x){if ( $(x).find('a[hreflang|="en"]').length==0 ) {x.setAttribute('dir','ltr')}});</script>
+
 """
 # The possibility to extract metadata from the filename by using a
 # regular expression.

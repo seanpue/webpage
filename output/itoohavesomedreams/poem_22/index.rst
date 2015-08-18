@@ -1,6 +1,6 @@
 .. title: §22. Afsānah-e shahr
 .. slug: itoohavesomedreams/poem_22
-.. date: 2014-09-16 15:56:27 UTC
+.. date: 2015-08-18 16:51:42 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Afsānah-e shahr"
@@ -27,8 +27,8 @@
 | 
 | shahr ke shahr kā afsānah, vuh rūḥeñ jo sar-e pul ke sivā
 | aur kahīñ vaṣl kī joyā hī nahīñ
-|      pul se jiñheñ pār utarne kī tamannā hī nahīñ
-|      is kā yārā hī nahīñ!
+|     pul se jiñheñ pār utarne kī tamannā hī nahīñ
+|     is kā yārā hī nahīñ!
 
 |left arrow link|_
 

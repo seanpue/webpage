@@ -1,6 +1,6 @@
 .. title: §21. Zamānah ḳhudā hai
 .. slug: itoohavesomedreams/poem_21
-.. date: 2014-09-16 15:56:27 UTC
+.. date: 2015-08-18 16:51:42 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Zamānah ḳhudā hai"
@@ -11,7 +11,7 @@
 | "zamānah ḳhudā hai, ise tum burā mat kaho"
 | magar tum nahīñ dekhte——zamānah faqat̤ resmān-e ḳhayāl
 | sabuk-māyah, nāzuk, t̤avīl
-|      judāʾī kī arzāñ sabīl!
+|     judāʾī kī arzāñ sabīl!
 | 
 | vuh ṣubḥeñ jo lākhoñ baras pesh-tar thīñ,
 | vuh shāmeñ jo lākhoñ baras baʿd hoñgī,

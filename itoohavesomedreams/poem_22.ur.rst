@@ -1,6 +1,6 @@
 .. title: §22ـ افسانہِ شہر
 .. slug: itoohavesomedreams/poem_22
-.. date: 2014-09-16 15:56:27 UTC
+.. date: 2015-08-18 16:51:42 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Afsānah-e shahr"
@@ -27,8 +27,8 @@
 | 
 | شہر کے شہر کا افسانہ، وہ روحیں جو سرِ پُل کے سوا
 | اور کہیں وصل کی جویا ہی نہیں
-| 	 پُل سے جنہیں پار اترنے کی تمنّا ہی نہیں
-| 	 اِس کا یارا ہی نہیں!
+| 	پُل سے جنہیں پار اترنے کی تمنّا ہی نہیں
+| 	اِس کا یارا ہی نہیں!
 
 
 |right arrow link|_

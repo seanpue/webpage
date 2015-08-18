@@ -1,6 +1,6 @@
 .. title: §15. Namrūd kī ḳhudāʾī
 .. slug: itoohavesomedreams/poem_15
-.. date: 2014-09-16 15:56:27 UTC
+.. date: 2015-08-18 16:51:41 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Namrūd kī ḳhudāʾī"

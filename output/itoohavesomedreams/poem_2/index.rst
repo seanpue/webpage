@@ -1,6 +1,6 @@
 .. title: §2. Ek din—lārins bāġh meñ (ek kaifiyat)
 .. slug: itoohavesomedreams/poem_2
-.. date: 2014-09-16 15:56:27 UTC
+.. date: 2015-08-18 16:51:41 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ek din—lārins bāġh meñ (ek kaifiyat)"
@@ -11,7 +11,7 @@
 | baiṭhā huʾā hūñ ṣubḥ se lārins bāġh meñ
 | afkār kā hujūm hai mere dimāġh meñ
 |         chhāyā huʾā hai chār t̤araf bāġh meñ sukūt
-|         tanhāʾiyoñ kī gaud meñ leṭā huʾā hūñ maiñ
+|         tanhāʾiyoñ kī god meñ leṭā huʾā hūñ maiñ
 | ashjār bār bār ḍarāte haiñ ban-ke bhūt
 | jab dekhtā hūñ un kī t̤araf kāñptā hūñ maiñ
 |     baiṭhā huʾā hūñ ṣubḥ se lārins bāġh meñ!
