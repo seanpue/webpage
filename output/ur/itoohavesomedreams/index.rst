@@ -24,7 +24,7 @@
 
   For those of you who can understand Urdu or Hindi, you can now
   click the poem title below and use the language selectors in the bar above to
-  view the poems in Urdu script and transliteration. Devanagari will be added soon. The appendix
+  view the poems in Urdu script, Hindi, and transliteration. The appendix
   in the printed book has the poems in transliteration on the verso (left) side
   and in translation on the recto (right) side.
 

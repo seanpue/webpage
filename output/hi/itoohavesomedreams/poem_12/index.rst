@@ -1,6 +1,6 @@
 .. title: §12ـ तेल के सौदागर
 .. slug: itoohavesomedreams/poem_12
-.. date: 2015-08-18 18:09:29 UTC
+.. date: 2015-08-18 18:14:55 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Tel ke saudāgar"
@@ -68,7 +68,7 @@
 | हिमाला‐ओ‐अल्वंद की चोटियों पर अना की शुआें,
 | उंहीं से वो ख़ुरशीद फूटेगा आख़िर
 | बुख़ारा समर्क़ंद भी सालहासाल से
-| जिस की हस्रत के दरयूज़ा-गर हैं!
+| जिस की हसरत के दरयूज़ा-गर हैं!
 
 |left arrow link|_
 

@@ -1,6 +1,6 @@
 .. title: §13ـ मंन ‐ओ‐ सलवा
 .. slug: itoohavesomedreams/poem_13
-.. date: 2015-08-18 18:09:29 UTC
+.. date: 2015-08-18 18:14:55 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Mann-o-salvâ"

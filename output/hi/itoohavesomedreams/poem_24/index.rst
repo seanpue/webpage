@@ -1,6 +1,6 @@
 .. title: §24ـ तलब के तले
 .. slug: itoohavesomedreams/poem_24
-.. date: 2015-08-18 18:09:30 UTC
+.. date: 2015-08-18 18:14:56 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "T̤alab ke tale"
