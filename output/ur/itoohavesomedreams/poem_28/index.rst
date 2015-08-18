@@ -1,6 +1,6 @@
 .. title: §28ـ حسن کوزہ گر ٣
 .. slug: itoohavesomedreams/poem_28
-.. date: 2015-08-18 17:40:11 UTC
+.. date: 2015-08-18 18:09:30 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ḥasan kūzah-gar 3"

@@ -1,6 +1,6 @@
 .. title: §21. Zamānah ḳhudā hai
 .. slug: itoohavesomedreams/poem_21
-.. date: 2015-08-18 17:40:10 UTC
+.. date: 2015-08-18 18:09:29 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Zamānah ḳhudā hai"

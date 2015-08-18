@@ -1,6 +1,6 @@
 .. title: §17ـ ज़िंदगी से डरते हो?
 .. slug: itoohavesomedreams/poem_17
-.. date: 2015-08-18 17:40:10 UTC
+.. date: 2015-08-18 18:09:29 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Zindagī se ḍarte ho?"
@@ -24,7 +24,7 @@
 | —पहले भी तो गुज़रे हैं,
 | दौर ना-रसाई के, "बे-रिया" ख़ुदाई के
 | फिर भी ये समझते हो, हेच आर्ज़ू-मंदी
-| ये शब‐ए ज़बाँ-बंदी, है रह‐ए ख़ुदावंदी!
+| ये शब-ए ज़बाँ-बंदी, है रह-ए ख़ुदावंदी!
 | तुम मगर ये क्या जानो,
 | लब अगर नहीं हिलते, हाथ जाग उठते हैं
 | हाथ जाग उठते हैं, राह का निशाँ बन-कर
@@ -38,9 +38,9 @@
 | देव का जो साया था पाक हो गया आख़िर
 | रात का लबादा भी
 | चाक हो गया आख़िर, ख़ाक हो गया आख़िर
-| इझ़्दिहाम‐ए इंसाँ से फ़र्द की नवा आई
+| इझ़्दिहाम-ए इंसाँ से फ़र्द की नवा आई
 | ज़ात की सदा आई
-| राह‐ए शौक़ में जैसे राहरौ का ख़ूँ लपके
+| राह-ए शौक़ में जैसे राहरौ का ख़ूँ लपके
 | इक नया जुनूँ लपके!
 | आद्मी चलक उट्ठे
 | आद्मी हंसे देखो, शहर फिर बसे देखो
@@ -54,10 +54,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §16. वो हर्फ़‐ए तंहा (जिसे तमन्ना‐ए वस्ल‐ए माना) 
+.. |left arrow link| replace:: :emoji:`arrow_left` §16. वो हर्फ़-ए तंहा (जिसे तमन्ना-ए वस्ल-ए माना) 
 .. _left arrow link: /hi/itoohavesomedreams/poem_16
 
-.. |right arrow link| replace::  §18. दिल, मिरे सहरा-नवर्द‐ए पीर दिल :emoji:`arrow_right` 
+.. |right arrow link| replace::  §18. दिल, मिरे सहरा-नवर्द-ए पीर दिल :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_18
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
