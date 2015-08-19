@@ -1,6 +1,6 @@
 .. title: §9ـ شاعرِ در ماندہ
 .. slug: itoohavesomedreams/poem_9
-.. date: 2015-08-19 16:09:16 UTC
+.. date: 2015-08-19 16:12:37 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Shāʿir-e dar-māñdah"

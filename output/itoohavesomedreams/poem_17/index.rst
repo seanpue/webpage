@@ -1,6 +1,6 @@
 .. title: §17. Zindagī se ḍarte ho?
 .. slug: itoohavesomedreams/poem_17
-.. date: 2015-08-19 16:09:17 UTC
+.. date: 2015-08-19 16:12:39 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Zindagī se ḍarte ho?"

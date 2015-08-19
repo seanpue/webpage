@@ -1,6 +1,6 @@
 .. title: §24ـ तलब के तले
 .. slug: itoohavesomedreams/poem_24
-.. date: 2015-08-19 16:09:18 UTC
+.. date: 2015-08-19 16:12:40 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "T̤alab ke tale"

@@ -1,6 +1,6 @@
 .. title: §28ـ हसन कूज़ा-गर ३
 .. slug: itoohavesomedreams/poem_28
-.. date: 2015-08-19 16:09:20 UTC
+.. date: 2015-08-19 16:12:41 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Ḥasan kūzah-gar 3"

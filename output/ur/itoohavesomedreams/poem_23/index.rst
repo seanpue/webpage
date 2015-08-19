@@ -1,6 +1,6 @@
 .. title: §23ـ یہ خلا پر نہ ہوا
 .. slug: itoohavesomedreams/poem_23
-.. date: 2015-08-19 16:09:18 UTC
+.. date: 2015-08-19 16:12:40 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Yih ḳhalā pur nah huʾā"

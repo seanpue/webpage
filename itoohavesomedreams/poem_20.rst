@@ -1,6 +1,6 @@
 .. title: §20. Reg-e dīrūz
 .. slug: itoohavesomedreams/poem_20
-.. date: 2015-08-19 16:09:18 UTC
+.. date: 2015-08-19 16:12:39 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Reg-e dīrūz"

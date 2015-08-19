@@ -1,6 +1,6 @@
 .. title: §13ـ मंन ‐ओ‐ सलवा
 .. slug: itoohavesomedreams/poem_13
-.. date: 2015-08-19 16:09:17 UTC
+.. date: 2015-08-19 16:12:38 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Mann-o-salvâ"

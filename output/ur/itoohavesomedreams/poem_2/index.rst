@@ -1,6 +1,6 @@
 .. title: §2ـ ایک دن۔لارنس باغ میں (ایک کیفیت)
 .. slug: itoohavesomedreams/poem_2
-.. date: 2015-08-19 16:09:15 UTC
+.. date: 2015-08-19 16:12:36 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ek din—lārins bāġh meñ (ek kaifiyat)"

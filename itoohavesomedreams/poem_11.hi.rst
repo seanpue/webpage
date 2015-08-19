@@ -1,6 +1,6 @@
 .. title: §11ـ हमह ऊस्त
 .. slug: itoohavesomedreams/poem_11
-.. date: 2015-08-19 16:09:16 UTC
+.. date: 2015-08-19 16:12:38 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Hamah ūst"

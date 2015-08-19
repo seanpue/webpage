@@ -1,6 +1,6 @@
 .. title: §21ـ ज़माना ख़ुदा है
 .. slug: itoohavesomedreams/poem_21
-.. date: 2015-08-19 16:09:18 UTC
+.. date: 2015-08-19 16:12:40 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Zamānah ḳhudā hai"
