@@ -1,9 +1,9 @@
 .. title: §25ـ गुमाँ का मुम्किन—जो तू है मैं हूँ!
 .. slug: itoohavesomedreams/poem_25
-.. date: 2015-08-18 18:14:56 UTC
+.. date: 2015-08-19 16:09:19 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Gumāñ kā mumkin—jo tū hai maiñ hūñ!"
+.. description: Devanagari version of "Gumāñ kā mumkin—jo tū hai maiñ hūñ!"
 .. type: text
 
 

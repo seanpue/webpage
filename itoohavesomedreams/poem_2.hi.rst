@@ -1,9 +1,9 @@
 .. title: §2ـ एक दिन—लारिंस बाग़ में (एक कैफ़ियत)
 .. slug: itoohavesomedreams/poem_2
-.. date: 2015-08-18 18:14:54 UTC
+.. date: 2015-08-19 16:09:15 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Ek din—lārins bāġh meñ (ek kaifiyat)"
+.. description: Devanagari version of "Ek din—lārins bāġh meñ (ek kaifiyat)"
 .. type: text
 
 

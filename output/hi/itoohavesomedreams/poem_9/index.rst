@@ -1,9 +1,9 @@
 .. title: §9ـ शाइर-ए दर-मांदा
 .. slug: itoohavesomedreams/poem_9
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:16 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Shāʿir-e dar-māñdah"
+.. description: Devanagari version of "Shāʿir-e dar-māñdah"
 .. type: text
 
 

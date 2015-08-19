@@ -1,9 +1,9 @@
 .. title: §17ـ ज़िंदगी से डरते हो?
 .. slug: itoohavesomedreams/poem_17
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Zindagī se ḍarte ho?"
+.. description: Devanagari version of "Zindagī se ḍarte ho?"
 .. type: text
 
 

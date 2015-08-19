@@ -1,9 +1,9 @@
 .. title: §16ـ वो हर्फ़-ए तंहा (जिसे तमन्ना-ए वस्ल-ए माना)
 .. slug: itoohavesomedreams/poem_16
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)"
+.. description: Devanagari version of "Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)"
 .. type: text
 
 

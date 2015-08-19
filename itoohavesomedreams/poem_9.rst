@@ -1,6 +1,6 @@
 .. title: §9. Shāʿir-e dar-māñdah
 .. slug: itoohavesomedreams/poem_9
-.. date: 2015-08-18 18:14:54 UTC
+.. date: 2015-08-19 16:09:16 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Shāʿir-e dar-māñdah"

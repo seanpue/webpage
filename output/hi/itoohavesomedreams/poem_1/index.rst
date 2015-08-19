@@ -1,9 +1,9 @@
 .. title: §1ـ बादल (सानेट)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2015-08-18 18:21:02 UTC
+.. date: 2015-08-19 16:09:15 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Bādal (sāneṭ)"
+.. description: Devanagari version of "Bādal (sāneṭ)"
 .. type: text
 
 

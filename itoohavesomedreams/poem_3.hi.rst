@@ -1,9 +1,9 @@
 .. title: §3ـ सितारे (सानेट)
 .. slug: itoohavesomedreams/poem_3
-.. date: 2015-08-18 18:14:54 UTC
+.. date: 2015-08-19 16:09:15 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Sitāre (sāneṭ)"
+.. description: Devanagari version of "Sitāre (sāneṭ)"
 .. type: text
 
 

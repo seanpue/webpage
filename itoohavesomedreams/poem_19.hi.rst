@@ -1,9 +1,9 @@
 .. title: §19ـ एक और शहर
 .. slug: itoohavesomedreams/poem_19
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:18 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Ek aur shahr"
+.. description: Devanagari version of "Ek aur shahr"
 .. type: text
 
 

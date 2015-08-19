@@ -1,9 +1,9 @@
 .. title: §23ـ ये ख़ला पुर न हुआ
 .. slug: itoohavesomedreams/poem_23
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:18 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Yih ḳhalā pur nah huʾā"
+.. description: Devanagari version of "Yih ḳhalā pur nah huʾā"
 .. type: text
 
 

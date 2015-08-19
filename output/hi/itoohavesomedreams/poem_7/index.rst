@@ -1,9 +1,9 @@
 .. title: §7ـ हुज़्न-ए इंसान (अफ़्लातूनी इश्क़ पर एक तंज़)
 .. slug: itoohavesomedreams/poem_7
-.. date: 2015-08-18 18:14:54 UTC
+.. date: 2015-08-19 16:09:15 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"
+.. description: Devanagari version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"
 .. type: text
 
 

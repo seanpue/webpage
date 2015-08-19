@@ -1,9 +1,9 @@
 .. title: §29ـ हसन कूज़ा-गर ४
 .. slug: itoohavesomedreams/poem_29
-.. date: 2015-08-18 18:14:56 UTC
+.. date: 2015-08-19 16:09:20 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Ḥasan kūzah-gar 4"
+.. description: Devanagari version of "Ḥasan kūzah-gar 4"
 .. type: text
 
 

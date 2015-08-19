@@ -1,9 +1,9 @@
 .. title: §8ـ इत्तिफ़ाक़ात
 .. slug: itoohavesomedreams/poem_8
-.. date: 2015-08-18 18:14:54 UTC
+.. date: 2015-08-19 16:09:16 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Ittifāqāt"
+.. description: Devanagari version of "Ittifāqāt"
 .. type: text
 
 

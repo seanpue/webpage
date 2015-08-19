@@ -1,9 +1,9 @@
 .. title: §20ـ रेग-ए दीरूज़
 .. slug: itoohavesomedreams/poem_20
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:18 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
-.. description: Urdu version of "Reg-e dīrūz"
+.. description: Devanagari version of "Reg-e dīrūz"
 .. type: text
 
 

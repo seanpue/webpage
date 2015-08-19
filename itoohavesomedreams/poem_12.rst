@@ -1,6 +1,6 @@
 .. title: §12. Tel ke saudāgar
 .. slug: itoohavesomedreams/poem_12
-.. date: 2015-08-18 18:14:55 UTC
+.. date: 2015-08-19 16:09:16 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Tel ke saudāgar"
