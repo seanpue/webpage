@@ -49,7 +49,7 @@ artist explained,
 > many literary and visual dimensions.
 
 The show consisted of a paper collages called the “Baghdad
-Manuscripts”—Hasan Kuzahgar takes place in Baghdad and Allepo—as well as
+Manuscripts”—Hasan Kuzahgar takes place in Baghdad and Aleppo—as well as
 a series of paper boats evocative of both Lahore's Ravi River and the
 Tigris of Baghdad, another important site for Hasan's story.
 
