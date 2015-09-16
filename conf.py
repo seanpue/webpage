@@ -127,7 +127,7 @@ NAVIGATION_LINKS = {
         ('/cv','C.V.'),
         ('/itoohavesomedreams','I Too Have Some Dreams'),
         ('/archive.html', 'Archives'),
-        
+
         ('/categories/index.html', 'Tags'),
         #('/rss.xml', 'RSS'),
     ),
