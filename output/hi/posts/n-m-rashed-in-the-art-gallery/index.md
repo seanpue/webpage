@@ -15,12 +15,12 @@ Gallery](http://www.koel.com.pk/) in Karachi. The show was titled
 [ʿPoetics of
 Memoryʾ](http://www.koelgallery.com/xhtml/exhibition/27_poetics_of_memory_by_sabah_husain/index.html),
 and engaged with the poetry of N. M. Rashed, particularly the long
-four-part poem [Hasan Kuzahgar](link://itoohavesomedreams/poem_26/)
+four-part poem [Hasan Kuzahgar](/itoohavesomedreams/poem_26/)
 (Hasan the Potter).
 
 This poem is central to Rashed's oeuvre and legacy. I have discussed it
 in extensively in the conclusion of my book, [I Too Have Some
-Dreams](link://itoohavesomedreams/), in relation to four major
+Dreams](/itoohavesomedreams/), in relation to four major
 themes—embodiment, position without identity, allegory and collectivity,
 and temporality. There I describe it is as follows:
 
@@ -49,7 +49,7 @@ artist explained,
 > many literary and visual dimensions.
 
 The show consisted of a paper collages called the “Baghdad
-Manuscripts”—Hasan Kuzahgar takes place in Baghdad and Allepo—as well as
+Manuscripts”—Hasan Kuzahgar takes place in Baghdad and Aleppo—as well as
 a series of paper boats evocative of both Lahore's Ravi River and the
 Tigris of Baghdad, another important site for Hasan's story.
 
