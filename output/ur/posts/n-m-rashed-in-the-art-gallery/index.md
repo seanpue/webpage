@@ -49,22 +49,23 @@ artist explained,
 > many literary and visual dimensions.
 
 The show consisted of a paper collages called the “Baghdad
-Manuscripts”—Hasan Kuzahgar takes place in Baghdad and Aleppo—as well as
+Manuscripts”—Hasan Kuzahgar takes place in Baghdad and Allepo—as well as
 a series of paper boats evocative of both Lahore's Ravi River and the
-Tigris of Baghdad, another important site for Hasan's story.
+Tigris of Baghdad, another important site for Hasan's story. As Sabah
+Husain notes, the collages involve excerpts from the poem.
 
 Sabah Husain picks up on some Rashed’s most memorable phrases in her
-artwork, such as my favorite, the *shahr-e madfūn*, or buried city, which
-occurs a few times within his poetry towards different ends.
+artwork, such as my favorite, the shahr-e madfūn (buried city), which
+occurs a few times within this work with different significances.
 
 It is exciting to see, once again, the interpenetration of literary and
-artistic worlds in Pakistan.
+artistic circles in Pakistan.
 
 Recent reviews of the show are by [Amra Ali
 (Dawn)](http://epaper.dawn.com/DetailNews.php?StoryText=30_08_2015_430_004)
 and [Raza Rumi (The Friday
 Times)](http://www.thefridaytimes.com/tft/journey-to-change/).
 
-The show’s slideshow can be viewed below, but do click on the image to zoom in and see the details of the works!
+The slideshow can be viewed below, but do click on the image to zoom in and see the details of the works.
 
 <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/122122605@N06/20398504221/in/album-72157656881879516/" title="3. Folios from the Baghdad Manuscript III"><img src="https://farm1.staticflickr.com/558/20398504221_1a9544accd_c.jpg" width="531" height="800" alt="3. Folios from the Baghdad Manuscript III"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

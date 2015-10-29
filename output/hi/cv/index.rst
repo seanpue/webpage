@@ -42,9 +42,16 @@ Contact Information
 | **address:**
   B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
---------------------
-Academic Appointment
---------------------
+---------------------------
+Administrative Appointments
+---------------------------
+| **2015–**
+    Director of Digital Humanities, Michigan State University
+|   College of Arts and Letters
+
+---------------------
+Academic Appointments
+---------------------
 | **2014–**
     Associate Professor, Michigan State University
 |   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
@@ -52,9 +59,9 @@ Academic Appointment
 | **2008–14**
     Assistant Professor, Michigan State University
 
---------------------
-Research Appointment
---------------------
+---------------------
+Research Appointments
+---------------------
 | **2009–**
     Associate Research Scholar in Hindi and Urdu Literature and Studies, Columbia University
 |   Department of Middle Eastern, South Asian, and African Studies
@@ -187,6 +194,12 @@ Conference Papers
 .. Exact dates follow in comments.
 
 **2015**
+“The Village, The City, and the Tavern: Poetic Soundscapes of Majeed Amjad.”
+Annual Conference on South Asia, University of Wisconsin, Madison.
+
+.. 23 October 2015
+
+**2015**
 “Using Bioinformatic Algorithms to Analyze the Politics of Form in Modernist Urdu Poetry.”
 DH 2015: Global Digital Humanities, Sydney.
 
@@ -297,6 +310,11 @@ Invited Presentations
 
 
 .. Exact dates follow in comments.
+
+**2015**
+“The Digital Divan: Computational Approaches to Urdu Poetry.” First International Urdu Conference, New York University.
+
+.. 16 October 2015
 
 **2015**
 “Topic Modeling Urdu Poetry." Locus: Texts Analysis in Humanities and Social Science, Michigan State University.
@@ -454,6 +472,10 @@ Sarai @ Center for the Study of Developing Societies, New Delhi.
 Panels Organized
 ================
 
+**2015**
+“Canon, Soundscape, and Subjectivity: Reevaluating Majeed Amjad, the Lost Voice of Urdu Poetic Modernism.”
+Annual Conference on South Asia, University of Wisconsin, Madison.
+
 **2013**
 “Repositioned Realism.”
 American Comparative Literature Association Annual Meeting, Toronto
@@ -589,6 +611,8 @@ LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013)
 
 LL252.2: Intermediate Hindi II (Spring 2014)
 
+REL345: Religion in South Asia (Fall 2015)
+
 University of Chicago
 =====================
 Third- and Fourth-Year Hindi-3: Modern Hindi Poetry (Spring 2008)
@@ -611,10 +635,14 @@ American Institute of Pakistan Studies, Board of Trustees
 Michigan State University
 =========================
 
+
 **2014—**
+Global Studies in Arts and Humanities Events Committee
+
+**2014—5**
 Global Studies in Arts and Humanities Curriculum Committee
 
-**2013—**
+**2013—5**
 College Advisory Council, College of Arts and Letters
 
 **2013–14**
@@ -666,4 +694,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 27 July 2015.
+   This C.V. was last updated on 29 October 2015.
