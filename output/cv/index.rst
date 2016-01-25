@@ -194,6 +194,12 @@ Conference Papers
 .. Exact dates follow in comments.
 
 **2015**
+“Using Bioinformatic Algorithms to Analyze Modernist Urdu Poetry.”
+Chicago Colloquium on Digital Humanities & Computer Science, University of Chicago.
+
+.. 14 November 2015
+
+**2015**
 “The Village, The City, and the Tavern: Poetic Soundscapes of Majeed Amjad.”
 Annual Conference on South Asia, University of Wisconsin, Madison.
 
@@ -310,6 +316,11 @@ Invited Presentations
 
 
 .. Exact dates follow in comments.
+
+**2015**
+“Topic Modeling Urdu Poetry.” Digital Arabic & Digital Persian: A Research Workshop, Universität Leipzig (presented online).
+
+.. 17 December 2015
 
 **2015**
 “The Digital Divan: Computational Approaches to Urdu Poetry.” First International Urdu Conference, New York University.
@@ -636,13 +647,10 @@ Michigan State University
 =========================
 
 
-**2014—**
+**2015–**
 Global Studies in Arts and Humanities Events Committee
 
-**2014—5**
-Global Studies in Arts and Humanities Curriculum Committee
-
-**2013—5**
+**2013–5**
 College Advisory Council, College of Arts and Letters
 
 **2013–14**
@@ -657,10 +665,10 @@ Global Studies in Arts and Humanities Planning Committee
 **2009–**
 Core Faculty Member, Muslim Studies
 
-**2008-12, 2014–**
+**2008-12, 2014–2015**
 Global Studies in Arts and Humanities Curriculum Committee
 
-**2008-**
+**2008–**
 Core Faculty Member, Asian Studies Center
 
 **2008-**
@@ -694,4 +702,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 29 October 2015.
+   This C.V. was last updated on 25 January 2016.
