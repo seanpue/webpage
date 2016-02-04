@@ -1,6 +1,6 @@
 .. title: §11ـ ہمہ اوست
 .. slug: itoohavesomedreams/poem_11
-.. date: 2015-08-19 16:12:37 UTC
+.. date: 2016-02-04 03:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Hamah ūst"

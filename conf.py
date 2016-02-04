@@ -82,6 +82,7 @@ TRANSLATIONS = {
     DEFAULT_LANG: "",
     "ur": "./ur",
     "hi": "./hi",
+    "pa": "./pa"
     # Example for another language:
     # "es": "./es",
 }

@@ -1,6 +1,6 @@
 .. title: §7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)
 .. slug: itoohavesomedreams/poem_7
-.. date: 2015-08-19 16:12:37 UTC
+.. date: 2016-02-04 03:40:08 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"

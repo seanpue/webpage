@@ -1,6 +1,6 @@
 .. title: §22ـ अफ़्साना-ए शहर
 .. slug: itoohavesomedreams/poem_22
-.. date: 2015-08-19 16:12:40 UTC
+.. date: 2016-02-04 03:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Afsānah-e shahr"

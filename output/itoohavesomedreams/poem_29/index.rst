@@ -1,6 +1,6 @@
 .. title: §29. Ḥasan kūzah-gar 4
 .. slug: itoohavesomedreams/poem_29
-.. date: 2015-08-19 16:12:41 UTC
+.. date: 2016-02-04 03:40:10 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥasan kūzah-gar 4"

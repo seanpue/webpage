@@ -1,6 +1,6 @@
 .. title: §21ـ ज़माना ख़ुदा है
 .. slug: itoohavesomedreams/poem_21
-.. date: 2015-08-19 16:12:40 UTC
+.. date: 2016-02-04 03:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Zamānah ḳhudā hai"
@@ -9,7 +9,7 @@
 
 
 | "ज़माना ख़ुदा है, इसे तुम बुरा मत कहो"
-| मगर तुम नहीं देखते—ज़माना फ़क़त रेसमान-ए ख़याल
+| मगर तुम नहीं देखते—ज़माना फ़क़त रेस्मान-ए ख़याल
 | सबुक-माया, नाज़ुक, तवील
 |     जुदाई की अर्ज़ाँ सबील!
 | 

@@ -1,6 +1,6 @@
 .. title: §6ـ مکافات
 .. slug: itoohavesomedreams/poem_6
-.. date: 2015-08-19 16:12:36 UTC
+.. date: 2016-02-04 03:40:08 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Mukāfāt"

@@ -1,6 +1,6 @@
 .. title: §20ـ ریگِ دیروز
 .. slug: itoohavesomedreams/poem_20
-.. date: 2015-08-19 16:12:39 UTC
+.. date: 2016-02-04 03:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Reg-e dīrūz"

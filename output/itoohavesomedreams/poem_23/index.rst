@@ -1,6 +1,6 @@
 .. title: §23. Yih ḳhalā pur nah huʾā
 .. slug: itoohavesomedreams/poem_23
-.. date: 2015-08-19 16:12:40 UTC
+.. date: 2016-02-04 03:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Yih ḳhalā pur nah huʾā"

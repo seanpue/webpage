@@ -1,6 +1,6 @@
 .. title: §13. Mann-o-salvâ
 .. slug: itoohavesomedreams/poem_13
-.. date: 2015-08-19 16:12:38 UTC
+.. date: 2016-02-04 03:40:09 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Mann-o-salvâ"

@@ -1,6 +1,6 @@
 .. title: §1. Bādal (sāneṭ)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2015-08-19 16:12:36 UTC
+.. date: 2016-02-04 03:40:08 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Bādal (sāneṭ)"

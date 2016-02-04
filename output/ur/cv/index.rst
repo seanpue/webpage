@@ -263,25 +263,37 @@ American Comparative Literature Association Annual Meeting, Toronto.
 “Desert Wandering: The Modern Landscape of Urdu Poetry.”
 American Comparative Literature Association Annual Meeting, New Orleans.
 
+.. 4 April 2010
+
 **2010**
 “‘Soviet Pantheism’: Modernism and the Critique of Ideology.”
 Association for Asian Studies Annual Meeting, Philadelphia.
+
+.. 25 March 2010 (?) 
 
 **2009**
 “Where is Hasan the Potter Now? A Literary Representation of Failed Artistic Personhood.”
 Annual Conference on South Asia, University of Wisconsin, Madison.
 
+.. 2009-10-24
+
 **2009**
 “Modernism and Colonial Difference.”
 American Comparative Literature Association Annual Meeting, Harvard University.
+
+.. 29 March 2009
 
 **2008**
 “From a Place of Solitude to a Place of Community: The Desert in Modern Urdu Poetry.”
 Association for Asian Studies Annual Meeting, Atlanta.
 
+.. 04 April 2008 (?)
+
 **2007**
 “In the Mirror of Ghalib.”
 Association for Asian Studies Annual Meeting, Boston.
+
+.. 24 March 2007 (?)
 
 **2006**
 “Parallel to the Horizon: Desire and Duration in Pakistani Modernism.”
@@ -290,6 +302,8 @@ Horizons: Comparative Literature Graduate Student Conference, Stanford Universit
 **2006**
 “Distance at Death: N. M. Rashed and the Progressives.”
 Annual Conference on South Asia, University of Wisconsin, Madison.
+
+.. 20 October 2006 (?)
 
 **2005**
 “*Ham Eshiyai*: Solidarities After Empire.”
