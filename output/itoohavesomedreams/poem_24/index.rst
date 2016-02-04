@@ -1,6 +1,6 @@
 .. title: §24. T̤alab ke tale
 .. slug: itoohavesomedreams/poem_24
-.. date: 2016-02-04 19:53:35 UTC
+.. date: 2016-02-04 20:13:16 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "T̤alab ke tale"

@@ -1,6 +1,6 @@
 .. title: §9ـ शाइर-ए दर-मांदा
 .. slug: itoohavesomedreams/poem_9
-.. date: 2016-02-04 19:53:34 UTC
+.. date: 2016-02-04 20:13:15 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Shāʿir-e dar-māñdah"
@@ -12,7 +12,7 @@
 | और मेरे लिये अफ़्रंग की दरयूज़ा-गरी
 | आफ़ियत-कोशी-ए आबा के तुफ़ैल,
 | मैं हूँ दर-मांदा‐ओ‐बे-चारा अदीब
-| ख़स्ता-ए फ़िक्र-ए मआश!
+| ख़स्ता-ए फ़िक्र-ए मआश!
 | पारा-ए नान-ए जवीं के लिये मुहताज हैं हम
 | मैं, मिरे दोस्त, मिरे सैंकड़ों अर्बाब-ए वतन
 | यानी अफ़्रंग के गुलज़ारों के फूल!
@@ -28,8 +28,8 @@
 | 
 | ऐ मिरी शम्-ए शबिस्तान-ए वफ़ा,
 | भूल जा मेरे लिये
-| ज़िंदगी ख़्वाब की आसूदा फ़रामोशी है!
-| तुझे मालूम है मशरिक़ का ख़ुदा कोई नहीं
+| ज़िंदगी ख़्वाब की आसूदा फ़रामोशी है!
+| तुझे मालूम है मशरिक़ का ख़ुदा कोई नहीं
 | और अगर है, तो सरा-पर्दा-ए निसयान में है
 | तू "मसर्रत" है मिरी, तू मिरी "बेदारी" है
 | मुझे आग़ोश में ले
@@ -43,10 +43,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §8. इत्तिफ़ाक़ात 
+.. |left arrow link| replace:: :emoji:`arrow_left` §8. इत्तिफ़ाक़ात 
 .. _left arrow link: /hi/itoohavesomedreams/poem_8
 
-.. |right arrow link| replace::  §10. इंतिक़ाम :emoji:`arrow_right` 
+.. |right arrow link| replace::  §10. इंतिक़ाम :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_10
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

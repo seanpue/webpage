@@ -1,6 +1,6 @@
 .. title: §9ـ ਸ਼ਾਇਰ-ਏ ਦਰ-ਮਾਂਦਾ
 .. slug: itoohavesomedreams/poem_9
-.. date: 2016-02-04 19:53:34 UTC
+.. date: 2016-02-04 20:13:15 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Shāʿir-e dar-māñdah"
@@ -12,7 +12,7 @@
 | ਔਰ ਮੇਰੇ ਲਿਯੇ ਅਫ਼੍ਰਂਗ ਕੀ ਦਰਯੂਜ਼ਾ-ਗਰੀ
 | ਆਫ਼ਿਯਤ-ਕੋਸ਼ੀ-ਏ ਆਬਾ ਕੇ ਤੁਫ਼ੈਲ,
 | ਮੈਂ ਹੂਁ ਦਰ-ਮਾਂਦਾ‐ਓ‐ਬੇ-ਚਾਰਾ ਅਦੀਬ
-| ਖ਼ਸ੍ਤਾ-ਏ ਫ਼ਿਕ੍ਰ-ਏ ਮਆਸ਼!
+| ਖ਼ਸ੍ਤਾ-ਏ ਫ਼ਿਕ੍ਰ-ਏ ਮਆਸ਼!
 | ਪਾਰਾ-ਏ ਨਾਨ-ਏ ਜਵੀਂ ਕੇ ਲਿਯੇ ਮੁਹਤਾਜ ਹੈਂ ਹਮ
 | ਮੈਂ, ਮਿਰੇ ਦੋਸ੍ਤ, ਮਿਰੇ ਸੈਂਕੜੋਂ ਅਰ੍ਬਾਬ-ਏ ਵਤਨ
 | ਯਾਨੀ ਅਫ਼੍ਰਂਗ ਕੇ ਗੁਲਜ਼ਾਰੋਂ ਕੇ ਫੂਲ!
@@ -28,8 +28,8 @@
 | 
 | ਐ ਮਿਰੀ ਸ਼ਮ੍-ਏ ਸ਼ਬਿਸ੍ਤਾਨ-ਏ ਵਫ਼ਾ,
 | ਭੂਲ ਜਾ ਮੇਰੇ ਲਿਯੇ
-| ਜ਼ਿਂਦਗੀ ਖ਼੍ਵਾਬ ਕੀ ਆਸੂਦਾ ਫ਼ਰਾਮੋਸ਼ੀ ਹੈ!
-| ਤੁਝੇ ਮਾਲੂਮ ਹੈ ਮਸ਼ਰਿ੘ ਕਾ ਖ਼ੁਦਾ ਕੋਈ ਨਹੀਂ
+| ਜ਼ਿਂਦਗੀ ਖ਼੍ਵਾਬ ਕੀ ਆਸੂਦਾ ਫ਼ਰਾਮੋਸ਼ੀ ਹੈ!
+| ਤੁਝੇ ਮਾਲੂਮ ਹੈ ਮਸ਼ਰਿਕ਼ ਕਾ ਖ਼ੁਦਾ ਕੋਈ ਨਹੀਂ
 | ਔਰ ਅਗਰ ਹੈ, ਤੋ ਸਰਾ-ਪਰ੍ਦਾ-ਏ ਨਿਸਯਾਨ ਮੇਂ ਹੈ
 | ਤੂ "ਮਸਰ੍ਰਤ" ਹੈ ਮਿਰੀ, ਤੂ ਮਿਰੀ "ਬੇਦਾਰੀ" ਹੈ
 | ਮੁਝੇ ਆਗ਼ੋਸ਼ ਮੇਂ ਲੇ
@@ -43,10 +43,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §8. ਇਤ੍ਤਿਫ਼ਾ੘ਾਤ 
+.. |left arrow link| replace:: :emoji:`arrow_left` §8. ਇਤ੍ਤਿਫ਼ਾਕ਼ਾਤ 
 .. _left arrow link: /hi/itoohavesomedreams/poem_8
 
-.. |right arrow link| replace::  §10. ਇਂਤਿ੘ਾਮ :emoji:`arrow_right` 
+.. |right arrow link| replace::  §10. ਇਂਤਿਕ਼ਾਮ :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_10
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
