@@ -1,6 +1,6 @@
 .. title: §26ـ हसन कूज़ा-गर
 .. slug: itoohavesomedreams/poem_26
-.. date: 2016-02-04 03:40:10 UTC
+.. date: 2016-02-04 16:23:36 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Ḥasan kūzah-gar"

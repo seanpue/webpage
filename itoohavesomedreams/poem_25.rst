@@ -1,6 +1,6 @@
 .. title: §25. Gumāñ kā mumkin—jo tū hai maiñ hūñ!
 .. slug: itoohavesomedreams/poem_25
-.. date: 2016-02-04 03:40:09 UTC
+.. date: 2016-02-04 16:23:36 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Gumāñ kā mumkin—jo tū hai maiñ hūñ!"

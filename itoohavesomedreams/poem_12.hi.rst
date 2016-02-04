@@ -1,6 +1,6 @@
 .. title: §12ـ तेल के सौदागर
 .. slug: itoohavesomedreams/poem_12
-.. date: 2016-02-04 03:40:09 UTC
+.. date: 2016-02-04 16:23:35 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Tel ke saudāgar"

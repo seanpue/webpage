@@ -1,6 +1,6 @@
 .. title: §1ـ بادل (سانیٹ)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2016-02-04 03:40:08 UTC
+.. date: 2016-02-04 16:23:34 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Bādal (sāneṭ)"

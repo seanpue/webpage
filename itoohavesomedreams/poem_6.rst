@@ -1,6 +1,6 @@
 .. title: §6. Mukāfāt
 .. slug: itoohavesomedreams/poem_6
-.. date: 2016-02-04 03:40:08 UTC
+.. date: 2016-02-04 16:23:35 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Mukāfāt"

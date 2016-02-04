@@ -1,6 +1,6 @@
 .. title: §10ـ انتقام
 .. slug: itoohavesomedreams/poem_10
-.. date: 2016-02-04 03:40:09 UTC
+.. date: 2016-02-04 16:23:35 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Intiqām"

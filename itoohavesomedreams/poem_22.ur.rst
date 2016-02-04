@@ -1,6 +1,6 @@
 .. title: §22ـ افسانہِ شہر
 .. slug: itoohavesomedreams/poem_22
-.. date: 2016-02-04 03:40:09 UTC
+.. date: 2016-02-04 16:23:36 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Afsānah-e shahr"

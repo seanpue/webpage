@@ -1,6 +1,6 @@
 .. title: §3. Sitāre (sāneṭ)
 .. slug: itoohavesomedreams/poem_3
-.. date: 2016-02-04 03:40:08 UTC
+.. date: 2016-02-04 16:23:34 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Sitāre (sāneṭ)"

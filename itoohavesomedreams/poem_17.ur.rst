@@ -1,6 +1,6 @@
 .. title: §17ـ زندگی سے ڈرتے ہو؟
 .. slug: itoohavesomedreams/poem_17
-.. date: 2016-02-04 03:40:09 UTC
+.. date: 2016-02-04 16:23:35 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Zindagī se ḍarte ho?"
