@@ -1,6 +1,6 @@
 .. title: §14. Tamāshāgah-e lālah-zār
 .. slug: itoohavesomedreams/poem_14
-.. date: 2016-02-04 20:13:15 UTC
+.. date: 2016-02-04 20:26:03 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Tamāshāgah-e lālah-zār"

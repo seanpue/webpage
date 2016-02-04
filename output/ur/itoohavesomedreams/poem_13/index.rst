@@ -1,6 +1,6 @@
 .. title: §13ـ منّ و سلویٰ
 .. slug: itoohavesomedreams/poem_13
-.. date: 2016-02-04 20:13:15 UTC
+.. date: 2016-02-04 20:26:02 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Mann-o-salvâ"

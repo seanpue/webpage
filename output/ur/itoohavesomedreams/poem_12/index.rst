@@ -1,6 +1,6 @@
 .. title: §12ـ تیل کے سوداگر
 .. slug: itoohavesomedreams/poem_12
-.. date: 2016-02-04 20:13:15 UTC
+.. date: 2016-02-04 20:26:02 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Tel ke saudāgar"

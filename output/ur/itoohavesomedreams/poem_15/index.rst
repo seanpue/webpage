@@ -1,6 +1,6 @@
 .. title: §15ـ نمرود کی خدائی
 .. slug: itoohavesomedreams/poem_15
-.. date: 2016-02-04 20:13:15 UTC
+.. date: 2016-02-04 20:26:03 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Namrūd kī ḳhudāʾī"

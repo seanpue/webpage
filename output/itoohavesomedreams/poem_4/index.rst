@@ -1,6 +1,6 @@
 .. title: §4. Vādī-e pinhāñ
 .. slug: itoohavesomedreams/poem_4
-.. date: 2016-02-04 20:13:15 UTC
+.. date: 2016-02-04 20:26:02 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Vādī-e pinhāñ"

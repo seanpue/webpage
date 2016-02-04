@@ -1,6 +1,6 @@
 .. title: §30ـ میرے بھی ہیں کچھ خواب
 .. slug: itoohavesomedreams/poem_30
-.. date: 2016-02-04 20:13:16 UTC
+.. date: 2016-02-04 20:26:04 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Mere bhī haiñ kuchh ḳhvāb"
