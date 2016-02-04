@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (hindi)</title><link>http://seanpue.com/</link><description></description><atom:link rel="self" href="http://seanpue.com/ur/categories/hindi.xml" type="application/rss+xml"></atom:link><language>ur</language><lastBuildDate>Thu, 04 Feb 2016 19:59:33 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Added Hindi and Urdu</title><link>http://seanpue.com/ur/posts/added-hindi-and-urdu/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I added the Urdu translation of the blog software, and I also translated the
+blog commands into Hindi. Should I care to, I can now compose Hindi and Urdu
+versions of my posts. The translations of the blog
+software are &lt;a class="reference external" href="https://www.transifex.com/projects/p/nikola/"&gt;crowdsourced&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I do not do much computing in Hindi, so I checked some of the phrases against
+the Wordpress translations in addition to querying to see how many instances
+there are of particular words on the Internet. For example, one phrase I was
+wavering on was the word for archive. अभिलेखागार &lt;em&gt;abhilekhāgār&lt;/em&gt; or “archive” has
+217,000 hits (many of which are Indian government archive websites), whereas
+अार्काइव &lt;em&gt;ārkāiv&lt;/em&gt; has 592,000. That‘s what the Urdu translation went with as
+آرکائیو. So I went with अार्काइव. On the other hand, The Hindi word for
+“categories,” श्रेणियाँ &lt;em&gt;shreṇiyāñ&lt;/em&gt;, had 814,000 pages, whereas कैटेगरी &lt;em&gt;kaiṭegarī&lt;/em&gt; had
+129,000 and the plural form कैटेगरियां only 49,100.&lt;/p&gt;
+&lt;p&gt;I am trying to figure out now what the best current &lt;a class="reference external" href="http://seanpue.com/ur/posts/added-hindi-and-urdu/_http:/en.wikipedia.org/wiki/Cascading_Style_Sheets"&gt;CSS&lt;/a&gt; styling is for
+displaying Hindi and Urdu text on the Internet. Most browsers on recent
+computers can handle displaying the text to the extent that it is at least
+readable. Urdu in its preferred script, &lt;em&gt;nastaʿlīq&lt;/em&gt;, is rather difficult to
+render, so I would be curious to hear suggestions. There are ways of embedding
+fonts in webpages that might be a possibility. I have not been following those
+technologies very closely, and so it will be interesting to find out how
+standardized the techniques are at this point.&lt;/p&gt;&lt;/div&gt;</description><guid>http://seanpue.com/ur/posts/added-hindi-and-urdu/</guid><pubDate>Wed, 05 Feb 2014 01:30:41 GMT</pubDate></item></channel></rss>

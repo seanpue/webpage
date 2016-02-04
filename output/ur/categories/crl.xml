@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>A. Sean Pue (CRL)</title><link>http://seanpue.com/</link><description></description><atom:link rel="self" href="http://seanpue.com/ur/categories/crl.xml" type="application/rss+xml"></atom:link><language>ur</language><lastBuildDate>Thu, 04 Feb 2016 19:59:31 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Printing Right-To-Left PDF Books</title><link>http://seanpue.com/ur/posts/printing-right-to-left-pdf-books/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;Today is the first day of Spring Break, and so I am enjoying some nice weather and not teaching.&lt;/p&gt;
+&lt;p&gt;I am working on a panel abstract about the poet Majeed Amjad for the &lt;a href="http://southasiaconference.wisc.edu/"&gt;Annual Conference on South Asia&lt;/a&gt; held in beautiful Madison, Wisconsin.
+I have applied to bring a certain professor from Pakistan to the event, and two amazing Urdu professors
+from University of Virginia have also signed on to the panel. I do hope it goes forward.&lt;/p&gt;
+&lt;p&gt;I found an interesting  &lt;a href="http://catalog.crl.edu/record=b2874293~S1"&gt;book&lt;/a&gt; on Majeed Amjad through my library. It is actually available as PDF through the
+&lt;a href="http://www.crl.edu/"&gt;Center for Research Libraries&lt;/a&gt; (CRL), of which &lt;a href="http://lib.msu.edu"&gt;my university library&lt;/a&gt; is a member.&lt;/p&gt;
+&lt;p&gt;It's wonderful to be able to download a PDF of the book. However, I love writing on books.
+Actually, I don't like writing on my own books but rather on photocopies of them, especially when doing research. I like to print pages double-sided and then keep the pages in a recycled report cover that I can put it in my file cabinet when I am done. That doesn't take much space, and I can see four pages at a time when reading/skimming.&lt;/p&gt;
+&lt;p&gt;When printing a PDF, you can print two pages a sheet. For left-to-right documents, that is not a problem.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Recto_and_verso"&gt;&lt;img alt="Recto and verso.svg" src="http://upload.wikimedia.org/wikipedia/commons/7/7b/Recto_and_verso.svg" height="145" width="218"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;However, for &lt;a href="http://en.wikipedia.org/wiki/Right-to-left"&gt;right-to-left&lt;/a&gt; books there is a problem as the verso and recto are reversed, meaning one reads the right page then the left page. It's rather disorienting to read them if they are not printed correctly. So I went about looking for a good solution.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Recto_and_verso"&gt;&lt;img alt="Recto and verso RTL.svg" src="http://upload.wikimedia.org/wikipedia/commons/f/fa/Recto_and_verso_RTL.svg" height="145" width="218"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;First, I explored a PDF-manipulation library for the Python language called &lt;a href="https://github.com/mstamy2/PyPDF2"&gt;PyPDF2&lt;/a&gt;. It is quite neat, but I had some
+trouble accomplishing the task of merging the pages.&lt;/p&gt;
+&lt;p&gt;I then stumbled upon a set of PDF shell scripts called &lt;a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/"&gt;PDFjam&lt;/a&gt;. I already had them installed on my computer,
+perhaps as part of the document preparation system &lt;a href="http://seanpue.com/ur/posts/printing-right-to-left-pdf-books/www.latex-project.org/"&gt;LaTeX&lt;/a&gt;. (I use &lt;a href="https://tug.org/mactex/"&gt;MacTex&lt;/a&gt; which is a distribution of &lt;a href="https://www.tug.org/texlive/"&gt;Tex Live&lt;/a&gt; for OS X.)&lt;/p&gt;
+&lt;p&gt;There is a program in PDFjam called &lt;code&gt;pdfnup&lt;/code&gt; which allows to "n-up the pages of pdf files."
+To &lt;a href="http://en.wikipedia.org/wiki/N-up"&gt;n-up&lt;/a&gt; apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called &lt;code&gt;pdfpun&lt;/code&gt;—a right-to-left version and exactly what I needed!&lt;/p&gt;
+&lt;p&gt;For all the other RTL PDF book printers out there, here is the command I used on the original file &lt;code&gt;dds-85303.pdf&lt;/code&gt; to save it as &lt;code&gt;gulaab_ke_phuul.pdf&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
+&lt;/pre&gt;
+
+
+&lt;p&gt;That was close. However, there was a problem in that the pages were two small. I tried messing around with the
+parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  &lt;code&gt;pdfpun&lt;/code&gt; allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
+&lt;/pre&gt;
+
+
+&lt;p&gt;The pattern is here:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
+&lt;/pre&gt;
+
+
+&lt;p&gt;It worked perfectly. Now I'm off to read the book!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/129471681@N03/16581802309" title="Gulaab ke phuul by Sean Pue, on Flickr"&gt;&lt;img src="https://farm8.staticflickr.com/7610/16581802309_a177566398_n.jpg" width="240" height="320" alt="Gulaab ke phuul"&gt;&lt;/a&gt;&lt;a href="https://www.flickr.com/photos/129471681@N03/16742082536" title="Gulaab ke phuul by Sean Pue, on Flickr"&gt;&lt;img src="https://farm9.staticflickr.com/8706/16742082536_b0c7c7ecde_n.jpg" width="240" height="320" alt="Gulaab ke phuul"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://seanpue.com/ur/posts/printing-right-to-left-pdf-books/</guid><pubDate>Mon, 09 Mar 2015 18:43:50 GMT</pubDate></item></channel></rss>

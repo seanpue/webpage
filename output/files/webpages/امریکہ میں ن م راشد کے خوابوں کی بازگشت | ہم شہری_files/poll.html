@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# opinionstage: http://ogp.me/ns/apps/opinionstage#">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<title>Poll Widget - Opinion Stage</title>
+<link href="poll_data/widget_multi_sided-36f7607df49106dccc2cdacf45cb03c9.css" media="screen" rel="stylesheet" type="text/css">
+<style>
+  /*<![CDATA[*/
+    #os-wrapper {
+      color: #707070;
+      font-family:  Arial, Helvetica, sans-serif;
+    }
+    
+    #os-wrapper .os-social-networks {
+      margin-top: 0px;
+      margin-bottom: 7px;
+      margin-left: 7px;
+      margin-right: 7px;
+    }
+    
+    #os-wrapper.i18n-ltr .os-social-networks li {
+      margin-left: 7px;
+    }
+    #os-wrapper.i18n-rtl .os-social-networks li {
+      margin-right: 7px;
+    }
+    
+    #os-wrapper h1 {
+      color: #707070 !important;
+      margin-top: 5px;
+      margin-bottom: 10px;
+      margin-left: 7px;
+      margin-right: 7px;
+    }
+      #os-wrapper .description {
+      margin-left: 7px;
+      margin-right: 7px;
+      }
+    
+    #os-wrapper h1 {
+      font-size: 17px;
+      line-height: 21px;
+    }
+    
+    #os-wrapper a {
+      color: #33b5e5;
+    }
+    #os-wrapper #nav_row, #os-wrapper .os-poll-block, #os-wrapper .debate_stats_container, .os-links, .os-character-list li {
+      border-top: 1px solid #cccccc;
+    }
+    
+    #os-wrapper .os-tab-content {
+      border-radius: 2px;
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+      border-width:  1px;
+      border-color:  #cccccc !important;
+      background: #ffffff !important;
+      padding-top: 6px;
+      padding-left: 0px;
+      padding-bottom: 0px;
+      padding-right: 0px;
+    }
+    
+    #os-wrapper #nav_row {
+      background: #ffffff;
+      padding-top: 3px;
+      padding-bottom: 3px;
+      padding-left: 7px;
+      padding-right: 7px;
+      font-size: 12px;
+    }
+    
+    #os-wrapper .media_attachment {
+      margin-top: 0px;
+      margin-bottom: 14px;
+      margin-right: 0px;
+      margin-left: 0px;
+    }
+    
+    #os-wrapper .description {
+      margin-bottom: 14px;
+    }
+    
+    
+    
+    #os-wrapper.large_embed .os-tab-content {
+    }
+    
+    #os-wrapper.i18n-ltr.large_embed .os-social-networks li {
+      margin-left: 10px;
+    }
+    #os-wrapper.i18n-rtl.large_embed .os-social-networks li {
+      margin-right: 10px;
+    }
+    
+    #os-wrapper.large_embed .os-social-networks {
+      margin-bottom: 10px;
+    }
+    
+    
+    
+    #os-wrapper.large_embed h1 {
+      font-size: 20px;
+      line-height: 24px;
+    }
+    
+    #os-wrapper.large_embed .media_attachment {
+      margin-bottom: 0px;
+    }
+    
+    #os-wrapper.large_embed .description {
+      margin-bottom: 0px;
+    }
+      #os-wrapper.multi_sided .os-poll-box {
+      background: #ffffff;
+      }
+    
+    
+      #os-wrapper.multi_sided .bar_border_color_0 {
+      border-color:  #f6eccb !important;
+      }
+      #os-wrapper.multi_sided .bar_border_color_1 {
+      border-color:  #edcacb !important;
+      }
+      #os-wrapper.multi_sided .bar_border_color_2 {
+      border-color:  #dbdbd9 !important;
+      }
+    
+      #os-wrapper.multi_sided .bar_border_color_0 .other-field {
+      border-color:  #f6eccb !important;
+      }
+      #os-wrapper.multi_sided .bar_border_color_1 .other-field {
+      border-color:  #edcacb !important;
+      }
+      #os-wrapper.multi_sided .bar_border_color_2 .other-field {
+      border-color:  #dbdbd9 !important;
+      }
+    
+    #os-wrapper.multi_sided .bar_fill_color_0 {
+    background-color:  #f6eccb;
+    }
+    #os-wrapper.multi_sided .bar_fill_color_1 {
+    background-color:  #edcacb;
+    }
+    #os-wrapper.multi_sided .bar_fill_color_2 {
+    background-color:  #dbdbd9;
+    }
+    
+    #os-wrapper.multi_sided .os-poll-info {
+    color:  #494848 !important;
+    }
+    
+      #os-wrapper.multi_sided .os-row {
+      margin-bottom:  14px;
+      }
+    
+      #os-wrapper.multi_sided .os-row .os-poll-box .os-poll-label, #os-wrapper.multi_sided .os-row .os-poll-box .hover-text {
+      line-height:  18px;
+      }
+      #os-wrapper.multi_sided .os-row .os-poll-box .other-field {
+      line-height:  14px;
+      }
+      #os-wrapper.multi_sided .side_votes .os-row:not(.os-row-vote) div.radio, #os-wrapper.multi_sided .side_votes .os-row:not(.os-row-vote) div.checker {
+      top:  4px;
+      }
+      #os-wrapper.multi_sided .side .spinner_elem {
+      margin-top: 4px;
+      }
+      #os-wrapper.multi_sided .flavor-list-radio-in .os-row.side input + label {
+      margin-top: 1px;
+      }
+    
+      #os-wrapper.multi_sided .os-row-vote {
+      font-size:  12px;
+      }
+    #os-wrapper.multi_sided .os-row-vote {
+    height:  24px;
+    line-height:  24px;
+    }
+    #os-wrapper.multi_sided .os-row-vote .checker span {
+    margin-top: 5px;
+    }
+    #os-wrapper.multi_sided .flavor-list-radio-in .os-row-vote input#anonymous_checkbox {
+    margin-top: 6px;
+    }
+    
+      #os-wrapper.multi_sided .os-poll-form {
+      background: #ffffff;
+      }
+    
+    #os-wrapper.multi_sided .os-poll-block {
+    font-size: 13px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    
+    #os-wrapper.multi_sided .other-field {
+    font-size: 13px;
+    }
+    
+    #os-wrapper.multi_sided .vote-button {
+      background: #f3e7ba;
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f3e7ba), color-stop(100%, #f3e7ba));
+      background: -webkit-linear-gradient(top, #f3e7ba, #f3e7ba);
+      background: -moz-linear-gradient(top, #f3e7ba, #f3e7ba);
+      background: -o-linear-gradient(top, #f3e7ba, #f3e7ba);
+      background: -ms-linear-gradient(top, #f3e7ba, #f3e7ba);
+      background: linear-gradient(top, #f3e7ba, #f3e7ba);
+    
+    color: #494848 !important;
+    width: 80px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 14px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    margin-top: -1px;
+    }
+    #os-wrapper.multi_sided .vote-button:hover {
+      background: #b9b900;
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b9b900), color-stop(100%, #b9b900));
+      background: -webkit-linear-gradient(top, #b9b900, #b9b900);
+      background: -moz-linear-gradient(top, #b9b900, #b9b900);
+      background: -o-linear-gradient(top, #b9b900, #b9b900);
+      background: -ms-linear-gradient(top, #b9b900, #b9b900);
+      background: linear-gradient(top, #b9b900, #b9b900);
+    
+    }
+    
+    
+        #os-wrapper.multi_sided.large_embed .os-poll-block, #os-wrapper.multi_sided.large_embed .other-field {
+        font-size: 14px;
+        }
+    
+        #os-wrapper.multi_sided.large_embed .os-row {
+        margin-bottom:  14px;
+        }
+    
+    
+    
+    
+    
+      #os-wrapper.multi_sided.large_embed .os-poll-block {
+        padding-top: 14px;
+        padding-bottom: 10px;
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+    
+      #os-wrapper.multi_sided.large_embed .vote-button {
+        height: 24px;
+        line-height: 24px;
+        font-size: 14px;
+        margin-top: -2px;
+      }
+    
+        #os-wrapper.multi_sided.large_embed .os-row-vote {
+        height:  24px;
+        line-height:  24px;
+        }
+  /*]]>*/
+</style>
+
+<script src="poll_data/analytics.js" async=""></script><script src="poll_data/sdk.js" async="" id="facebook-jssdk"></script><script src="poll_data/widgets.js" async="" type="text/javascript"></script><script src="poll_data/widget_multi_sided-ee802554c3785af63a9adc41dfbfda98.js" type="text/javascript"></script>
+<meta content="" name="csrf-param">
+<meta content="" name="csrf-token">
+<script>
+  //<![CDATA[
+    if(!window.Opst){
+      window.Opst = {};
+      Opst.options = {};
+      Opst.debate = {};
+      Opst.urls = {};
+      Opst.urls.redirect_urls = {}
+      Opst.constants = {};
+    
+      Opst.options.protocol = ('https:' == document.location.protocol ? 'https:' : 'http:')
+      Opst.urls.new_registration = Opst.options.protocol + "//www.opinionstage.com/registrations/new";
+      Opst.urls.new_votes = Opst.options.protocol + "//www.opinionstage.com/side_votes/new";
+      Opst.urls.hosting_url = document.referrer;
+      Opst.constants.medium_embed = parseInt("300"); // 300
+      Opst.constants.standard_embed = parseInt("400"); // 400
+      Opst.constants.wide_embed = parseInt("500"); //500
+      Opst.constants.side_margin = parseInt("7");
+      Opst.constants.side_by_side_media_factor = parseFloat("0.475");
+      Opst.constants.side_by_side_video_height_factor = parseFloat("0.92");
+    }
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+      Opst.debate.id = "2229111";
+      Opst.debate.host = "humshehrionline.com";
+      Opst.debate.kind = parseInt("4");
+      Opst.debate.sides = parseInt("3");
+    
+      Opst.options.closed = parseBoolean("false");
+      Opst.options.hide_results = parseBoolean("false");
+      Opst.options.hide_results_pre_vote = parseBoolean("true");
+      Opst.options.cookie_based_voting = parseBoolean("false");
+      Opst.options.sample_poll = parseBoolean("false");
+      Opst.options.free_account = parseBoolean("true");
+      Opst.options.hybrid_voting = parseBoolean("true");
+      Opst.options.restricted_ip_voting = parseBoolean("false");
+      Opst.options.repeated_voting_enabled = parseBoolean("false");
+      Opst.options.no_faces_layout = parseBoolean("false");
+      Opst.options.show_social_profiles = parseBoolean("true");
+      Opst.options.auto_share_popup = parseBoolean("true");
+      Opst.options.custom_fb_sharing = parseBoolean("false");
+      Opst.options.custom_twitter_sharing = parseBoolean("false");
+      Opst.options.twitter_sharing_message = "";
+      Opst.options.twitter_via = "";
+      Opst.options.twitter_hashtags = "";
+      Opst.options.twitter_related = "";
+      Opst.options.hide_media_after_vote = parseBoolean("false");
+      Opst.options.direction = "rtl";
+      Opst.options.locale = "ar";
+      Opst.options.answers_to_choose = parseInt("0");
+      Opst.options.short_urls_count = parseInt("2");
+      Opst.options.redirect_after_vote = parseBoolean("false");
+      Opst.options.show_custom_form = parseBoolean("false");
+      Opst.options.discovery_enabled = parseBoolean("false");
+    
+      Opst.urls.fresh_url = Opst.options.protocol + "//www.opinionstage.com/polls/2229111/fresh_poll";
+      Opst.urls.shares = Opst.options.protocol + "//www.opinionstage.com/polls/2229111/share";
+    
+      Opst.constants.multi_sided_side_padding = parseInt("10");
+      Opst.constants.video_aspect_ratio = parseFloat("0");
+    
+      Opst.debate.two_sided = function() { return Opst.debate.kind == parseInt("1");};
+      Opst.debate.multi_sided = function() { return Opst.debate.kind == parseInt("4");};
+      Opst.debate.multi_selection = function() { return Opst.debate.kind == parseInt("6");};
+  //]]>
+</script>
+
+
+<meta content="http://opst.co/1zeCHFS" property="og:url">
+<meta content="کیا بلاول بھٹو زرداری سیاسی میدان میں اپنی والدہ کا خلا پر کر سکیں گے؟" property="og:title">
+<meta content="Opinion Stage" property="og:site_name">
+<meta content="قم بالإدلاء بصوتك!" property="og:description">
+<meta content="http://a3.opinionstage-res.cloudinary.com/image/upload/c_fit,h_294,w_474/v1414514094/niwizx7e4fsmnqsjzsly.jpg" property="og:image">
+<meta content="opinionstage:opinionstage_debate" property="og:type">
+<meta content="192204500821312" property="fb:app_id">
+<meta content="کیا بلاول بھٹو زرداری سیاسی میدان میں اپنی والدہ کا خلا پر کر سکیں گے؟" itemprop="name">
+<meta content="قم بالإدلاء بصوتك!" itemprop="description">
+<meta content="http://a3.opinionstage-res.cloudinary.com/image/upload/c_fit,h_294,w_474/v1414514094/niwizx7e4fsmnqsjzsly.jpg" itemprop="image">
+<meta content="summary" name="twitter:card">
+<meta content="@OpinionStage" name="twitter:site">
+<meta content="کیا بلاول بھٹو زرداری سیاسی میدان میں اپنی والدہ کا خلا پر کر سکیں گے؟" name="twitter:title">
+<meta content="قم بالإدلاء بصوتك!" name="twitter:description">
+<meta content="http://a3.opinionstage-res.cloudinary.com/image/upload/c_fit,h_294,w_474/v1414514094/niwizx7e4fsmnqsjzsly.jpg" name="twitter:image">
+<meta content="http://www.opinionstage.com/polls/%DA%A9%DB%8C%D8%A7-%D8%A8%D9%84%D8%A7%D9%88%D9%84-%D8%A8%DA%BE%D9%B9%D9%88-%D8%B2%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%85%DB%8C%DA%BA-%D8%A7%D9%BE%D9%86%DB%8C-%D9%88%D8%A7%D9%84%D8%AF%DB%81-%DA%A9%D8%A7-%D8%AE%D9%84%D8%A7-%D9%BE%D8%B1-%DA%A9%D8%B1-%D8%B3%DA%A9%DB%8C%DA%BA-%DA%AF%DB%92" name="twitter:url">
+<link href="http://www.opinionstage.com/polls/%DA%A9%DB%8C%D8%A7-%D8%A8%D9%84%D8%A7%D9%88%D9%84-%D8%A8%DA%BE%D9%B9%D9%88-%D8%B2%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%85%DB%8C%DA%BA-%D8%A7%D9%BE%D9%86%DB%8C-%D9%88%D8%A7%D9%84%D8%AF%DB%81-%DA%A9%D8%A7-%D8%AE%D9%84%D8%A7-%D9%BE%D8%B1-%DA%A9%D8%B1-%D8%B3%DA%A9%DB%8C%DA%BA-%DA%AF%DB%92" rel="canonical">
+<script>
+  //<![CDATA[
+    // Sometimes load event is fired without the ready event
+    $(window).load(function() {
+      startAdjusting();
+    });
+    
+    $(document).ready(function() {
+      startAdjusting();
+    });
+    
+    var startedAdjusting = false;
+    function startAdjusting() {
+      if (startedAdjusting) {
+        return;
+      }
+      startedAdjusting = true;
+      adjustWidget();
+      $(window).resize(function() {
+        adjustWidget();
+      });
+    
+      setInterval("ensureResize()", 500);
+    }
+    
+    var MORE_VOTERS_W = 15;
+    var BAR_M = 15;
+    var SOCIAL_M = 5;
+    var ROW_P = 20;
+    var CHECK_SIDE_W = 17;
+    var INPUT_SIDE_H = 16;
+    var INFO_M = 18;
+    var WIDTH_BUFFER = 2;
+    var lastWidth = null;
+    var lastHeight = null;
+    
+    function ensureResize() {
+      if (lastWidth != $(window).width() || lastHeight != widget_height()) {
+        $(window).resize();
+      }
+    }
+    
+    function adjustElements(internal_width) {
+      if (internal_width <  Opst.constants.standard_embed - WIDTH_BUFFER) { // 0-399
+        $('.os-character-holder .character-title').hide();
+        $('.nav_items .filter_by').hide();
+    
+        if (internal_width <  Opst.constants.medium_embed - WIDTH_BUFFER) { // 0-299
+          adjust_ad_unit([0]);
+          $('.os-images-holder .images img').hide();
+          $('.os-images-holder').removeClass('small_embed').addClass('tiny_embed');
+        } else  { // 300-399
+          adjust_ad_unit([0, 1]);
+          $('.os-images-holder .images img.last').hide();
+          $('.os-images-holder .images img.first').show();
+          $('.os-images-holder').removeClass('tiny_embed').addClass('small_embed');
+        }
+      } else { // 400 and above
+        adjust_ad_unit([0, 1, 2]);
+        $('.os-character-holder .character-title').show();
+        $('.nav_items .filter_by').show();
+        $('.os-images-holder .images img').show();
+        $('.os-images-holder').removeClass('small_embed').removeClass('tiny_embed');
+      }
+    
+      adjustOtherField();
+    }
+    
+    function adjustWidget() {
+      // ensure resize
+      if (lastWidth != $(window).width() || lastHeight != widget_height()) {
+        setTimeout("$(window).resize()", 500);
+      }
+      internal_width = widget_width();
+      adjustElements(internal_width);
+      resize_videos();
+      adjustCustomForm();
+    
+      var results_bar_w = widget_width() - Opst.constants.multi_sided_side_padding;
+      if (mc_has_list_radio_out_flavor()) {
+        results_bar_w = results_bar_w - CHECK_SIDE_W - BAR_M; // in old flavor list (outer radio buttons) the margin is always added
+      }
+    
+      if (!Opst.options.no_faces_layout) {
+        results_bar_w = results_bar_w - $('.os-images-holder').width();
+        if (mc_has_list_radio_in_flavor()) { // in new flavor list (inner radio buttons) the margin is added only between bar and voters faces (social)
+          results_bar_w = results_bar_w - SOCIAL_M;
+        }
+      }
+    
+      if (Opst.debate.multi_selection()) { //TODO: perhaps this is redundant
+        if (internal_width <  Opst.constants.standard_embed) {
+          $('.os-row-vote .total').addClass("post_vote");
+        } else {
+          $('.os-row-vote .total').removeClass("post_vote");
+        }
+      }
+      var poll_info_w = results_bar_w - ROW_P;
+    
+      if (mc_has_list_radio_in_flavor()) {
+        poll_info_w = poll_info_w - CHECK_SIDE_W - INFO_M;
+      }
+    
+      $('.os-row-holder').css("width", results_bar_w + "px");
+      $('.os-poll-info').css("width", poll_info_w + "px");
+    
+      notify_height_changed();
+    
+      lastWidth = $(window).width();
+      lastHeight = widget_height();
+    }
+  //]]>
+</script>
+
+
+<meta name="_alpheios-installed-version" content="{0f1d7e06-6ce8-40b0-83f0-9783ee65ab9b}:1.0beta2.4091.20110813"><meta name="_alpheios-installed-version" content="{4816253c-3208-49d8-9557-0745a5508299}:1.0beta2.4124.20111123"><meta name="_alpheios-installed-version" content="{7dd2b42f-3db8-4833-88c4-5a9e3788017b}:1.0beta2.4097.20110813"><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+<body data-twttr-rendered="true" class="widget"><iframe src="poll_data/hub.html" style="position: absolute; top: -9999em; width: 10px; height: 10px;" name="twttrHubFrameSecure" tabindex="0" scrolling="no" allowtransparency="true" id="twttrHubFrameSecure" frameborder="0"></iframe><iframe src="poll_data/hub_002.html" style="position: absolute; top: -9999em; width: 10px; height: 10px;" name="twttrHubFrame" tabindex="0" scrolling="no" allowtransparency="true" id="twttrHubFrame" frameborder="0"></iframe>
+<div class="debate i18n-rtl large_embed multi_sided rtl" data-creator-name="humshehri" data-debate-id="2229111" data-title="کیا بلاول بھٹو زرداری سیاسی میدان میں اپنی والدہ کا خلا پر کر سکیں گے؟" dir="rtl" id="os-wrapper">
+<div class="main-col">
+<div class="os-tab-content">
+<div class="os-tab os-poll-tab active" data-tab="poll">
+<div class="os-tab-area">
+<h1>کیا بلاول بھٹو زرداری سیاسی میدان میں اپنی والدہ کا خلا پر کر سکیں گے؟</h1>
+<div class="image media_attachment single">
+<img alt="Image" src="poll_data/niwizx7e4fsmnqsjzsly.jpg">
+</div>
+
+</div>
+<form action="#" class="os-poll-form">
+<fieldset>
+<div id="nav_row">
+<ul class="i18n-rtl nav_items">
+<li class="i18n-odir">
+<div class="dropdown i18n-rtl user-menu">
+<a href="" class="menu menu-with-gear">menu</a>
+<ul class="dropdown-menu">
+<li style="display: none;" class="logged_in">
+<a href="#" class="user_link" data-href="/profiles/*/opinions" data-max-length="25" data-title="*" rel="nofollow" target="_blank"></a>
+</li>
+<li style="display: none;" class="logged_in">
+<a href="http://www.opinionstage.com/logout_widget?id=2229111">تسجيل الخروج</a>
+</li>
+<li style="display: list-item;" class="logged_out">
+<a href="#" class="login_required login_menu">تسجيل الدخول</a>
+</li>
+<li>
+<a href="http://www.opinionstage.com/?o=pl35e8" target="_blank">Opinion Stage</a>
+</li>
+</ul>
+</div>
+
+</li>
+</ul>
+</div>
+
+<div class="os-poll-block side_votes">
+<div class="debate_stats flavor-list-radio-out" data-scaling-type="percentage" data-scaling-unit="" data-theme_id="697">
+<div class="os-row side" data-anonymous-side-share="" data-index="0" data-points="" data-side-full-text="ہاں  (17)" data-side-id="325673" data-side-label="ہاں " data-side-share="قمتُ بالتصويت #{side},">
+<div id="uniform-vote_side_325673" class="radio"><span><input class="i18n-dir" id="vote_side_325673" type="radio"></span></div>
+<label style="width: 206px;" class="os-row-holder" for="vote_side_325673"><div class="bar_border_color_0 os-poll-box">
+<span class="os-box pre_vote" style="width: 35%; display: inline;"></span>
+<span class="bar_fill_color_0 os-box post_vote" style="width: 35%; display: none;"></span>
+<div style="width: 186px;" class="os-poll-info" title="ہاں ">
+<div class="spinner_elem"></div>
+<span class="os-poll-label">ہاں </span>
+<span style="display: none;" class="os-poll-percentage post_vote">(25%)</span>
+<strong class="hover-text before_vote active">ہاں </strong>
+<strong class="hover-text after_vote">17 أصوات, 25%</strong>
+</div>
+</div>
+</label><div class="large_embed os-images-holder small_embed">
+<div class="images">
+<a href="http://www.facebook.com/profile.php?id=100001101604692" data-popup="true" rel="nofollow"><img alt="Ahad HusSayn" class="thumbnail first" src="poll_data/100001101604692.jpg" title="Ahad HusSayn" height="25" width="25"></a>
+<a href="http://www.facebook.com/profile.php?id=821575397" data-popup="true" rel="nofollow"><img style="display: none;" alt="Sajjad Anwar" class="thumbnail last" src="poll_data/821575397.jpg" title="Sajjad Anwar" height="25" width="25"></a>
+</div>
+<a style="display: inline;" class="os-view-all pre_vote view" href="#" title="عرض الكل"></a>
+<a style="display: none;" class="os-view-all post_vote view" href="#" title="&lt;span class=&quot;translation_missing&quot; title=&quot;translation missing: ar.general.vote_count&quot;&gt;Vote Count&lt;/span&gt;"></a>
+</div>
+</div>
+<div class="os-row side" data-anonymous-side-share="" data-index="1" data-points="" data-side-full-text="نہیں (48)" data-side-id="325674" data-side-label="نہیں" data-side-share="قمتُ بالتصويت #{side},">
+<div id="uniform-vote_side_325674" class="radio"><span><input class="i18n-dir" id="vote_side_325674" type="radio"></span></div>
+<label style="width: 206px;" class="os-row-holder" for="vote_side_325674"><div class="bar_border_color_1 os-poll-box">
+<span class="os-box pre_vote" style="width: 100%; display: inline;"></span>
+<span class="bar_fill_color_1 os-box post_vote" style="width: 100%; display: none;"></span>
+<div style="width: 186px;" class="os-poll-info" title="نہیں">
+<div class="spinner_elem"></div>
+<span class="os-poll-label">نہیں</span>
+<span style="display: none;" class="os-poll-percentage post_vote">(70%)</span>
+<strong class="hover-text before_vote active">نہیں</strong>
+<strong class="hover-text after_vote">48 أصوات, 70%</strong>
+</div>
+</div>
+</label><div class="large_embed os-images-holder small_embed">
+<div class="images">
+<a href="https://twitter.com/Truth5seeker" data-popup="true" rel="nofollow"><img alt="truth seeker " class="thumbnail first" src="poll_data/Truth5seeker_002.jpg" title="truth seeker " height="25" width="25"></a>
+<a href="http://www.facebook.com/profile.php?id=100000899409898" data-popup="true" rel="nofollow"><img style="display: none;" alt="Syed Aamir Raza" class="thumbnail last" src="poll_data/100000899409898_002.jpg" title="Syed Aamir Raza" height="25" width="25"></a>
+</div>
+<a style="display: inline;" class="os-view-all pre_vote view" href="#" title="عرض الكل"></a>
+<a style="display: none;" class="os-view-all post_vote view" href="#" title="&lt;span class=&quot;translation_missing&quot; title=&quot;translation missing: ar.general.vote_count&quot;&gt;Vote Count&lt;/span&gt;"></a>
+</div>
+</div>
+<div class="last os-row side" data-anonymous-side-share="" data-index="2" data-points="" data-side-full-text="پتہ نہیں (4)" data-side-id="325675" data-side-label="پتہ نہیں" data-side-share="قمتُ بالتصويت #{side},">
+<div id="uniform-vote_side_325675" class="radio"><span><input class="i18n-dir" id="vote_side_325675" type="radio"></span></div>
+<label style="width: 206px;" class="os-row-holder" for="vote_side_325675"><div class="bar_border_color_2 os-poll-box">
+<span class="os-box pre_vote" style="width: 8%; display: inline;"></span>
+<span class="bar_fill_color_2 os-box post_vote" style="width: 8%; display: none;"></span>
+<div style="width: 186px;" class="os-poll-info" title="پتہ نہیں">
+<div class="spinner_elem"></div>
+<span class="os-poll-label">پتہ نہیں</span>
+<span style="display: none;" class="os-poll-percentage post_vote">(6%)</span>
+<strong class="hover-text before_vote active">پتہ نہیں</strong>
+<strong class="hover-text after_vote">4 أصوات, 6%</strong>
+</div>
+</div>
+</label><div class="large_embed os-images-holder small_embed">
+<div class="images">
+<img alt="مجهول تصويت" class="thumbnail first" src="poll_data/anonymous_002.gif" title="مجهول تصويت" height="25" width="25">
+<img style="display: none;" alt="مجهول تصويت" class="thumbnail last" src="poll_data/anonymous_002.gif" title="مجهول تصويت" height="25" width="25">
+</div>
+<a style="display: inline;" class="os-view-all pre_vote view" href="#" title="عرض الكل"></a>
+<a style="display: none;" class="os-view-all post_vote view" href="#" title="&lt;span class=&quot;translation_missing&quot; title=&quot;translation missing: ar.general.vote_count&quot;&gt;Vote Count&lt;/span&gt;"></a>
+</div>
+</div>
+<div class="os-row os-row-vote">
+<div style="display: none;" class="anonymous-section i18n-dir logged_in">
+</div>
+<span class="total i18n-odir">الأصوات: 69</span>
+</div>
+</div>
+<script>
+  //<![CDATA[
+    adjustWidget();
+  //]]>
+</script>
+
+</div>
+</fieldset>
+</form>
+</div>
+<div style="height: 520px;" class="os-tab os-people-tab" data-tab="people">
+<div style="" class="os-tab-area">
+<div class="back-to-poll"><a href="" class="back-to-poll">العودة الى الاستطلاع »</a></div>
+<div action="#" class="os-who-block i18n-dir">
+<select class="i18n-dir" id="who-voted" name="who-voted"><option selected="selected" value="325673">ہاں </option>
+<option value="325674">نہیں</option>
+<option value="325675">پتہ نہیں</option></select>
+</div>
+</div>
+<ul style="height: 458px;" class="os-character-list">
+<div data-elem="side_page" data-side-id="325673">
+<li>
+<a href="http://www.facebook.com/profile.php?id=100001101604692" data-popup="true" rel="nofollow"><img alt="Ahad HusSayn" class="thumbnail " src="poll_data/100001101604692_002.jpg" title="Ahad HusSayn" height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="http://www.facebook.com/profile.php?id=100001101604692" target="_blank">Ahad HusSayn</a>
+</span>
+</div>
+</li>
+<li>
+<a href="http://www.facebook.com/profile.php?id=821575397" data-popup="true" rel="nofollow"><img alt="Sajjad Anwar" class="thumbnail " src="poll_data/821575397_002.jpg" title="Sajjad Anwar" height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="http://www.facebook.com/profile.php?id=821575397" target="_blank">Sajjad Anwar</a>
+</span>
+</div>
+</li>
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+<li class="more_placeholder">
+<a href="http://www.opinionstage.com/polls/%DA%A9%DB%8C%D8%A7-%D8%A8%D9%84%D8%A7%D9%88%D9%84-%D8%A8%DA%BE%D9%B9%D9%88-%D8%B2%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%85%DB%8C%DA%BA-%D8%A7%D9%BE%D9%86%DB%8C-%D9%88%D8%A7%D9%84%D8%AF%DB%81-%DA%A9%D8%A7-%D8%AE%D9%84%D8%A7-%D9%BE%D8%B1-%DA%A9%D8%B1-%D8%B3%DA%A9%DB%8C%DA%BA-%DA%AF%DB%92/more_side_votes?offset=5&amp;side_id=325673" class="view_more">View More »</a>
+</li>
+
+</div>
+<div data-elem="side_page" data-side-id="325674">
+<li>
+<a href="https://twitter.com/Truth5seeker" data-popup="true" rel="nofollow"><img alt="truth seeker " class="thumbnail " src="poll_data/Truth5seeker.jpg" title="truth seeker " height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="https://twitter.com/Truth5seeker" target="_blank">truth seeker </a>
+</span>
+</div>
+</li>
+<li>
+<a href="http://www.facebook.com/profile.php?id=100000899409898" data-popup="true" rel="nofollow"><img alt="Syed Aamir Raza" class="thumbnail " src="poll_data/100000899409898.jpg" title="Syed Aamir Raza" height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="http://www.facebook.com/profile.php?id=100000899409898" target="_blank">Syed Aamir Raza</a>
+</span>
+</div>
+</li>
+<li>
+<a href="http://www.facebook.com/profile.php?id=100001196678848" data-popup="true" rel="nofollow"><img alt="Nasar Ali" class="thumbnail " src="poll_data/100001196678848.jpg" title="Nasar Ali" height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="http://www.facebook.com/profile.php?id=100001196678848" target="_blank">Nasar Ali</a>
+</span>
+</div>
+</li>
+<li>
+<a href="https://twitter.com/hajimislamkhan" data-popup="true" rel="nofollow"><img alt="Haji Islam Khan" class="thumbnail " src="poll_data/hajimislamkhan.jpg" title="Haji Islam Khan" height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="https://twitter.com/hajimislamkhan" target="_blank">Haji Islam Khan</a>
+</span>
+</div>
+</li>
+<li>
+<a href="https://plus.google.com/109191167624605920894" data-popup="true" rel="nofollow"><img alt="Humaira Ashraf" class="thumbnail " crop="fill" gravity="north" src="poll_data/photo.jpg" title="Humaira Ashraf" height="33" width="33"></a>
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+<a href="https://plus.google.com/109191167624605920894" target="_blank">Humaira Ashraf</a>
+</span>
+</div>
+</li>
+<li class="more_placeholder">
+<a href="http://www.opinionstage.com/polls/%DA%A9%DB%8C%D8%A7-%D8%A8%D9%84%D8%A7%D9%88%D9%84-%D8%A8%DA%BE%D9%B9%D9%88-%D8%B2%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%85%DB%8C%DA%BA-%D8%A7%D9%BE%D9%86%DB%8C-%D9%88%D8%A7%D9%84%D8%AF%DB%81-%DA%A9%D8%A7-%D8%AE%D9%84%D8%A7-%D9%BE%D8%B1-%DA%A9%D8%B1-%D8%B3%DA%A9%DB%8C%DA%BA-%DA%AF%DB%92/more_side_votes?offset=5&amp;side_id=325674" class="view_more">View More »</a>
+</li>
+
+</div>
+<div data-elem="side_page" data-side-id="325675">
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+<li>
+<img alt="مجهول تصويت" class="thumbnail " src="poll_data/anonymous.gif" title="مجهول تصويت" height="33" width="33">
+<div class="os-character-holder user follow_unfollow">
+<span style="display: none;" class="character-title">
+مجهول تصويت
+</span>
+</div>
+</li>
+
+</div>
+
+</ul>
+</div>
+
+</div>
+</div>
+<div id="os-footer">
+<div class="os-power-by">
+<a href="http://www.opinionstage.com/?o=pl35e8" class="i18n-odir" target="_blank"><span>powered by</span>
+<em>Opinion Stage</em>
+</a></div>
+</div>
+</div>
+
+
+
+<script>
+  //<![CDATA[
+    load_twitter_scripts();
+  //]]>
+</script>
+<script>
+  //<![CDATA[
+    init_facebook("192204500821312", "email");
+    if (navigator.userAgent.indexOf("MSIE 10") > -1) {
+        document.body.classList.add("ie10");
+    }
+  //]]>
+</script>
+
+<div class=" fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe src="poll_data/7r8gQb8MIqE.html" style="border: medium none;" tabindex="-1" title="Facebook Cross Domain Communication Frame" aria-hidden="true" id="fb_xdm_frame_http" scrolling="no" allowtransparency="true" name="fb_xdm_frame_http" frameborder="0"></iframe><iframe src="poll_data/7r8gQb8MIqE_002.html" style="border: medium none;" tabindex="-1" title="Facebook Cross Domain Communication Frame" aria-hidden="true" id="fb_xdm_frame_https" scrolling="no" allowtransparency="true" name="fb_xdm_frame_https" frameborder="0"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe src="poll_data/ping.html" style="display: none;" scrolling="no" allowtransparency="true" name="f3ebdd6608d33c" frameborder="0"></iframe></div></div></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;  js.async = true;
+  js.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+  //<![CDATA[
+    set_logged_in_user_from_cookie();
+    set_csrf_tags_from_cookie();
+  //]]>
+</script>
+
+
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    var ga_options = {cookieDomain: '.opinionstage.com',
+        legacyCookieDomain: '.opinionstage.com'};
+        ga_options['sampleRate'] = 10;
+    ga('create', 'UA-36121049-1', ga_options);
+    ga('send', 'pageview');
+</script>
+</body></html>
