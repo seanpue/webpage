@@ -28,6 +28,10 @@ Mughanni -> Mughni
 
 Muġhannī -> Muġhnī
 
+**pg. 46**
+
+intihaʾī -> intihāʾī
+
 **pg. 142**
 
 chhūṛā -> chhoṛā
