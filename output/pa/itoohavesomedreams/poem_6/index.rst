@@ -1,6 +1,6 @@
-.. title: §6ـ ਮੁਕਾਪ਼ਾਤ
+.. title: §6ـ ਮੁਕਾਫ਼ਾਤ
 .. slug: itoohavesomedreams/poem_6
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Mukāfāt"
@@ -27,7 +27,7 @@
 | ਅਜ਼ੀਯਤੋਂ ਸੇ ਭਰੀ ਹੈ ਹਰ ਏਕ ਬੇਦਾਰੀ
 | ਮਹੀਬ‐ਓ‐ਰੂਹ-ਸਿਤਾਁ ਹੈ ਹਰ ਏਕ ਖ਼੍ਵਾਬ ਮਿਰਾ
 | ਉਲਝ ਰਹੀ ਹੈਂ ਨਵਾਏਁ ਮਿਰੇ ਸਰੋਦੋਂ ਕੀ
-| ਪ਼ਸ਼ਾਰ-ਏ ਜ਼ਬ੍ਤ ਸੇ ਬੇ-ਤਾਬ ਹੈ ਰੁਬਾਬ ਮਿਰਾ
+| ਫ਼ਸ਼ਾਰ-ਏ ਜ਼ਬ੍ਤ ਸੇ ਬੇ-ਤਾਬ ਹੈ ਰੁਬਾਬ ਮਿਰਾ
 | ਮਗਰ ਯੇ ਜ਼ਬ੍ਤ ਮਿਰੇ ਕ਼ਹਕ਼ਹੋਂ ਕਾ ਦੁਸ਼੍ਮਨ ਥਾ
 | ਪਯਾਮ-ਏ ਮਰ੍ਗ-ਏ ਜਵਾਨੀ ਥਾ ਇਜ੍ਤਿਨਾਬ ਮਿਰਾ
 | 
@@ -40,7 +40,7 @@
 | ਮਗਰ ਯੇ ਜਿਤਨੀ ਅਜ਼ੀਯਤ ਭੀ ਦੇਂ ਮੁਝੇ ਕਮ ਹੈ
 | ਕਿਯਾ ਹੈ ਰੂਹ ਕੋ ਅਪਨੀ ਬਹੁਤ ਜ਼ਬੂਁ ਮੈਂ ਨੇ
 | ਉਸੇ ਨ ਹੋਨੇ ਦਿਯਾ ਮੈਂ ਨੇ ਹਮ-ਨਵਾ-ਏ ਸ਼ਬਾਬ
-| ਨ ਉਸ ਪੇ ਚਲਨੇ ਦਿਯਾ ਸ਼ੌਕ਼ ਕਾ ਪ਼ੁਸੂਁ ਮੈਂ ਨੇ
+| ਨ ਉਸ ਪੇ ਚਲਨੇ ਦਿਯਾ ਸ਼ੌਕ਼ ਕਾ ਫ਼ੁਸੂਁ ਮੈਂ ਨੇ
 | ਐ ਕਾਸ਼ ਛੁਪ-ਕੇ ਕਹੀਂ ਇਕ ਗੁਨਾਹ ਕਰ ਲੇਤਾ
 | ਹਲਾਵਤੋਂ ਸੇ ਜਵਾਨੀ ਕੋ ਅਪਨੀ ਭਰ ਲੇਤਾ
 | ਗੁਨਾਹ ਏਕ ਭੀ ਅਬ ਤਕ ਕਿਯਾ ਨ ਕ੍ਯੋਂ ਮੈਂ ਨੇ?
@@ -54,7 +54,7 @@
 .. |left arrow link| replace:: :emoji:`arrow_left` §5. ਗੁਨਾਹ ਔਰ ਮੁਹਬ੍ਬਤ 
 .. _left arrow link: /hi/itoohavesomedreams/poem_5
 
-.. |right arrow link| replace::  §7. ਹੁਜ਼੍ਨ-ਏ ਇਂਸਾਨ (ਅਪ਼੍ਲਾਤੂਨੀ ਇਸ਼੍ਕ਼ ਪਰ ਏਕ ਤਂਜ਼) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §7. ਹੁਜ਼੍ਨ-ਏ ਇਂਸਾਨ (ਅਫ਼੍ਲਾਤੂਨੀ ਇਸ਼੍ਕ਼ ਪਰ ਏਕ ਤਂਜ਼) :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_7
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

@@ -1,6 +1,6 @@
 .. title: §10ـ ਇਂਤਿਕ਼ਾਮ
 .. slug: itoohavesomedreams/poem_10
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Intiqām"
@@ -11,15 +11,15 @@
 | ਉਸ ਕਾ ਚੇਹਰਾ, ਉਸ ਕੇ ਖ਼ਦ੍੍ਦ‐ਓ‐ਖ਼ਾਲ ਯਾਦ ਆਤੇ ਨਹੀਂ
 | ਇਕ ਸ਼ਬਿਸ੍ਤਾਁ ਯਾਦ ਹੈ
 | ਇਕ ਬਰਹਨਾ ਜਿਸ੍ਮ ਆਤਿਸ਼ਦਾਁ ਕੇ ਪਾਸ
-| ਪ਼ਰ੍ਸ਼ ਪਰ ਕ਼ਾਲੀਨ, ਕ਼ਾਲੀਨੋਂ ਪੇ ਸੇਜ
+| ਫ਼ਰ੍ਸ਼ ਪਰ ਕ਼ਾਲੀਨ, ਕ਼ਾਲੀਨੋਂ ਪੇ ਸੇਜ
 | ਧਾਤ ਔਰ ਪਤ੍ਥਰ ਕੇ ਬੁਤ
 | ਗੋਸ਼ਾ-ਏ ਦੀਵਾਰ ਮੇਂ ਹਂਸਤੇ ਹੁਏ!
 | ਔਰ ਆਤਿਸ਼ਦਾਁ ਮੇਂ ਅਂਗਾਰੋਂ ਕਾ ਸ਼ੋਰ
 | ਉਨ ਬੁਤੋਂ ਕੀ ਬੇ-ਹਿਸੀ ਪਰ ਖ਼ਸ਼੍ਮ੍ਗੀਂ
 | ਉਜ੍ਲੀ ਉਜ੍ਲੀ ਊਂਚੀ ਦੀਵਾਰੋਂ ਪੇ ਅਕ੍ਸ
-| ਉਨ ਪ਼ਰਂਗੀ ਹਾਕਿਮੋਂ ਕੀ ਯਾਦਗਾਰ
+| ਉਨ ਫ਼ਰਂਗੀ ਹਾਕਿਮੋਂ ਕੀ ਯਾਦਗਾਰ
 | ਜਿਨ ਕੀ ਤਲਵਾਰੋਂ ਨੇ ਰਕ੍ਖਾ ਥਾ ਯਹਾਁ
-| ਸਂਗ-ਏ ਬੁਂਯਾਦ-ਏ ਪ਼ਰਂਗ!
+| ਸਂਗ-ਏ ਬੁਂਯਾਦ-ਏ ਫ਼ਰਂਗ!
 | 
 | ਉਸ ਕਾ ਚੇਹਰਾ ਉਸ ਕੇ ਖ਼ਦ੍੍ਦ‐ਓ‐ਖ਼ਾਲ ਯਾਦ ਆਤੇ ਨਹੀਂ
 | ਇਕ ਬਰਹਨਾ ਜਿਸ੍ਮ ਅਬ ਤਕ ਯਾਦ ਹੈ
@@ -34,10 +34,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §9. ਸ਼ਾਇਰ-ਏ ਦਰ-ਮਾਂਦਾ 
+.. |left arrow link| replace:: :emoji:`arrow_left` §9. ਸ਼ਾਯਰ-ਏ ਦਰ-ਮਾਂਦਾ 
 .. _left arrow link: /hi/itoohavesomedreams/poem_9
 
-.. |right arrow link| replace::  §11. ਹਮਾ ਊਸ੍ਤ :emoji:`arrow_right` 
+.. |right arrow link| replace::  §11. ਹਮਹ ਊਸ੍ਤ :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_11
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

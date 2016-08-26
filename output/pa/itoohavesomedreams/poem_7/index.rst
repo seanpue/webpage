@@ -1,6 +1,6 @@
-.. title: §7ـ ਹੁਜ਼੍ਨ-ਏ ਇਂਸਾਨ (ਅਪ਼੍ਲਾਤੂਨੀ ਇਸ਼੍ਕ਼ ਪਰ ਏਕ ਤਂਜ਼)
+.. title: §7ـ ਹੁਜ਼੍ਨ-ਏ ਇਂਸਾਨ (ਅਫ਼੍ਲਾਤੂਨੀ ਇਸ਼੍ਕ਼ ਪਰ ਏਕ ਤਂਜ਼)
 .. slug: itoohavesomedreams/poem_7
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"
@@ -10,16 +10,16 @@
 
 | ਜਿਸ੍ਮ ਔਰ ਰੂਹ ਮੇਂ ਆਹਂਗ ਨਹੀਂ,
 | ਲਜ਼੍ਜ਼ਤ-ਅਂਦੋਜ਼-ਏ ਦਿਲ-ਆਵੇਜ਼ੀ-ਏ ਮੌਹੂਮ ਹੈ ਤੂ
-| ਖ਼ਸ੍ਤਾ-ਏ ਕਸ਼ਮਕਸ਼-ਏ ਪ਼ਿਕ੍ਰ‐ਓ‐ਅਮਲ!
+| ਖ਼ਸ੍ਤਾ-ਏ ਕਸ਼ਮਕਸ਼-ਏ ਫ਼ਿਕ੍ਰ‐ਓ‐ਅਮਲ!
 | ਤੁਝ ਕੋ ਹੈ ਹਸਰਤ-ਏ ਇਜ਼੍ਹਾਰ-ਏ ਸ਼ਬਾਬ
 | ਔਰ ਇਜ਼੍ਹਾਰ ਸੇ ਮਾਜ਼ੂਰ ਭੀ ਹੈ
-| ਜਿਸ੍ਮ ਨੇਕੀ ਕੇ ਖ਼ਯਾਲਾਤ ਸੇ ਮਪ਼ਰੂਰ ਭੀ ਹੈ
+| ਜਿਸ੍ਮ ਨੇਕੀ ਕੇ ਖ਼ਯਾਲਾਤ ਸੇ ਮਫ਼ਰੂਰ ਭੀ ਹੈ
 | ਇਸ ਕ਼ਦਰ ਸਾਦਾ‐ਓ‐ਮਾਸੂਮ ਹੈ ਤੂ
 | ਫਿਰ ਭੀ ਨੇਕੀ ਹੀ ਕਿਯੇ ਜਾਤੀ ਹੈ
 | ਕਿ ਦਿਲ‐ਓ‐ਜਿਸ੍ਮ ਕੇ ਆਹਂਗ ਸੇ ਮਹਰੂਮ ਹੈ ਤੂ
 | 
 | ਜਿਸ੍ਮ ਹੈ ਰੂਹ ਕੀ ਅਜ਼੍ਮਤ ਕੇ ਲਿਯੇ ਜ਼ੀਨਾ-ਏ ਨੂਰ
-| ਮਂਬਾ-ਏ ਕੈਪ਼‐ਓ‐ਸੁਰੂਰ!
+| ਮਂਬਾ-ਏ ਕੈਫ਼‐ਓ‐ਸੁਰੂਰ!
 | ਨਾ-ਰਸਾ ਆਜ ਭੀ ਹੈ ਸ਼ੌਕ਼-ਏ ਪਰਸ੍ਤਾਰ-ਏ ਜਮਾਲ
 | ਔਰ ਇਂਸਾਁ ਹੈ ਕਿ ਹੈ ਜਾਦਾ-ਕਸ਼-ਏ ਰਾਹ-ਏ ਤਵੀਲ
 | (ਰੂਹ-ਏ ਯੂਨਾਁ ਪੇ ਸਲਾਮ!)
@@ -44,10 +44,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §6. ਮੁਕਾਪ਼ਾਤ 
+.. |left arrow link| replace:: :emoji:`arrow_left` §6. ਮੁਕਾਫ਼ਾਤ 
 .. _left arrow link: /hi/itoohavesomedreams/poem_6
 
-.. |right arrow link| replace::  §8. ਇਤ੍ਤਿਪ਼ਾਕ਼ਾਤ :emoji:`arrow_right` 
+.. |right arrow link| replace::  §8. ਇਤ੍ਤਿਫ਼ਾਕ਼ਾਤ :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_8
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

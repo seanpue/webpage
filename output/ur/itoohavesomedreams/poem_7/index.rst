@@ -1,6 +1,6 @@
 .. title: §7ـ حزنِ انسان (افلاطونی عشق پر ایک طنز)
 .. slug: itoohavesomedreams/poem_7
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz)"

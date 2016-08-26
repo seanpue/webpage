@@ -1,6 +1,6 @@
-.. title: §6ـ मुकाप़ात
+.. title: §6ـ मुकाफ़ात
 .. slug: itoohavesomedreams/poem_6
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Mukāfāt"
@@ -27,7 +27,7 @@
 | अज़ीयतों से भरी है हर एक बेदारी
 | महीब‐ओ‐रूह-सिताँ है हर एक ख़्वाब मिरा
 | उलझ रही हैं नवाएँ मिरे सरोदों की
-| प़शार-ए ज़ब्त से बे-ताब है रुबाब मिरा
+| फ़शार-ए ज़ब्त से बे-ताब है रुबाब मिरा
 | मगर ये ज़ब्त मिरे क़हक़हों का दुश्मन था
 | पयाम-ए मर्ग-ए जवानी था इज्तिनाब मिरा
 | 
@@ -40,7 +40,7 @@
 | मगर ये जितनी अज़ीयत भी दें मुझे कम है
 | किया है रूह को अपनी बहुत ज़बूँ मैं ने
 | उसे न होने दिया मैं ने हम-नवा-ए शबाब
-| न उस पे चलने दिया शौक़ का प़ुसूँ मैं ने
+| न उस पे चलने दिया शौक़ का फ़ुसूँ मैं ने
 | ऐ काश छुप-के कहीं इक गुनाह कर लेता
 | हलावतों से जवानी को अपनी भर लेता
 | गुनाह एक भी अब तक किया न क्यों मैं ने?
@@ -54,7 +54,7 @@
 .. |left arrow link| replace:: :emoji:`arrow_left` §5. गुनाह और मुहब्बत 
 .. _left arrow link: /hi/itoohavesomedreams/poem_5
 
-.. |right arrow link| replace::  §7. हुज़्न-ए इंसान (अप़्लातूनी इश्क़ पर एक तंज़) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §7. हुज़्न-ए इंसान (अफ़्लातूनी इश्क़ पर एक तंज़) :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_7
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

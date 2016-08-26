@@ -1,6 +1,6 @@
 .. title: §1ـ बादल (सानेट)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Bādal (sāneṭ)"
@@ -8,7 +8,7 @@
 
 
 
-| छाए हुए हैं चार तरप़ पारा‐हा-ए- अब्र
+| छाए हुए हैं चार तरफ़ पारा‐हा-ए- अब्र
 | आग़ोश में लिए हुए दुनिया-ए आब‐ओ‐रंग
 | मेरे लिए है उन की गरज में सरोद-ए चंग
 | पैग़ाम-ए इंबिसात है मुझ को सदा-ए अब्र
@@ -28,7 +28,7 @@
 
 
 
-.. |right arrow link| replace::  §2. एक दिन—लारिंस बाग़ में (एक कैप़ियत) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §2. एक दिन—लारिंस बाग़ में (एक कैफ़ियत) :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_2
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

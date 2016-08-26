@@ -1,6 +1,6 @@
 .. title: §1ـ ਬਾਦਲ (ਸਾਨੇਟ)
 .. slug: itoohavesomedreams/poem_1
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Bādal (sāneṭ)"
@@ -8,7 +8,7 @@
 
 
 
-| ਛਾਏ ਹੁਏ ਹੈਂ ਚਾਰ ਤਰਪ਼ ਪਾਰਾ‐ਹਾ-ਏ- ਅਬ੍ਰ
+| ਛਾਏ ਹੁਏ ਹੈਂ ਚਾਰ ਤਰਫ਼ ਪਾਰਾ‐ਹਾ-ਏ- ਅਬ੍ਰ
 | ਆਗ਼ੋਸ਼ ਮੇਂ ਲਿਏ ਹੁਏ ਦੁਨਿਯਾ-ਏ ਆਬ‐ਓ‐ਰਂਗ
 | ਮੇਰੇ ਲਿਏ ਹੈ ਉਨ ਕੀ ਗਰਜ ਮੇਂ ਸਰੋਦ-ਏ ਚਂਗ
 | ਪੈਗ਼ਾਮ-ਏ ਇਂਬਿਸਾਤ ਹੈ ਮੁਝ ਕੋ ਸਦਾ-ਏ ਅਬ੍ਰ
@@ -28,7 +28,7 @@
 
 
 
-.. |right arrow link| replace::  §2. ਏਕ ਦਿਨ—ਲਾਰਿਂਸ ਬਾਗ਼ ਮੇਂ (ਏਕ ਕੈਪ਼ਿਯਤ) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §2. ਏਕ ਦਿਨ—ਲਾਰਿਂਸ ਬਾਗ਼ ਮੇਂ (ਏਕ ਕੈਫ਼ਿਯਤ) :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_2
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

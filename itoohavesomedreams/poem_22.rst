@@ -1,6 +1,6 @@
 .. title: §22. Afsānah-e shahr
 .. slug: itoohavesomedreams/poem_22
-.. date: 2016-02-04 20:26:03 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Afsānah-e shahr"

@@ -1,6 +1,6 @@
 .. title: §10ـ इंतिक़ाम
 .. slug: itoohavesomedreams/poem_10
-.. date: 2016-02-04 20:26:02 UTC
+.. date: 2016-03-02 15:55:17 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Devanagari version of "Intiqām"
@@ -11,15 +11,15 @@
 | उस का चेहरा, उस के ख़द््द‐ओ‐ख़ाल याद आते नहीं
 | इक शबिस्ताँ याद है
 | इक बरहना जिस्म आतिशदाँ के पास
-| प़र्श पर क़ालीन, क़ालीनों पे सेज
+| फ़र्श पर क़ालीन, क़ालीनों पे सेज
 | धात और पत्थर के बुत
 | गोशा-ए दीवार में हंसते हुए!
 | और आतिशदाँ में अंगारों का शोर
 | उन बुतों की बे-हिसी पर ख़श्म्गीं
 | उज्ली उज्ली ऊंची दीवारों पे अक्स
-| उन प़रंगी हाकिमों की यादगार
+| उन फ़रंगी हाकिमों की यादगार
 | जिन की तलवारों ने रक्खा था यहाँ
-| संग-ए बुंयाद-ए प़रंग!
+| संग-ए बुंयाद-ए फ़रंग!
 | 
 | उस का चेहरा उस के ख़द््द‐ओ‐ख़ाल याद आते नहीं
 | इक बरहना जिस्म अब तक याद है
@@ -34,10 +34,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §9. शाइर-ए दर-मांदा 
+.. |left arrow link| replace:: :emoji:`arrow_left` §9. शायर-ए दर-मांदा 
 .. _left arrow link: /hi/itoohavesomedreams/poem_9
 
-.. |right arrow link| replace::  §11. हमा ऊस्त :emoji:`arrow_right` 
+.. |right arrow link| replace::  §11. हमह ऊस्त :emoji:`arrow_right` 
 .. _right arrow link: /hi/itoohavesomedreams/poem_11
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
