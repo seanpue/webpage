@@ -42,13 +42,6 @@ Contact Information
 | **address:**
   B-360 Wells Hall, 619 Red Cedar Road, East Lansing, MI 48824 U.S.A.
 
----------------------------
-Administrative Appointments
----------------------------
-| **2015–**
-    Director of Digital Humanities, Michigan State University
-|   College of Arts and Letters
-
 ---------------------
 Academic Appointments
 ---------------------
@@ -58,6 +51,13 @@ Academic Appointments
 |   Core Faculty, Global Studies in Arts and Humanities
 | **2008–14**
     Assistant Professor, Michigan State University
+
+---------------------------
+Administrative Appointments
+---------------------------
+| **2015–6**
+    Director of Digital Humanities, Michigan State University
+|   College of Arts and Letters
 
 ---------------------
 Research Appointments
@@ -325,11 +325,28 @@ Siting South Asia: A Graduate Student Conference, Columbia University.
 “Alternative Geographies: Urdu Translations of Modern Persian Poetry.”
 American Comparative Literature Association Annual Meeting, Penn State University.
 
+.. Conference Participation Otherwise
+.. CIC Digital Humanities Summit 2.0, University of Nebraska-Lincoln
+.. April 11-12, 2016
+
 Invited Presentations
 =====================
 
 
 .. Exact dates follow in comments.
+
+
+**2016**
+
+“Textual Encoding of Hindi/Urdu Poetry for Data-Rich Literary Analysis.” Digital Textualities of South Asia Symposium, University of British Columbia.
+
+.. 4 March 2016
+
+**2016**
+
+“Textual Encoding for South Asian Language Pedagogy and Digital Humanities.” CeLTA Professional Development Workshop, Michigan State University.
+
+.. 3 March 2016
 
 **2015**
 “Topic Modeling Urdu Poetry.” Digital Arabic & Digital Persian: A Research Workshop, Universität Leipzig (presented online).
@@ -542,6 +559,9 @@ Center for Advanced Research in Language Acquisition Mini-Grant ($3000)
 Fellowships
 -----------
 
+**2016-**
+Mellon New Directions Fellowship
+
 **2011**
 American Institute of Pakistan Studies
 Short Term Research and Lecturing Fellowship
@@ -616,6 +636,8 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
+ASN 491: Literatures of South Asia: Language, Literature, and Belonging (Spring 2016)
+
 GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014)
 
 GSAH 220: Global Espionage: Identity, Intelligence, Power (Fall 2012)
@@ -654,14 +676,14 @@ National
 **2013–16**
 American Institute of Pakistan Studies, Executive Committee
 
-**2009-**
+**2009–**
 American Institute of Pakistan Studies, Board of Trustees
 
 Michigan State University
 =========================
 
 
-**2015–**
+**2015–16**
 Global Studies in Arts and Humanities Events Committee
 
 **2013–5**
@@ -716,4 +738,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 25 January 2016.
+   This C.V. was last updated on 26 August 2016.
