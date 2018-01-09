@@ -2,12 +2,12 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="pa">
 <head>
 <meta charset="utf-8">
-<base href="http://seanpue.com/pa/">
 <meta name="description" content="This is the blog of A. Sean Pue.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A. Sean Pue</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta content="#5670d4" name="theme-color">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (hi)" href="../hi/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (pa)" href="rss.xml">
@@ -25,7 +25,7 @@
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">ਨੈਵੀਗੇਸ਼ਨ ਬਦਲੋ </span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -79,10 +79,13 @@
             
 
     
+
+
+    
 <div class="postindex">
     <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/n-m-rashed-in-the-art-gallery/" class="u-url">N. M. Rashed in the Art Gallery</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/n-m-rashed-in-the-art-gallery/" rel="bookmark"><time class="published dt-published" datetime="2015-09-16T12:29:42-05:00" title="2015-09-16 12:29">2015-09-16 12:29</time></a></p>
@@ -153,7 +156,7 @@ Times)</a>.</p>
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/devanagari-added-to-i-too-have-some-dreams-poems/" class="u-url">Devanagari added to I Too Have Some Dreams poems</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/devanagari-added-to-i-too-have-some-dreams-poems/" rel="bookmark"><time class="published dt-published" datetime="2015-08-18T14:42:21-04:00" title="2015-08-18 14:42">2015-08-18 14:42</time></a></p>
@@ -175,7 +178,7 @@ pretty good!</p>
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/printing-right-to-left-pdf-books/" class="u-url">Printing Right-To-Left PDF Books</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/printing-right-to-left-pdf-books/" rel="bookmark"><time class="published dt-published" datetime="2015-03-09T14:43:50-04:00" title="2015-03-09 14:43">2015-03-09 14:43</time></a></p>
@@ -207,18 +210,18 @@ perhaps as part of the document preparation system <a href="posts/printing-right
 <p>There is a program in PDFjam called <code>pdfnup</code> which allows to "n-up the pages of pdf files."
 To <a href="http://en.wikipedia.org/wiki/N-up">n-up</a> apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called <code>pdfpun</code>—a right-to-left version and exactly what I needed!</p>
 <p>For all the other RTL PDF book printers out there, here is the command I used on the original file <code>dds-85303.pdf</code> to save it as <code>gulaab_ke_phuul.pdf</code>:</p>
-<pre class="code literal-block">pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
+<pre class="code literal-block"><span></span>pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
 </pre>
 
 
 <p>That was close. However, there was a problem in that the pages were two small. I tried messing around with the
 parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  <code>pdfpun</code> allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:</p>
-<pre class="code literal-block">pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
+<pre class="code literal-block"><span></span>pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
 </pre>
 
 
 <p>The pattern is here:</p>
-<pre class="code literal-block">pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
+<pre class="code literal-block"><span></span>pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
 </pre>
 
 
@@ -228,7 +231,7 @@ parameters. The CRL puts a cover page on its documents that is a different size 
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/good-times-in-pakistan/" class="u-url">Good Times in Pakistan</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/good-times-in-pakistan/" rel="bookmark"><time class="published dt-published" datetime="2015-03-07T12:29:42-05:00" title="2015-03-07 12:29">2015-03-07 12:29</time></a></p>
@@ -292,7 +295,7 @@ and had a very memorable time. I look forward to returning soon.</p>
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/first-urdu-review-of-my-book/" class="u-url">First Urdu Review of My Book</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/first-urdu-review-of-my-book/" rel="bookmark"><time class="published dt-published" datetime="2015-01-26T13:56:41-05:00" title="2015-01-26 13:56">2015-01-26 13:56</time></a></p>
@@ -314,7 +317,7 @@ was generous and, for the most part, positive. He calls attention to both the fo
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/certified-datasoftware-carpentry-trainer/" class="u-url">Now a Certified Data/Software Carpentry Trainer</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/certified-datasoftware-carpentry-trainer/" rel="bookmark"><time class="published dt-published" datetime="2015-01-25T23:59:26Z" title="2015-01-25 23:59">2015-01-25 23:59</time></a></p>
@@ -338,7 +341,7 @@ was generous and, for the most part, positive. He calls attention to both the fo
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/long-time-no-blog/" class="u-url">Long Time No Blog</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/long-time-no-blog/" rel="bookmark"><time class="published dt-published" datetime="2015-01-25T16:49:00Z" title="2015-01-25 16:49">2015-01-25 16:49</time></a></p>
@@ -357,7 +360,7 @@ was generous and, for the most part, positive. He calls attention to both the fo
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/added-poems-and-emoji/" class="u-url">Added Poems and Emoji</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/added-poems-and-emoji/" rel="bookmark"><time class="published dt-published" datetime="2014-09-14T18:51:19Z" title="2014-09-14 18:51">2014-09-14 18:51</time></a></p>
@@ -376,7 +379,7 @@ was generous and, for the most part, positive. He calls attention to both the fo
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/i-too-have-some-dreams-published/" class="u-url">I Too Have Some Dreams Published!</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/i-too-have-some-dreams-published/" rel="bookmark"><time class="published dt-published" datetime="2014-08-25T23:28:22-04:00" title="2014-08-25 23:28">2014-08-25 23:28</time></a></p>
@@ -391,7 +394,7 @@ was generous and, for the most part, positive. He calls attention to both the fo
     <div>
 <p>My book, <a class="reference external" href="http://www.ucpress.edu/book.php?isbn=9780520283107">I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry</a>, has just been published!</p>
 <p>I have created a resource page for it here, <a class="reference external" href="http://seanpue.com/itoohavesomedreams">http://seanpue.com/itoohavesomedreams</a>. On that page, I will make the thirty poems in the book’s appendix available in transliteration, Urdu script, and (eventually) devanagari for those of you want to read along.</p>
-<div class="admonition-book-description admonition">
+<div class="admonition admonition-book-description">
 <p class="first admonition-title">Book Description</p>
 <div class="link-figure">
 <div class="link-figure-media">
@@ -417,7 +420,7 @@ and to modern South Asian literary history.</p>
     </div>
     </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="posts/who-was-ghalib/" class="u-url">Who Was Ghalib?</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 A. Sean Pue
             </span></p>
             <p class="dateline"><a href="posts/who-was-ghalib/" rel="bookmark"><time class="published dt-published" datetime="2014-04-06T10:07:25-04:00" title="2014-04-06 10:07">2014-04-06 10:07</time></a></p>
@@ -477,7 +480,7 @@ to say about word clouds in Urdu and Hindi, but the poster will have to suffice 
         <!--End of body content-->
 
         <footer id="footer">
-            Contents © 2016         <a href="mailto:a@seanpue.com">A. Sean Pue</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br><div data-social-share-privacy="true"></div>
+            Contents © 2018         <a href="mailto:a@seanpue.com">A. Sean Pue</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br><div data-social-share-privacy="true"></div>
             
         </footer>
 </div>
@@ -485,7 +488,7 @@ to say about word clouds in Urdu and Hindi, but the poster will have to suffice 
 
 
             <script src="../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("pa-in");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script><script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script><script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script><script type="text/javascript">$('article').each(function(i,x){if ( $(x).find('a[hreflang|="en"]').length==0 ) {x.setAttribute('dir','ltr')}});</script>
 </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>A. Sean Pue</title><link>http://seanpue.com/</link><description>This is the blog of A. Sean Pue.</description><atom:link type="application/rss+xml" href="http://seanpue.com/pa/rss.xml" rel="self"></atom:link><language>pa</language><lastBuildDate>Wed, 02 Mar 2016 15:52:27 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>N. M. Rashed in the Art Gallery</title><link>http://seanpue.com/pa/posts/n-m-rashed-in-the-art-gallery/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;A few people contacted me recently to tell me about a gallery show of
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Sean Pue</title><link>http://seanpue.com/</link><description>This is the blog of A. Sean Pue.</description><atom:link rel="self" type="application/rss+xml" href="http://seanpue.com/pa/rss.xml"></atom:link><language>pa</language><lastBuildDate>Wed, 22 Nov 2017 10:42:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>N. M. Rashed in the Art Gallery</title><link>http://seanpue.com/pa/posts/n-m-rashed-in-the-art-gallery/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;A few people contacted me recently to tell me about a gallery show of
 &lt;a href="http://www.sabahhusain.com/"&gt;Sabah Husain&lt;/a&gt; at the &lt;a href="http://www.koel.com.pk/"&gt;Koel
 Gallery&lt;/a&gt; in Karachi. The show was titled
 &lt;a href="http://www.koelgallery.com/xhtml/exhibition/27_poetics_of_memory_by_sabah_husain/index.html"&gt;ʿPoetics of
@@ -75,18 +75,18 @@ perhaps as part of the document preparation system &lt;a href="http://seanpue.co
 &lt;p&gt;There is a program in PDFjam called &lt;code&gt;pdfnup&lt;/code&gt; which allows to "n-up the pages of pdf files."
 To &lt;a href="http://en.wikipedia.org/wiki/N-up"&gt;n-up&lt;/a&gt; apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called &lt;code&gt;pdfpun&lt;/code&gt;—a right-to-left version and exactly what I needed!&lt;/p&gt;
 &lt;p&gt;For all the other RTL PDF book printers out there, here is the command I used on the original file &lt;code&gt;dds-85303.pdf&lt;/code&gt; to save it as &lt;code&gt;gulaab_ke_phuul.pdf&lt;/code&gt;:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
 &lt;/pre&gt;
 
 
 &lt;p&gt;That was close. However, there was a problem in that the pages were two small. I tried messing around with the
 parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  &lt;code&gt;pdfpun&lt;/code&gt; allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
 &lt;/pre&gt;
 
 
 &lt;p&gt;The pattern is here:&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
 &lt;/pre&gt;
 
 
@@ -150,7 +150,7 @@ was generous and, for the most part, positive. He calls attention to both the fo
 &lt;p&gt;I should note, since I mentioned it in an earlier post, that I did get promoted with tenure. So I am now an associate professor. It's an interesting feeling. I want to write more about that in the near future and also think more about the whole university tenure process. All in good time, I suppose.&lt;/p&gt;&lt;/div&gt;</description><guid>http://seanpue.com/pa/posts/long-time-no-blog/</guid><pubDate>Sun, 25 Jan 2015 16:49:00 GMT</pubDate></item><item><title>Added Poems and Emoji</title><link>http://seanpue.com/pa/posts/added-poems-and-emoji/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I have added the transliteration and Urdu versions of the poems to the &lt;a class="reference external" href="http://seanpue.com/itoohavesomedreams/"&gt;I Too Have Some Dreams Resource Page&lt;/a&gt;. Comments are welcome. Devanagari will be added soon.&lt;/p&gt;
 &lt;p&gt;Importantly, I also added emoji. &lt;img alt="+1" class="emoji" src="http://www.tortue.me/emoji/+1.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>http://seanpue.com/pa/posts/added-poems-and-emoji/</guid><pubDate>Sun, 14 Sep 2014 18:51:19 GMT</pubDate></item><item><title>I Too Have Some Dreams Published!</title><link>http://seanpue.com/pa/posts/i-too-have-some-dreams-published/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;My book, &lt;a class="reference external" href="http://www.ucpress.edu/book.php?isbn=9780520283107"&gt;I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry&lt;/a&gt;, has just been published!&lt;/p&gt;
 &lt;p&gt;I have created a resource page for it here, &lt;a class="reference external" href="http://seanpue.com/itoohavesomedreams"&gt;http://seanpue.com/itoohavesomedreams&lt;/a&gt;. On that page, I will make the thirty poems in the book’s appendix available in transliteration, Urdu script, and (eventually) devanagari for those of you want to read along.&lt;/p&gt;
-&lt;div class="admonition-book-description admonition"&gt;
+&lt;div class="admonition admonition-book-description"&gt;
 &lt;p class="first admonition-title"&gt;Book Description&lt;/p&gt;
 &lt;div class="link-figure"&gt;
 &lt;div class="link-figure-media"&gt;

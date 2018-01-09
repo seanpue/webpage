@@ -2,11 +2,11 @@
 <html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="pa">
 <head>
 <meta charset="utf-8">
-<base href="http://seanpue.com/pa/posts/printing-right-to-left-pdf-books/">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Printing Right-To-Left PDF Books | A. Sean Pue</title>
 <link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta content="#5670d4" name="theme-color">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (hi)" href="../../../hi/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (pa)" href="../../rss.xml">
@@ -30,6 +30,8 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 <meta property="article:tag" content="pdfpun">
 <meta property="article:tag" content="rtl">
 <link rel="alternate" hreflang="en" href="../../../posts/printing-right-to-left-pdf-books/">
+<link rel="alternate" hreflang="hi" href="../../../hi/posts/printing-right-to-left-pdf-books/">
+<link rel="alternate" hreflang="ur" href="../../../ur/posts/printing-right-to-left-pdf-books/">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">ਮੁੱਖ ਸਮੱਗਰੀ ਵੱਲ ਜਾਓ</a>
@@ -40,7 +42,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">ਨੈਵੀਗੇਸ਼ਨ ਬਦਲੋ </span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -99,7 +101,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 <article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Printing Right-To-Left PDF Books</a></h1>
 
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                     A. Sean Pue
             </span></p>
             <p class="dateline"><a href="." rel="bookmark"><time class="published dt-published" datetime="2015-03-09T14:43:50-04:00" itemprop="datePublished" title="2015-03-09 14:43">2015-03-09 14:43</time></a></p>
@@ -110,7 +112,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 
             
         </p>
-<p class="sourceline"><a href="index.md" id="sourcelink">ਮੂਲ</a></p>
+<p class="sourceline"><a href="index.md" class="sourcelink">ਮੂਲ</a></p>
 
         </div>
         
@@ -136,18 +138,18 @@ perhaps as part of the document preparation system <a href="www.latex-project.or
 <p>There is a program in PDFjam called <code>pdfnup</code> which allows to "n-up the pages of pdf files."
 To <a href="http://en.wikipedia.org/wiki/N-up">n-up</a> apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called <code>pdfpun</code>—a right-to-left version and exactly what I needed!</p>
 <p>For all the other RTL PDF book printers out there, here is the command I used on the original file <code>dds-85303.pdf</code> to save it as <code>gulaab_ke_phuul.pdf</code>:</p>
-<pre class="code literal-block">pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
+<pre class="code literal-block"><span></span>pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
 </pre>
 
 
 <p>That was close. However, there was a problem in that the pages were two small. I tried messing around with the
 parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  <code>pdfpun</code> allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:</p>
-<pre class="code literal-block">pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
+<pre class="code literal-block"><span></span>pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
 </pre>
 
 
 <p>The pattern is here:</p>
-<pre class="code literal-block">pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
+<pre class="code literal-block"><span></span>pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
 </pre>
 
 
@@ -198,7 +200,7 @@ parameters. The CRL puts a cover page on its documents that is a different size 
         <!--End of body content-->
 
         <footer id="footer">
-            Contents © 2016         <a href="mailto:a@seanpue.com">A. Sean Pue</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br><div data-social-share-privacy="true"></div>
+            Contents © 2018         <a href="mailto:a@seanpue.com">A. Sean Pue</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br><div data-social-share-privacy="true"></div>
             
         </footer>
 </div>
@@ -206,7 +208,7 @@ parameters. The CRL puts a cover page on its documents that is a different size 
 
 
             <script src="../../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
-    moment.locale("");
+    moment.locale("pa-in");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script><script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script><script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script><script type="text/javascript">$('article').each(function(i,x){if ( $(x).find('a[hreflang|="en"]').length==0 ) {x.setAttribute('dir','ltr')}});</script>
 </body>
