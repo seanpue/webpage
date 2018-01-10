@@ -6,5 +6,6 @@ cache/*
 xmlrpcsettings.py
 util/from_rekhta/*
 ./.doit.db.db
+.doit.db.db
 .*.doit.db.db
 *-checkpoint.ipynb
