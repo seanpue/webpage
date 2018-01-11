@@ -138,7 +138,7 @@ tools and technologies to empower our analysis, criticism, and creativity.
 A hands-on class that mixes theory and practice, the course culminated  in a final
 project for the students and involved various faculty members from units throughout
 MSU.  I am developing a new course for
-Spring 2019 tentatively titled **Introduction to Digital Cultures**.
+Spring 2019 tentatively titled **Data and the Humanities**.
 
 .. _Digital Humanities: http://dh.cal.msu.edu/
 .. _Global Studies in Arts and Humanities: http://globalstudies.msu.edu/
@@ -255,4 +255,4 @@ My other mostly indoor hobbies include reading, music, and cooking.
 Outside, I enjoy traveling, hiking, biking, bird watching, skiing, being by or in water
 (both fresh and salt), and scuba diving.
 
-Last Updated 9 November 2018
+Last Updated 10 January 2018
