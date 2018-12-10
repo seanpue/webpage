@@ -1,6 +1,6 @@
 .. title: §17ـ زندگی سے ڈرتے ہو؟
 .. slug: itoohavesomedreams/poem_17
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Zindagī se ḍarte ho?"
@@ -55,11 +55,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §16. وہ حرفِ تنہا (جسے تمنّائے وصلِ معنا)  
-.. _right arrow link: /ur/itoohavesomedreams/poem_16
+.. |right arrow link| replace:: |arrow_right| §16. وہ حرفِ تنہا (جسے تمنّائے وصلِ معنا)  
+.. _right arrow link: /itoohavesomedreams/poem_16
 
-.. |left arrow link| replace::   §18. دل، مرے صحرا نوردِ پیر دل :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_18
+.. |left arrow link| replace::   §18. دل، مرے صحرا نوردِ پیر دل |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_18
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

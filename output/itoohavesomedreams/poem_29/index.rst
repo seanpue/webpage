@@ -1,6 +1,6 @@
 .. title: §29. Ḥasan kūzah-gar 4
 .. slug: itoohavesomedreams/poem_29
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥasan kūzah-gar 4"
@@ -110,10 +110,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §28. Ḥasan kūzah-gar 3 
+.. |left arrow link| replace:: |arrow_left| §28. Ḥasan kūzah-gar 3 
 .. _left arrow link: /itoohavesomedreams/poem_28
 
-.. |right arrow link| replace::  §30. Mere bhī haiñ kuchh ḳhvāb :emoji:`arrow_right` 
+.. |right arrow link| replace::  §30. Mere bhī haiñ kuchh ḳhvāb |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_30
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

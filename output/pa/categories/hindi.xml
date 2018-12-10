@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Sean Pue (hindi ਬਾਰੇ ਲਿਖਤਾਂ)</title><link>http://seanpue.com/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://seanpue.com/pa/categories/hindi.xml"></atom:link><language>pa</language><lastBuildDate>Wed, 22 Nov 2017 10:42:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Added Hindi and Urdu</title><link>http://seanpue.com/pa/posts/added-hindi-and-urdu/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I added the Urdu translation of the blog software, and I also translated the
+<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Webpage of A. Sean Pue (hindi ਬਾਰੇ ਲਿਖਤਾਂ)</title><link>https://seanpue.com/</link><description></description><atom:link href="https://seanpue.com/pa/categories/hindi.xml" rel="self" type="application/rss+xml"></atom:link><language>pa</language><copyright>Contents © 2018 &lt;a href="mailto:a@seanpue.com"&gt;A. Sean Pue&lt;/a&gt; 
+&lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+&lt;img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 13 Nov 2018 20:32:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Added Hindi and Urdu</title><link>https://seanpue.com/pa/posts/added-hindi-and-urdu/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I added the Urdu translation of the blog software, and I also translated the
 blog commands into Hindi. Should I care to, I can now compose Hindi and Urdu
 versions of my posts. The translations of the blog
 software are &lt;a class="reference external" href="https://www.transifex.com/projects/p/nikola/"&gt;crowdsourced&lt;/a&gt;.&lt;/p&gt;
@@ -12,11 +16,11 @@ wavering on was the word for archive. अभिलेखागार &lt;em&gt;a
 آرکائیو. So I went with अार्काइव. On the other hand, The Hindi word for
 “categories,” श्रेणियाँ &lt;em&gt;shreṇiyāñ&lt;/em&gt;, had 814,000 pages, whereas कैटेगरी &lt;em&gt;kaiṭegarī&lt;/em&gt; had
 129,000 and the plural form कैटेगरियां only 49,100.&lt;/p&gt;
-&lt;p&gt;I am trying to figure out now what the best current &lt;a class="reference external" href="http://seanpue.com/pa/posts/added-hindi-and-urdu/_http:/en.wikipedia.org/wiki/Cascading_Style_Sheets"&gt;CSS&lt;/a&gt; styling is for
+&lt;p&gt;I am trying to figure out now what the best current &lt;a class="reference external" href="https://seanpue.com/pa/posts/added-hindi-and-urdu/_http:/en.wikipedia.org/wiki/Cascading_Style_Sheets"&gt;CSS&lt;/a&gt; styling is for
 displaying Hindi and Urdu text on the Internet. Most browsers on recent
 computers can handle displaying the text to the extent that it is at least
 readable. Urdu in its preferred script, &lt;em&gt;nastaʿlīq&lt;/em&gt;, is rather difficult to
 render, so I would be curious to hear suggestions. There are ways of embedding
 fonts in webpages that might be a possibility. I have not been following those
 technologies very closely, and so it will be interesting to find out how
-standardized the techniques are at this point.&lt;/p&gt;&lt;/div&gt;</description><guid>http://seanpue.com/pa/posts/added-hindi-and-urdu/</guid><pubDate>Wed, 05 Feb 2014 01:30:41 GMT</pubDate></item></channel></rss>
+standardized the techniques are at this point.&lt;/p&gt;&lt;/div&gt;</description><guid>https://seanpue.com/pa/posts/added-hindi-and-urdu/</guid><pubDate>Wed, 05 Feb 2014 01:30:41 GMT</pubDate></item></channel></rss>

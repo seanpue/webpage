@@ -1,6 +1,6 @@
 .. title: §12. Tel ke saudāgar
 .. slug: itoohavesomedreams/poem_12
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Tel ke saudāgar"
@@ -76,10 +76,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §11. Hamah ūst 
+.. |left arrow link| replace:: |arrow_left| §11. Hamah ūst 
 .. _left arrow link: /itoohavesomedreams/poem_11
 
-.. |right arrow link| replace::  §13. Mann-o-salvâ :emoji:`arrow_right` 
+.. |right arrow link| replace::  §13. Mann-o-salvâ |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_13
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

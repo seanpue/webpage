@@ -1,6 +1,6 @@
 .. title: §30. Mere bhī haiñ kuchh ḳhvāb
 .. slug: itoohavesomedreams/poem_30
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Mere bhī haiñ kuchh ḳhvāb"
@@ -87,7 +87,7 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §29. Ḥasan kūzah-gar 4 
+.. |left arrow link| replace:: |arrow_left| §29. Ḥasan kūzah-gar 4 
 .. _left arrow link: /itoohavesomedreams/poem_29
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

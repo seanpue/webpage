@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Sean Pue (art کے بارے میں تحاریر)</title><link>http://seanpue.com/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://seanpue.com/ur/categories/art.xml"></atom:link><language>ur</language><lastBuildDate>Wed, 22 Nov 2017 10:42:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Book Cover</title><link>http://seanpue.com/ur/posts/book-cover/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;div class="link-figure"&gt;
+<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Sean Pue (art کے بارے میں تحاریر)</title><link>https://seanpue.com/</link><description></description><atom:link href="https://seanpue.com/ur/categories/art.xml" rel="self" type="application/rss+xml"></atom:link><language>ur</language><copyright>Contents © 2018 &lt;a href="mailto:a@seanpue.com"&gt;A. Sean Pue&lt;/a&gt; 
+&lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+&lt;img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Tue, 13 Nov 2018 20:44:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Book Cover</title><link>https://seanpue.com/ur/posts/book-cover/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;div class="link-figure"&gt;
 &lt;div class="link-figure-media"&gt;
 &lt;a class="link-figure-image" href="http://www.ucpress.edu/book.php?isbn=9780520283107" target="_blank"&gt;
-&lt;img src="http://seanpue.com/galleries/i2havesomedreams/i2havesomedreams-medium.jpg" alt="I Too Have Some Dreams"&gt;
+&lt;img src="https://seanpue.com/galleries/i2havesomedreams/i2havesomedreams-medium.jpg" alt="I Too Have Some Dreams"&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="link-figure-content"&gt;
@@ -19,4 +23,4 @@
 &lt;p&gt;We remember that tree from which we departed&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The book will be out in August with &lt;a class="reference external" href="http://www.ucpress.edu/book.php?isbn=9780520283107"&gt;University of California Press&lt;/a&gt;. That's the press of my undergraduate alma mater, so I am thrilled to be publishing with them, and they have been great to work with. The book is in the &lt;a class="reference external" href="http://www.saacrossdisciplines.org/%E2%80%8E"&gt;South Asia Across the Disciplines&lt;/a&gt; series.&lt;/p&gt;
-&lt;p&gt;I am traveling to the Association for Asian Studies conference this week in Philadelphia. I have heard from friends that traveling is a great time to write blog posts, so I hope to post more soon!&lt;/p&gt;&lt;/div&gt;</description><guid>http://seanpue.com/ur/posts/book-cover/</guid><pubDate>Thu, 27 Mar 2014 00:31:04 GMT</pubDate></item></channel></rss>
+&lt;p&gt;I am traveling to the Association for Asian Studies conference this week in Philadelphia. I have heard from friends that traveling is a great time to write blog posts, so I hope to post more soon!&lt;/p&gt;&lt;/div&gt;</description><guid>https://seanpue.com/ur/posts/book-cover/</guid><pubDate>Thu, 27 Mar 2014 00:31:04 GMT</pubDate></item></channel></rss>

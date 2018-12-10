@@ -1,6 +1,6 @@
 .. title: §9ـ شاعرِ در ماندہ
 .. slug: itoohavesomedreams/poem_9
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Shāʿir-e dar-māñdah"
@@ -13,7 +13,7 @@
 | عافیت کوشیِ آبا کے طفیل،
 | میں ہوں در ماندہ و بے چارہ ادیب
 | خستہِ فکرِ معاش!
-| پارہِ نانِ جویں کے لیے محتاج ہیں ہم
+| پارہِ نانِ جویں کے لیے م؛اوحتاج ہیں ہم
 | میں، مرے دوست، مرے سینکڑوں اربابِ وطن
 | یعنی افرنگ کے گلزاروں کے پھول!
 | تجھے اک شاعرِ در ماندہ کی امّید نہ تھی
@@ -44,11 +44,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §8. اتّفاقات  
-.. _right arrow link: /ur/itoohavesomedreams/poem_8
+.. |right arrow link| replace:: |arrow_right| §8. اتّفاقات  
+.. _right arrow link: /itoohavesomedreams/poem_8
 
-.. |left arrow link| replace::   §10. انتقام :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_10
+.. |left arrow link| replace::   §10. انتقام |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_10
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

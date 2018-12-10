@@ -1,6 +1,6 @@
 .. title: §9. Shāʿir-e dar-māñdah
 .. slug: itoohavesomedreams/poem_9
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Shāʿir-e dar-māñdah"
@@ -13,7 +13,7 @@
 | ʿāfiyat-koshī-e ābā ke t̤ufail,
 | maiñ hūñ dar-māñdah-o-be-chārah adīb
 | ḳhastah-e fikr-e maʿāsh!
-| pārah-e nān-e javīñ ke liye muḥtāj haiñ ham
+| pārah-e nān-e javīñ ke liye mǒḥtāj haiñ ham
 | maiñ, mire dost, mire saiñkṛoñ arbāb-e vat̤an
 | yaʿnī afrang ke gulzāroñ ke phūl!
 | tujhe ik shāʿir-e dar-māñdah kī ummīd nah thī
@@ -43,10 +43,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §8. Ittifāqāt 
+.. |left arrow link| replace:: |arrow_left| §8. Ittifāqāt 
 .. _left arrow link: /itoohavesomedreams/poem_8
 
-.. |right arrow link| replace::  §10. Intiqām :emoji:`arrow_right` 
+.. |right arrow link| replace::  §10. Intiqām |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_10
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

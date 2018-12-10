@@ -1,6 +1,6 @@
 .. title: §11. Hamah ūst
 .. slug: itoohavesomedreams/poem_11
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Hamah ūst"
@@ -115,10 +115,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §10. Intiqām 
+.. |left arrow link| replace:: |arrow_left| §10. Intiqām 
 .. _left arrow link: /itoohavesomedreams/poem_10
 
-.. |right arrow link| replace::  §12. Tel ke saudāgar :emoji:`arrow_right` 
+.. |right arrow link| replace::  §12. Tel ke saudāgar |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_12
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

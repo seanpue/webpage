@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " dir="rtl" lang="ur">
+<html dir="rtl" lang="ur">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,23 +7,21 @@
 <link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../../rss.xml">
-<link rel="alternate" type="application/rss+xml" title="RSS (hi)" href="../../hi/rss.xml">
-<link rel="alternate" type="application/rss+xml" title="RSS (pa)" href="../../pa/rss.xml">
-<link rel="alternate" type="application/rss+xml" title="RSS (ur)" href="../rss.xml">
-<link rel="canonical" href="http://seanpue.com/ur/galleries/">
+<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (hi)" hreflang="hi" href="../../hi/rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (ur)" hreflang="ur" href="../rss.xml">
+<link rel="canonical" href="https://seanpue.com/ur/galleries/">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 <style type="text/css">
+    #gallery_container {
+        position: relative;
+    }
     .image-block {
-        display: inline-block;
+        position: absolute;
     }
-    .flowr_row {
-        width: 100%;
-    }
-    </style>
-<link rel="alternate" hreflang="hi" href="../../hi/galleries/">
-<link rel="alternate" hreflang="pa" href="../../pa/galleries/">
+</style>
 <link rel="alternate" hreflang="en" href="../../galleries/">
+<link rel="alternate" hreflang="hi" href="../../hi/galleries/">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">مرکزی متن پر جائیں</a>
@@ -34,12 +32,12 @@
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">نیویگیشن ہٹائیں/دکھائیں</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://seanpue.com/ur/">
+            <a class="navbar-brand" href="https://seanpue.com/ur/">
 
                 <span id="blog-title">A. Sean Pue</span>
             </a>
@@ -48,19 +46,10 @@
         <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
-<a href="../about">میرے بارے میں</a>
-                </li>
-<li>
 <a href="../cv">سی وی</a>
                 </li>
 <li>
-<a href="../archive.html">آرکائیو</a>
-                </li>
-<li>
 <a href="../itoohavesomedreams">میرے بھی ہیں کچھ خواب</a>
-                </li>
-<li>
-<a href="../categories/index.html">ٹیگز</a>
 
                 
             </li>
@@ -68,9 +57,8 @@
 <ul class="nav navbar-nav navbar-right">
 <li>
             </li>
-<li><a href="http://seanpue.com/" rel="alternate" hreflang="en">English</a></li>
-            <li><a href="http://seanpue.com/hi/" rel="alternate" hreflang="hi">हिन्दी</a></li>
-            <li><a href="http://seanpue.com/pa/" rel="alternate" hreflang="pa">ਪੰਜਾਬੀ </a></li>
+<li><a href="https://seanpue.com/" rel="alternate" hreflang="en">English</a></li>
+            <li><a href="https://seanpue.com/hi/" rel="alternate" hreflang="hi">हिन्दी</a></li>
 
                 
                     
@@ -87,6 +75,7 @@
             
             
     
+
 <nav class="breadcrumbs"><ul class="breadcrumb">
 <li>galleries</li>
 </ul></nav><h1>galleries</h1>
@@ -107,46 +96,20 @@
 </div>
 
 
-            <script src="../../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+            <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
     moment.locale("ur");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../assets/js/flowr.plugin.js"></script><script>
-jsonContent = [];
-$("#gallery_container").flowr({
-        data : jsonContent,
-        height : 180*.6,
-        padding: 5,
-        rows: -1,
-        render : function(params) {
-            // Just return a div, string or a dom object, anything works fine
-            img = $("<img />").attr({
-                'src': params.itemData.url_thumb,
-                'width' : params.width,
-                'height' : params.height
-            }).css('max-width', '100%');
-            link = $( "<a></a>").attr({
-                'href': params.itemData.url,
-                'class': 'image-reference'
-            });
-            div = $("<div />").addClass('image-block').attr({
-                'title': params.itemData.title,
-                'data-toggle': "tooltip",
-            });
-            link.append(img);
-            div.append(link);
-            div.hover(div.tooltip());
-            return div;
-        },
-        itemWidth : function(data) { return data.size.w; },
-        itemHeight : function(data) { return data.size.h; },
-        complete : function(params) {
-            if( jsonContent.length > params.renderedItems ) {
-                nextRenderList = jsonContent.slice( params.renderedItems );
-            }
-        }
-    });
-$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
-$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
-</script><script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script><script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script><script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script><script type="text/javascript">$('article').each(function(i,x){if ( $(x).find('a[hreflang|="en"]').length==0 ) {x.setAttribute('dir','ltr')}});</script>
+    </script><!-- end fancy dates --><script src="../../assets/js/justified-layout.min.js"></script><script src="../../assets/js/gallery.min.js"></script><script>
+var jsonContent = [];
+var thumbnailSize = 180;
+renderGallery(jsonContent, thumbnailSize);
+window.addEventListener('resize', renderGallery);
+</script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script><script type="text/javascript" src="http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.cookies.js"></script><script type="application/x-social-share-privacy-settings">{"path_prefix":"http://panzi.github.io/SocialSharePrivacy/","layout":"line","services":{"buffer":{"status":false},"delicious":{"status":false},"facebook":{"status":false},"flattr":{"status":false},"hackernews":{"status":false},"linkedin":{"status":false},"pinterest":{"status":false},"reddit":{"status":false},"stumbleupon":{"status":false},"tumblr":{"status":false},"xing":{"status":false},"disqus":{"status":false}}}</script><script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://panzi.github.io/SocialSharePrivacy/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script><script type="text/javascript">$('article').each(function(i,x){if ( $(x).find('a[hreflang|="en"]').length==0 ) {x.setAttribute('dir','ltr')}});</script>
 </body>
 </html>

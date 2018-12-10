@@ -1,6 +1,6 @@
 .. title: §26. Ḥasan kūzah-gar
 .. slug: itoohavesomedreams/poem_26
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ḥasan kūzah-gar"
@@ -113,10 +113,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §25. Gumāñ kā mumkin—jo tū hai maiñ hūñ! 
+.. |left arrow link| replace:: |arrow_left| §25. Gumāñ kā mumkin—jo tū hai maiñ hūñ! 
 .. _left arrow link: /itoohavesomedreams/poem_25
 
-.. |right arrow link| replace::  §27. Ḥasan kūzah-gar 2 :emoji:`arrow_right` 
+.. |right arrow link| replace::  §27. Ḥasan kūzah-gar 2 |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_27
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

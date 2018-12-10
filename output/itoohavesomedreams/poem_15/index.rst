@@ -1,6 +1,6 @@
 .. title: §15. Namrūd kī ḳhudāʾī
 .. slug: itoohavesomedreams/poem_15
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Namrūd kī ḳhudāʾī"
@@ -60,10 +60,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §14. Tamāshāgah-e lālah-zār 
+.. |left arrow link| replace:: |arrow_left| §14. Tamāshāgah-e lālah-zār 
 .. _left arrow link: /itoohavesomedreams/poem_14
 
-.. |right arrow link| replace::  §16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā) |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_16
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

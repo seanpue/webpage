@@ -130,10 +130,9 @@ Conference Proceedings
 ======================
 
 **2018**
-
-A. Sean Pue and Scott Nelson. 
-“Marking Poetic Time: Building and Annotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.” 
-*Proceedings of the Second Workshop on Corpus-based Research in the Humanities (CRH-2)*, 171-180. 
+A. Sean Pue and Scott Nelson.
+“Marking Poetic Time: Building and Annotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.”
+*Proceedings of the Second Workshop on Corpus-based Research in the Humanities (CRH-2)*, 171-180.
 
 .. Edited by Andrew U. Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti, Caroline Sporleder.
 .. volume 1, series: Gerastree Proceedings
@@ -205,6 +204,11 @@ Conference Papers
 =================
 
 .. Exact dates follow in comments.
+
+**2018**
+“Miraji and the Politics of Sound in Modernist Urdu-Hindi Poetry.” Annual Conference on South Asia, University of Wisconsin, Madison.
+
+.. 11 October 2018
 
 **2018**
 “Acoustic Traces of Poetry in South Asia.” Questioning South Asia Conference, Habib University, Karachi.
@@ -371,6 +375,10 @@ Invited Presentations
 
 .. Exact dates follow in comments.
 
+**2018**
+“Acoustic Traces of Poetry in South Asia.” South Asia Colloquium, University of Pennsylvania.
+
+.. 12 September 2018
 
 **2017**
 “Digital Humanities and Urdu Poetry.” Center for Language Engineering, University of Engineering and Technology, Lahore.
@@ -713,6 +721,8 @@ GSAH 230: Encountering Difference: East-West, North South (Fall 2009, Fall 2010,
 
 GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
 
+GSAH 312: Global Digital Cultures (Fall 2018)
+
 GSAH 499: Senior Thesis in Global Studies in Arts and Humanities (Spring 2015)
 
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
@@ -724,6 +734,8 @@ LL152.2 Basic Hindi II (Spring 2009, Spring 2010, Spring 2013, Spring 2015)
 LL251.2: Intermediate Hindi I (Fall 2010, Fall 2011, Fall 2013)
 
 LL252.2: Intermediate Hindi II (Spring 2014)
+
+LL251.23: Basic Urdu I (Fall 2018)
 
 REL345: Religion in South Asia (Fall 2015)
 
@@ -743,7 +755,7 @@ National
 **2013–16**
 American Institute of Pakistan Studies, Executive Committee
 
-**2009–**
+**2009–17, 2018–**
 American Institute of Pakistan Studies, Board of Trustees
 
 **2016–**
@@ -809,4 +821,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 19 February 2018.
+   This C.V. was last updated on 3 December 2018.

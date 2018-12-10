@@ -1,4 +1,4 @@
-Sitemap: http://seanpue.com/sitemapindex.xml
+Sitemap: https://seanpue.com/sitemapindex.xml
 
 User-Agent: *
 Host: seanpue.com

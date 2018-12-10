@@ -1,6 +1,6 @@
 .. title: §30ـ میرے بھی ہیں کچھ خواب
 .. slug: itoohavesomedreams/poem_30
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Mere bhī haiñ kuchh ḳhvāb"
@@ -88,8 +88,8 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §29. حسن کوزہ گر ٤  
-.. _right arrow link: /ur/itoohavesomedreams/poem_29
+.. |right arrow link| replace:: |arrow_right| §29. حسن کوزہ گر ٤  
+.. _right arrow link: /itoohavesomedreams/poem_29
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

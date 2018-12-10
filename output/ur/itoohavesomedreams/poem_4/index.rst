@@ -1,6 +1,6 @@
 .. title: §4ـ وادیِ پنہاں
 .. slug: itoohavesomedreams/poem_4
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Vādī-e pinhāñ"
@@ -46,11 +46,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §3. ستارے (سانیٹ)  
-.. _right arrow link: /ur/itoohavesomedreams/poem_3
+.. |right arrow link| replace:: |arrow_right| §3. ستارے (سانیٹ)  
+.. _right arrow link: /itoohavesomedreams/poem_3
 
-.. |left arrow link| replace::   §5. گناہ اور محبّت :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_5
+.. |left arrow link| replace::   §5. گناہ اور محبّت |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_5
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

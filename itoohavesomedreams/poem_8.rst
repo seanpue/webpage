@@ -1,6 +1,6 @@
 .. title: §8. Ittifāqāt
 .. slug: itoohavesomedreams/poem_8
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ittifāqāt"
@@ -52,10 +52,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz) 
+.. |left arrow link| replace:: |arrow_left| §7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz) 
 .. _left arrow link: /itoohavesomedreams/poem_7
 
-.. |right arrow link| replace::  §9. Shāʿir-e dar-māñdah :emoji:`arrow_right` 
+.. |right arrow link| replace::  §9. Shāʿir-e dar-māñdah |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_9
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

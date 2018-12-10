@@ -1,6 +1,6 @@
 .. title: §3. Sitāre (sāneṭ)
 .. slug: itoohavesomedreams/poem_3
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Sitāre (sāneṭ)"
@@ -29,10 +29,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §2. Ek din—lārins bāġh meñ (ek kaifiyat) 
+.. |left arrow link| replace:: |arrow_left| §2. Ek din—lārins bāġh meñ (ek kaifiyat) 
 .. _left arrow link: /itoohavesomedreams/poem_2
 
-.. |right arrow link| replace::  §4. Vādī-e pinhāñ :emoji:`arrow_right` 
+.. |right arrow link| replace::  §4. Vādī-e pinhāñ |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_4
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

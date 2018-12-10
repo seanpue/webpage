@@ -1,6 +1,6 @@
 .. title: §24. T̤alab ke tale
 .. slug: itoohavesomedreams/poem_24
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "T̤alab ke tale"
@@ -48,10 +48,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §23. Yih ḳhalā pur nah huʾā 
+.. |left arrow link| replace:: |arrow_left| §23. Yih ḳhalā pur nah huʾā 
 .. _left arrow link: /itoohavesomedreams/poem_23
 
-.. |right arrow link| replace::  §25. Gumāñ kā mumkin—jo tū hai maiñ hūñ! :emoji:`arrow_right` 
+.. |right arrow link| replace::  §25. Gumāñ kā mumkin—jo tū hai maiñ hūñ! |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_25
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

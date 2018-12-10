@@ -1,6 +1,6 @@
 .. title: §19. Ek aur shahr
 .. slug: itoohavesomedreams/poem_19
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ek aur shahr"
@@ -34,10 +34,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §18. Dil, mire ṣaḥrā-navard-e pīr dil 
+.. |left arrow link| replace:: |arrow_left| §18. Dil, mire ṣaḥrā-navard-e pīr dil 
 .. _left arrow link: /itoohavesomedreams/poem_18
 
-.. |right arrow link| replace::  §20. Reg-e dīrūz :emoji:`arrow_right` 
+.. |right arrow link| replace::  §20. Reg-e dīrūz |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_20
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

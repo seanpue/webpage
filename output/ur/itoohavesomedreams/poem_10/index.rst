@@ -1,6 +1,6 @@
 .. title: §10ـ انتقام
 .. slug: itoohavesomedreams/poem_10
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Intiqām"
@@ -35,11 +35,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §9. شاعرِ در ماندہ  
-.. _right arrow link: /ur/itoohavesomedreams/poem_9
+.. |right arrow link| replace:: |arrow_right| §9. شاعرِ در ماندہ  
+.. _right arrow link: /itoohavesomedreams/poem_9
 
-.. |left arrow link| replace::   §11. ہمہ اوست :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_11
+.. |left arrow link| replace::   §11. ہمہ اوست |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_11
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

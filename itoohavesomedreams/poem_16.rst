@@ -1,6 +1,6 @@
 .. title: §16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)
 .. slug: itoohavesomedreams/poem_16
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)"
@@ -55,10 +55,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §15. Namrūd kī ḳhudāʾī 
+.. |left arrow link| replace:: |arrow_left| §15. Namrūd kī ḳhudāʾī 
 .. _left arrow link: /itoohavesomedreams/poem_15
 
-.. |right arrow link| replace::  §17. Zindagī se ḍarte ho? :emoji:`arrow_right` 
+.. |right arrow link| replace::  §17. Zindagī se ḍarte ho? |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_17
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

@@ -1,6 +1,6 @@
 .. title: §16ـ وہ حرفِ تنہا (جسے تمنّائے وصلِ معنا)
 .. slug: itoohavesomedreams/poem_16
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā)"
@@ -56,11 +56,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §15. نمرود کی خدائی  
-.. _right arrow link: /ur/itoohavesomedreams/poem_15
+.. |right arrow link| replace:: |arrow_right| §15. نمرود کی خدائی  
+.. _right arrow link: /itoohavesomedreams/poem_15
 
-.. |left arrow link| replace::   §17. زندگی سے ڈرتے ہو؟ :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_17
+.. |left arrow link| replace::   §17. زندگی سے ڈرتے ہو؟ |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_17
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

@@ -1,6 +1,6 @@
 .. title: §10. Intiqām
 .. slug: itoohavesomedreams/poem_10
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Intiqām"
@@ -34,10 +34,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §9. Shāʿir-e dar-māñdah 
+.. |left arrow link| replace:: |arrow_left| §9. Shāʿir-e dar-māñdah 
 .. _left arrow link: /itoohavesomedreams/poem_9
 
-.. |right arrow link| replace::  §11. Hamah ūst :emoji:`arrow_right` 
+.. |right arrow link| replace::  §11. Hamah ūst |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_11
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

@@ -1,6 +1,6 @@
 .. title: §6. Mukāfāt
 .. slug: itoohavesomedreams/poem_6
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Mukāfāt"
@@ -51,10 +51,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §5. Gunāh aur muḥabbat 
+.. |left arrow link| replace:: |arrow_left| §5. Gunāh aur muḥabbat 
 .. _left arrow link: /itoohavesomedreams/poem_5
 
-.. |right arrow link| replace::  §7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §7. Ḥuzn-e insān (aflāt̤ūnī ʿishq par ek t̤anz) |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_7
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

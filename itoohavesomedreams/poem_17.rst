@@ -1,6 +1,6 @@
 .. title: §17. Zindagī se ḍarte ho?
 .. slug: itoohavesomedreams/poem_17
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Zindagī se ḍarte ho?"
@@ -54,10 +54,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā) 
+.. |left arrow link| replace:: |arrow_left| §16. Vuh ḥarf-e tanhā (jise tamannā-e vaṣl-e maʿnā) 
 .. _left arrow link: /itoohavesomedreams/poem_16
 
-.. |right arrow link| replace::  §18. Dil, mire ṣaḥrā-navard-e pīr dil :emoji:`arrow_right` 
+.. |right arrow link| replace::  §18. Dil, mire ṣaḥrā-navard-e pīr dil |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_18
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

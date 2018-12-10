@@ -1,6 +1,6 @@
 .. title: §18. Dil, mire ṣaḥrā-navard-e pīr dil
 .. slug: itoohavesomedreams/poem_18
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Dil, mire ṣaḥrā-navard-e pīr dil"
@@ -199,10 +199,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §17. Zindagī se ḍarte ho? 
+.. |left arrow link| replace:: |arrow_left| §17. Zindagī se ḍarte ho? 
 .. _left arrow link: /itoohavesomedreams/poem_17
 
-.. |right arrow link| replace::  §19. Ek aur shahr :emoji:`arrow_right` 
+.. |right arrow link| replace::  §19. Ek aur shahr |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_19
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

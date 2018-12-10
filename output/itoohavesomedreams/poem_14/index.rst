@@ -1,6 +1,6 @@
 .. title: §14. Tamāshāgah-e lālah-zār
 .. slug: itoohavesomedreams/poem_14
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Tamāshāgah-e lālah-zār"
@@ -59,10 +59,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §13. Mann-o-salvâ 
+.. |left arrow link| replace:: |arrow_left| §13. Mann-o-salvâ 
 .. _left arrow link: /itoohavesomedreams/poem_13
 
-.. |right arrow link| replace::  §15. Namrūd kī ḳhudāʾī :emoji:`arrow_right` 
+.. |right arrow link| replace::  §15. Namrūd kī ḳhudāʾī |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_15
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

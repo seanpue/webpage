@@ -1,6 +1,6 @@
 .. title: §26ـ حسن کوزہ گر
 .. slug: itoohavesomedreams/poem_26
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Ḥasan kūzah-gar"
@@ -114,11 +114,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §25. گماں کا ممکن۔جو تو ہے میں ہوں!  
-.. _right arrow link: /ur/itoohavesomedreams/poem_25
+.. |right arrow link| replace:: |arrow_right| §25. گماں کا ممکن۔جو تو ہے میں ہوں!  
+.. _right arrow link: /itoohavesomedreams/poem_25
 
-.. |left arrow link| replace::   §27. حسن کوزہ گر ٢ :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_27
+.. |left arrow link| replace::   §27. حسن کوزہ گر ٢ |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_27
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

@@ -1,6 +1,6 @@
 .. title: §2. Ek din—lārins bāġh meñ (ek kaifiyat)
 .. slug: itoohavesomedreams/poem_2
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Ek din—lārins bāġh meñ (ek kaifiyat)"
@@ -40,10 +40,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §1. Bādal (sāneṭ) 
+.. |left arrow link| replace:: |arrow_left| §1. Bādal (sāneṭ) 
 .. _left arrow link: /itoohavesomedreams/poem_1
 
-.. |right arrow link| replace::  §3. Sitāre (sāneṭ) :emoji:`arrow_right` 
+.. |right arrow link| replace::  §3. Sitāre (sāneṭ) |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_3
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

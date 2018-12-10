@@ -1,6 +1,6 @@
 .. title: §23. Yih ḳhalā pur nah huʾā
 .. slug: itoohavesomedreams/poem_23
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Yih ḳhalā pur nah huʾā"
@@ -43,10 +43,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §22. Afsānah-e shahr 
+.. |left arrow link| replace:: |arrow_left| §22. Afsānah-e shahr 
 .. _left arrow link: /itoohavesomedreams/poem_22
 
-.. |right arrow link| replace::  §24. T̤alab ke tale :emoji:`arrow_right` 
+.. |right arrow link| replace::  §24. T̤alab ke tale |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_24
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

@@ -1,6 +1,6 @@
 .. title: §21ـ زمانہ خدا ہے
 .. slug: itoohavesomedreams/poem_21
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Zamānah ḳhudā hai"
@@ -45,11 +45,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §20. ریگِ دیروز  
-.. _right arrow link: /ur/itoohavesomedreams/poem_20
+.. |right arrow link| replace:: |arrow_right| §20. ریگِ دیروز  
+.. _right arrow link: /itoohavesomedreams/poem_20
 
-.. |left arrow link| replace::   §22. افسانہِ شہر :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_22
+.. |left arrow link| replace::   §22. افسانہِ شہر |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_22
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

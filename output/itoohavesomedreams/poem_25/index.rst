@@ -1,6 +1,6 @@
 .. title: §25. Gumāñ kā mumkin—jo tū hai maiñ hūñ!
 .. slug: itoohavesomedreams/poem_25
-.. date: 2016-03-02 15:55:18 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Gumāñ kā mumkin—jo tū hai maiñ hūñ!"
@@ -152,10 +152,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §24. T̤alab ke tale 
+.. |left arrow link| replace:: |arrow_left| §24. T̤alab ke tale 
 .. _left arrow link: /itoohavesomedreams/poem_24
 
-.. |right arrow link| replace::  §26. Ḥasan kūzah-gar :emoji:`arrow_right` 
+.. |right arrow link| replace::  §26. Ḥasan kūzah-gar |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_26
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry

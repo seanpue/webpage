@@ -1,6 +1,6 @@
 .. title: §18ـ دل، مرے صحرا نوردِ پیر دل
 .. slug: itoohavesomedreams/poem_18
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: Urdu version of "Dil, mire ṣaḥrā-navard-e pīr dil"
@@ -200,11 +200,11 @@
 
 
 
-.. |right arrow link| replace:: :emoji:`arrow_right` §17. زندگی سے ڈرتے ہو؟  
-.. _right arrow link: /ur/itoohavesomedreams/poem_17
+.. |right arrow link| replace:: |arrow_right| §17. زندگی سے ڈرتے ہو؟  
+.. _right arrow link: /itoohavesomedreams/poem_17
 
-.. |left arrow link| replace::   §19. ایک اور شہر :emoji:`arrow_left` 
-.. _left arrow link: /ur/itoohavesomedreams/poem_19
+.. |left arrow link| replace::   §19. ایک اور شہر |arrow_left| 
+.. _left arrow link: /itoohavesomedreams/poem_19
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
 

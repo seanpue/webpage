@@ -1,6 +1,6 @@
 .. title: §22. Afsānah-e shahr
 .. slug: itoohavesomedreams/poem_22
-.. date: 2016-03-02 15:55:17 UTC
+.. date: 2018-11-12 21:20:49 UTC
 .. tags: poem itoohavesomedreams rashid
 .. link: 
 .. description: transliterated version of "Afsānah-e shahr"
@@ -36,10 +36,10 @@
 
 
 
-.. |left arrow link| replace:: :emoji:`arrow_left` §21. Zamānah ḳhudā hai 
+.. |left arrow link| replace:: |arrow_left| §21. Zamānah ḳhudā hai 
 .. _left arrow link: /itoohavesomedreams/poem_21
 
-.. |right arrow link| replace::  §23. Yih ḳhalā pur nah huʾā :emoji:`arrow_right` 
+.. |right arrow link| replace::  §23. Yih ḳhalā pur nah huʾā |arrow_right| 
 .. _right arrow link: /itoohavesomedreams/poem_23
 
 .. admonition:: I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry
