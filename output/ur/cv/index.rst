@@ -793,6 +793,17 @@ South Asian Muslim Studies Association, Board of Trustees
 Michigan State University
 =========================
 
+**2018–**
+Global Studies in Arts and Humanities Advisory Committee
+
+**2018–**
+Asian Studies Center Advisory Board
+
+**2018–**
+Muslim Studies Currriculum Committee
+
+**2018–**
+University Committee on the Libraries
 
 **2015–16**
 Global Studies in Arts and Humanities Events Committee
