@@ -205,6 +205,12 @@ Conference Papers
 
 .. Exact dates follow in comments.
 
+
+**2018**
+“Building an Urdu-Hindi Poetic Corpus for Computational Humanities Research.” International Conference on Whither Islamicate Digital Humanities? Analytics, Tools, Corpora. Royal Netherlands Academy of Arts and Sciences, Amsterdam.
+
+.. 14 December 2018
+
 **2018**
 “Miraji and the Politics of Sound in Modernist Urdu-Hindi Poetry.” Annual Conference on South Asia, University of Wisconsin, Madison.
 
@@ -214,6 +220,11 @@ Conference Papers
 “Acoustic Traces of Poetry in South Asia.” Questioning South Asia Conference, Habib University, Karachi.
 
 .. 2 February 2018 (Presented Online; https://habib.edu.pk/questioningsouthasia/)
+
+**2018**
+“The Politics of Sound in Modern Hindi/Urdu Poetry.” Digital Humanities Asia, Stanford University.
+
+.. 28 April 2018
 
 **2018**
 A. Sean Pue and Scott Nelson. “Marking Poetic Time: Building and Annnotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.”
@@ -379,6 +390,16 @@ Invited Presentations
 “Acoustic Traces of Poetry in South Asia.” South Asia Colloquium, University of Pennsylvania.
 
 .. 12 September 2018
+
+**2018**
+“Digital Humanities and Acoustic Traces of Hindi-Urdu Poetry in South Asia.” Institute of Asian and Oriental Studies, University of Tubbingen.
+
+.. 08 May 2018
+
+
+“Acoustic Traces of Hindi-Urdu Poetry.” South Asia Institute, University of Heidelberg.
+
+.. 04 May 2018
 
 **2017**
 “Digital Humanities and Urdu Poetry.” Center for Language Engineering, University of Engineering and Technology, Lahore.
@@ -819,6 +840,6 @@ Languages
 
 **programming:** C/C++, Java, Javascript, Matlab, Perl, PHP, Python, R, XSLT
 
-.. admonition:: The current PDF version of this C.V. is available at http://seanpue.com/cv.pdf
+.. admonition:: The current PDF version of this C.V. is available at https://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 3 December 2018.
+   This C.V. was last updated on 31 January 2019.
