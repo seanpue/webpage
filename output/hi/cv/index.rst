@@ -27,7 +27,7 @@
         p { padding-left: 1.5em;
             text-indent: -1.5em;
           }
-        p.admonition-title, p.last {
+        .admonition p {
             text-indent: 0em;
         }
    </style>
@@ -735,7 +735,11 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
+ASN 291: Introduction to History and Culture of India and South Asia (Spring 2019)
+
 ASN 491: Literatures of South Asia: Language, Literature, and Belonging (Spring 2016)
+
+DH 491.1: Data and the Humanities (Spring 2019)
 
 GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014)
 
