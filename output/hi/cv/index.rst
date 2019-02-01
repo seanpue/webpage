@@ -27,6 +27,9 @@
         p { padding-left: 1.5em;
             text-indent: -1.5em;
           }
+        p.admonition-title, p.last {
+            text-indent: 0em;
+        }
    </style>
 
 
