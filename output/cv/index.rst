@@ -101,6 +101,10 @@ Berkeley, CA: University of California Press, 2014.
 
 Articles
 ========
+**2019**
+“Acoustic Traces of Poetry in South Asia.” *South Asia Review* 40.3 (2019), 221–236,
+`DOI: 10.1080/02759527.2019.1599561 <https://doi.org/10.1080/02759527.2019.1599561>`_.
+
 **2013**
 “Rethinking Modernism and Progressivism in Urdu Poetry.”
 *Pakistaniaat* 5.1 (2013): 1-15.
@@ -203,11 +207,20 @@ Translations
 Presentations
 -------------
 
-Conference Papers
-=================
+Conference Papers and Posters
+=============================
 
 .. Exact dates follow in comments.
 
+**2019**
+“Urdu Poetry on the Internet.” Electronic Literature Organization, University College Cork, Ireland.
+
+.. 16 July 2019
+
+**2019**
+With Ahmed Atta and Rajiv Ranjan. "Visualizing Poetic Meter in South Asian Languages" (poster). Digital Humanities 2019, Utrecht, Netherlands.
+
+.. 11 July 2019
 
 **2018**
 “Building an Urdu-Hindi Poetic Corpus for Computational Humanities Research.” International Conference on Whither Islamicate Digital Humanities? Analytics, Tools, Corpora. Royal Netherlands Academy of Arts and Sciences, Amsterdam.
@@ -860,4 +873,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at https://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 31 January 2019.
+   This C.V. was last updated on 28 July 2019.
