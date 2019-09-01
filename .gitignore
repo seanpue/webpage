@@ -10,3 +10,4 @@ util/from_rekhta/*
 .doit.db.db
 .*.doit.db.db
 *-checkpoint.ipynb
+util/*
