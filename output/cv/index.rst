@@ -412,7 +412,7 @@ Invited Presentations
 
 .. 08 May 2018
 
-
+**2018**
 “Acoustic Traces of Hindi-Urdu Poetry.” South Asia Institute, University of Heidelberg.
 
 .. 04 May 2018
@@ -748,7 +748,7 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
-ASN 291: Introduction to History and Culture of India and South Asia (Spring 2019)
+ASN 291: Introduction to History and Culture of India and South Asia (Spring 2019,Fall 2019)
 
 ASN 491: Literatures of South Asia: Language, Literature, and Belonging (Spring 2016)
 
@@ -765,6 +765,8 @@ GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
 GSAH 312: Global Digital Cultures (Fall 2018)
 
 GSAH 499: Senior Thesis in Global Studies in Arts and Humanities (Spring 2015)
+
+IAH 211B: Bollywood: Film, Visual Culture, and Society in India (Fall 2019)
 
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
 
@@ -873,4 +875,4 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at https://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 28 July 2019.
+   This C.V. was last updated on 31 August 2019.
