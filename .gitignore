@@ -1,3 +1,4 @@
+.gitignore
 .doit.db.db
 *.pyc
 cache/*
