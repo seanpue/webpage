@@ -671,6 +671,7 @@ REDIRECTIONS = []
 # }
 DEPLOY_COMMANDS = [
  #'rst2pdf pages/cv.rst --strip-elements-with-class=contents,admonition output/cv.pdf -s output/assets/pdfstyles/cv_styles.txt',
+ 'cp cv/cv.rst pages/cv.rst',
  'cp cv/cv.pdf output/cv.pdf',
  'cp cv/cv-2page.pdf output/cv-2page.pdf',
  'git push origin master',

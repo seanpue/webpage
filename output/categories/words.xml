@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Sean Pue (Posts about words)</title><link>https://seanpue.com/</link><description></description><atom:link href="https://seanpue.com/categories/words.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:a@seanpue.com"&gt;A. Sean Pue&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Sean Pue (Posts about words)</title><link>https://seanpue.com/</link><description></description><atom:link href="https://seanpue.com/categories/words.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:a@seanpue.com"&gt;A. Sean Pue&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 28 Jul 2019 19:19:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Who Was Ghalib?</title><link>https://seanpue.com/posts/who-was-ghalib/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;object type="image/svg+xml" id="whowasghalibobj" data="https://seanpue.com/files/whowasghalib.svg"&gt;Your browser does not support SVG&lt;/object&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 07 Sep 2023 16:42:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Who Was Ghalib?</title><link>https://seanpue.com/posts/who-was-ghalib/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;object type="image/svg+xml" id="whowasghalibobj" data="https://seanpue.com/files/whowasghalib.svg"&gt;Your browser does not support SVG&lt;/object&gt;
 
 &lt;script type="text/javascript"&gt;
 
@@ -35,18 +35,18 @@ at Columbia University. It is also a retirement party for Frances Pritchett,
 so I have designed the poster above. It contains the 150 most common words in Ghalib’s poetry displayed
 using Columbia’s palette. I have more
 to say about word clouds in Urdu and Hindi, but the poster will have to suffice for now.&lt;/p&gt;
-&lt;p&gt;You can download it here: &lt;a class="reference external" href="https://seanpue.com/files/whowasghalib.pdf"&gt;PDF&lt;/a&gt; &lt;a class="reference external" href="https://seanpue.com/files/whowasghalib.png"&gt;PNG&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>fp7</category><category>ghalib</category><category>word clouds</category><category>words</category><guid>https://seanpue.com/posts/who-was-ghalib/</guid><pubDate>Sun, 06 Apr 2014 14:07:25 GMT</pubDate></item><item><title>Miraji’s Favorite Words</title><link>https://seanpue.com/posts/mirajis-favorite-words/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;div&gt;&lt;p&gt;I am working on a paper on the first volumes of free verse, or &lt;em&gt;āzad naz̤m&lt;/em&gt;, in Urdu to be submitted to a festschrift for Shamsur Rahman Faruqi, the famous Urdu critic and writer who has been my own advisor Frances Pritchett's teacher and collaborator. As part of that work, I have had the Urdu poet Mīrājī’s volume &lt;em&gt;Mīrājī kī naz̤meñ&lt;/em&gt; transcribed, and I am working on a computational analysis of his use of meter as well as sound. I will be comparing Mīrājī’s volume to N. M. Rāshid’s &lt;em&gt;Māvarā&lt;/em&gt; and to Taṣadduq Ḥusain Ḳhālid’s first volume. It’s a very preliminary study, but I am very happy to be spending time with Mīrājī’s poetry.&lt;/p&gt;
+&lt;p&gt;You can download it here: &lt;a class="reference external" href="https://seanpue.com/files/whowasghalib.pdf"&gt;PDF&lt;/a&gt; &lt;a class="reference external" href="https://seanpue.com/files/whowasghalib.png"&gt;PNG&lt;/a&gt;.&lt;/p&gt;</description><category>fp7</category><category>ghalib</category><category>word clouds</category><category>words</category><guid>https://seanpue.com/posts/who-was-ghalib/</guid><pubDate>Sun, 06 Apr 2014 14:07:25 GMT</pubDate></item><item><title>Miraji’s Favorite Words</title><link>https://seanpue.com/posts/mirajis-favorite-words/</link><dc:creator>A. Sean Pue</dc:creator><description>&lt;p&gt;I am working on a paper on the first volumes of free verse, or &lt;em&gt;āzad naz̤m&lt;/em&gt;, in Urdu to be submitted to a festschrift for Shamsur Rahman Faruqi, the famous Urdu critic and writer who has been my own advisor Frances Pritchett's teacher and collaborator. As part of that work, I have had the Urdu poet Mīrājī’s volume &lt;em&gt;Mīrājī kī naz̤meñ&lt;/em&gt; transcribed, and I am working on a computational analysis of his use of meter as well as sound. I will be comparing Mīrājī’s volume to N. M. Rāshid’s &lt;em&gt;Māvarā&lt;/em&gt; and to Taṣadduq Ḥusain Ḳhālid’s first volume. It’s a very preliminary study, but I am very happy to be spending time with Mīrājī’s poetry.&lt;/p&gt;
 &lt;p&gt;To my mind, a lovely product of that work is a list of Mīrājī’s most common words. For those readers familiar with his oeuvre, these will come as no surprise. Removing the "stop words," or common words that do not reveal much on their own, Mīrājī’s ten most frequent words in that volume are:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;em&gt;dil&lt;/em&gt; (heart)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;rāt&lt;/em&gt; (night)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;bāt&lt;/em&gt; (words, matter)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;naz̤ar&lt;/em&gt; (look, glance, sight)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;āñkh&lt;/em&gt; (eye)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;sāyah&lt;/em&gt; (shadow)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;rañg&lt;/em&gt; (color)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;pal&lt;/em&gt; (moment)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;man&lt;/em&gt; (mind)&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;chāñd&lt;/em&gt; (moon)&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;dil&lt;/em&gt; (heart)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;rāt&lt;/em&gt; (night)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;bāt&lt;/em&gt; (words, matter)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;naz̤ar&lt;/em&gt; (look, glance, sight)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;āñkh&lt;/em&gt; (eye)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;sāyah&lt;/em&gt; (shadow)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;rañg&lt;/em&gt; (color)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;pal&lt;/em&gt; (moment)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;man&lt;/em&gt; (mind)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;chāñd&lt;/em&gt; (moon)&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I will do the same for Rāshid and Ḳhālid later, but this list is just too delightful not to share.&lt;/p&gt;&lt;/div&gt;</description><category>miraji</category><category>words</category><guid>https://seanpue.com/posts/mirajis-favorite-words/</guid><pubDate>Tue, 11 Feb 2014 15:53:04 GMT</pubDate></item></channel></rss>
+&lt;p&gt;I will do the same for Rāshid and Ḳhālid later, but this list is just too delightful not to share.&lt;/p&gt;</description><category>miraji</category><category>words</category><guid>https://seanpue.com/posts/mirajis-favorite-words/</guid><pubDate>Tue, 11 Feb 2014 15:53:04 GMT</pubDate></item></channel></rss>

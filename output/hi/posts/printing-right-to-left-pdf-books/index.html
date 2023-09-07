@@ -7,8 +7,8 @@
 <link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (hi)" hreflang="hi" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (ur)" hreflang="ur" href="../../../ur/rss.xml">
 <link rel="canonical" href="https://seanpue.com/hi/posts/printing-right-to-left-pdf-books/">
 <!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="A. Sean Pue">
@@ -32,7 +32,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 <link rel="alternate" hreflang="ur" href="../../../ur/posts/printing-right-to-left-pdf-books/">
 </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">मुख्य सामग्री पर जाएँ</a>
+<a href="#content" class="sr-only sr-only-focusable">मुख्य विषयवस्तु में जाएं</a>
 
 <!-- Menubar -->
 
@@ -40,7 +40,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">टॉगल नेविगेशन</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -71,7 +71,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
                 
                     
     <li>
-    <a href="index.md" id="sourcelink">सोर्स</a>
+    <a href="index.md" id="sourcelink">स्रोत</a>
     </li>
 
                 
@@ -89,7 +89,7 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
 <article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Printing Right-To-Left PDF Books</a></h1>
 
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+            <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
                     A. Sean Pue
             </span></p>
             <p class="dateline">
@@ -97,19 +97,18 @@ I am working on a panel abstract about the poet Majeed Amjad for the Annual Conf
             <time class="published dt-published" datetime="2015-03-09T14:43:50-04:00" itemprop="datePublished" title="2015-03-09 14:43">2015-03-09 14:43</time></a>
             </p>
                 <p class="commentline">
-        
+    
 
 
             
         </p>
-<p class="sourceline"><a href="index.md" class="sourcelink">सोर्स</a></p>
+<p class="sourceline"><a href="index.md" class="sourcelink">स्रोत</a></p>
 
         </div>
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <div>
-<p>Today is the first day of Spring Break, and so I am enjoying some nice weather and not teaching.</p>
+    <p>Today is the first day of Spring Break, and so I am enjoying some nice weather and not teaching.</p>
 <p>I am working on a panel abstract about the poet Majeed Amjad for the <a href="http://southasiaconference.wisc.edu/">Annual Conference on South Asia</a> held in beautiful Madison, Wisconsin.
 I have applied to bring a certain professor from Pakistan to the event, and two amazing Urdu professors
 from University of Virginia have also signed on to the panel. I do hope it goes forward.</p>
@@ -128,24 +127,20 @@ perhaps as part of the document preparation system <a href="www.latex-project.or
 <p>There is a program in PDFjam called <code>pdfnup</code> which allows to "n-up the pages of pdf files."
 To <a href="http://en.wikipedia.org/wiki/N-up">n-up</a> apparently means to combine multiple pages into one, so it was very close to what I was looking for. I was delighted to see the package also includes a program called <code>pdfpun</code>—a right-to-left version and exactly what I needed!</p>
 <p>For all the other RTL PDF book printers out there, here is the command I used on the original file <code>dds-85303.pdf</code> to save it as <code>gulaab_ke_phuul.pdf</code>:</p>
-<pre class="code literal-block"><span></span>pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
-</pre>
-
+<div class="code"><pre class="code literal-block">pdfpun dds-85303.pdf --outfile gulaab_ke_phuul.pdf
+</pre></div>
 
 <p>That was close. However, there was a problem in that the pages were two small. I tried messing around with the
 parameters. The CRL puts a cover page on its documents that is a different size then the rest of the pages. So I tried removing that by instead printing the book's cover page twice.  <code>pdfpun</code> allows an optional page-range parameter. I opened up the original PDF and saw that it was 257 pages, so just plugged in the following to print the first page twice and then the rest of the pages:</p>
-<pre class="code literal-block"><span></span>pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
-</pre>
-
+<div class="code"><pre class="code literal-block">pdfpun dds-85303.pdf 2,2,3-257 --outfile gulaab_ke_phuul.pdf
+</pre></div>
 
 <p>The pattern is here:</p>
-<pre class="code literal-block"><span></span>pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
-</pre>
-
+<div class="code"><pre class="code literal-block">pdfpun ORIGFILE PAGERANGE --outfile OUTPUTFILE
+</pre></div>
 
 <p>It worked perfectly. Now I'm off to read the book!</p>
 <p><a href="https://www.flickr.com/photos/129471681@N03/16581802309" title="Gulaab ke phuul by Sean Pue, on Flickr"><img src="https://farm8.staticflickr.com/7610/16581802309_a177566398_n.jpg" width="240" height="320" alt="Gulaab ke phuul"></a><a href="https://www.flickr.com/photos/129471681@N03/16742082536" title="Gulaab ke phuul by Sean Pue, on Flickr"><img src="https://farm9.staticflickr.com/8706/16742082536_b0c7c7ecde_n.jpg" width="240" height="320" alt="Gulaab ke phuul"></a></p>
-</div>
     </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="../../categories/binders/" rel="tag">binders</a></li>
@@ -161,11 +156,11 @@ parameters. The CRL puts a cover page on its documents that is a different size 
                 <a href="../good-times-in-pakistan/" rel="prev" title="Good Times in Pakistan">पिछली पोस्ट</a>
             </li>
             <li class="next">
-                <a href="../devanagari-added-to-i-too-have-some-dreams-poems/" rel="next" title="Devanagari added to I Too Have Some Dreams poems">अगली पोस्ट</a>
+                <a href="../devanagari-added-to-i-too-have-some-dreams-poems/" rel="next" title="Devanagari added to I Too Have Some Dreams poems">अगला पोस्ट</a>
             </li>
         </ul></nav></aside><section class="comments hidden-print"><h2>टिप्पणियाँ</h2>
         
-        
+    
 
 
         </section></article>
@@ -173,7 +168,7 @@ parameters. The CRL puts a cover page on its documents that is a different size 
         <!--End of body content-->
 
         <footer id="footer">
-            Contents © 2019         <a href="mailto:a@seanpue.com">A. Sean Pue</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br><div data-social-share-privacy="true"></div>
+            Contents © 2023         <a href="mailto:a@seanpue.com">A. Sean Pue</a> - <a href="https://twitter.com/intent/user?screen_name=seanpue">Follow @seanpue on Twitter</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> <br><div data-social-share-privacy="true"></div>
             
         </footer>
 </div>

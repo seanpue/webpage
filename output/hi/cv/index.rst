@@ -37,7 +37,7 @@
 Contact Information
 -------------------
 | **e-mail:**
-  a@seanpue.com
+  pue@msu.edu
   **twitter:**
   @seanpue
   **github:**
@@ -48,11 +48,15 @@ Contact Information
 ---------------------
 Academic Appointments
 ---------------------
-| **2014–**
-    Associate Professor, Michigan State University
-|   Department of Linguistics and Germanic, Slavic, Asian, and African Languages
+| **2023-**
+    Professor, Michigan State University
+|   Department of Linguistics, Languages, and Culture
 |   Core Faculty, Global Studies in Arts and Humanities
-| **2008–14**
+
+| **2014–2023**
+    Associate Professor, Michigan State University
+
+**2008–14**
     Assistant Professor, Michigan State University
 
 ---------------------------
@@ -65,6 +69,8 @@ Administrative Appointments
 ---------------------
 Research Appointments
 ---------------------
+| **2017–18**
+    Visiting Scholar, South Asia Institute, University of Heidelberg
 | **2009–**
     Associate Research Scholar in Hindi and Urdu Literature and Studies, Columbia University
 |   Department of Middle Eastern, South Asian, and African Studies
@@ -90,20 +96,130 @@ Education
 |   Religious Studies, South and South East Asian Studies
 |   Highest Honors, Phi Beta Kappa
 
+-----------------------
+Grants and  Fellowships
+-----------------------
+
+**2019-2022**
+International Principal Investigator for "Digital Apprehensions of Poetics,"
+Scheme for the Promotion of Academic and Research Collaboration (SPARC) Grant,
+Ministry of Higher Education, Government of India,
+awarded to Principal Investigator Professor Nishat Zaidi, Department of English, Jamia Millia Islamia (72,000,000 INR)
+
+**2016-21**
+Andrew W. Mellon New Directions Fellowship
+("Publics of Sound:
+Data-Rich Analysis for Understanding the Politics of Poetic Innovation
+in Modern South Asia", $213,000)
+
+**2021** 
+MSU Asian Studies Center Koo Endowment Fellowship
+
+**2014**
+American Institute of Pakistan Studies, International Travel Award
+
+**2012-3**
+MSU College of Arts and Letters Faculty Learning Community Grant,
+“Digital Humanities,” with Danielle DeVoss
+
+**2012**
+MSU College of Arts and Letters Research Award,
+“South Asian Digital Literary Services”
+
+**2012**
+MSU External Connections Grant (with Frances Pritchett, Columbia University)
+
+**2012**
+MSU Center for Language Teaching Advancement Research Grant,
+“Ghazals on the Go: Teaching the Culture of Urdu Poetry”
+
+**2011**
+American Institute of Pakistan Studies
+Short Term Research and Lecturing Fellowship
+(“N. M. Rashed and Modernism in Urdu Poetry” in Lahore and Islamabad)
+
+**2010**
+MSU College of Arts and Letters “Think Tank” Curriculum Development Grant,
+“Global Publics”
+
+**2010**
+“Hindi-Urdu Blended Teaching Resources,”
+South Asian Language Resource Center Pedagogical Resources Grant ($25,000)
+
+**2009** MSU Global Studies in the Arts and the Arts and Humanities Research Grant
+
+**2009** MSU Blended Teaching Community Research Grant
+
+**2006**
+“Digital Urdu Ghazal Reader,”
+South Asian Language Resource Center Pedagogical Resources Grant ($16,800)
+
+**2005-6**
+FLAS Fellowship (Urdu), Columbia University
+
+**2004**
+“Mir in Cyberspace,”
+Center for Advanced Research in Language Acquisition Mini-Grant ($3000)
+
+**2003**
+Fulbright-Hays Doctoral Dissertation Research Abroad Fellowship (India)
+
+**2003**
+American Institute of Pakistan Studies Dissertation Research Grant (Unactivated)
+
+**1998-2005**
+Faculty Fellowship, Columbia University
+
+**2001**
+Columbia University Graduate School of Arts and Sciences Summer Fellowship (London, UK)
+
+**2000**
+FLAS Summer Fellowship (Punjabi in Chandigarh, India), Columbia University
+
+**1997-8**
+Berkeley Urdu Language Program in Pakistan Fellowship (Lahore)
+
+
 ------------
 Publications
 ------------
 
-Book
-====
-*I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry*.
-Berkeley, CA: University of California Press, 2014.
+Books
+=====
 
-Articles
-========
+Nishat Zaidi and A. Sean Pue, ed., *Digital Humanities and Literary Cultures in India*.
+Routledge, 2023. 
+
+A. Sean Pue, Nishat Zaidi, and Mohd. Aqib, *Dreaming of the Digital Divan:
+Computational Approaches to Poetry in Indian Languages.* Bloomsbury, 2022.
+
+A. Sean Pue, *I Too Have Some Dreams: N. M. Rashed and Modernism in Urdu Poetry*.
+University of California Press, 2014.
+
+
+Articles and Conference Proceedings
+===================================
+
+**2022**
+Zahra Rizvi, Rohan Chauhan, A. Sean Pue, and Nishat Zaidi, "Minimal Computing for Indian Poetics." *Digital Humanities Quarterly*, 2022.
+
+**2019**
+“Graph Transliterator: A graph-based transliteration tool.” *Journal of Open Source Software* 4(44), 1717,
+`DOI: 10.21105/joss.0171 <https://doi.org/10.21105/joss.01717>`_.
+
 **2019**
 “Acoustic Traces of Poetry in South Asia.” *South Asia Review* 40.3 (2019), 221–236,
 `DOI: 10.1080/02759527.2019.1599561 <https://doi.org/10.1080/02759527.2019.1599561>`_.
+
+**2018**
+A. Sean Pue and Scott Nelson.
+“Marking Poetic Time: Building and Annotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.”
+*Proceedings of the Second Workshop on Corpus-based Research in the Humanities (CRH-2)*, 171-180.
+
+.. Edited by Andrew U. Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti, Caroline Sporleder.
+.. volume 1, series: Gerastree Proceedings
+.. 978-3-901716-43-0.
+
 
 **2013**
 “Rethinking Modernism and Progressivism in Urdu Poetry.”
@@ -133,20 +249,13 @@ Articles
 “Web-Browser Extensions for South Asia Language Classrooms.”
 *South Asia Language Pedagogy and Technology* 1 (2008).
 
-Conference Proceedings
-======================
-
-**2018**
-A. Sean Pue and Scott Nelson.
-“Marking Poetic Time: Building and Annotating a Hindi-Urdu Poetry Corpus for Computational Humanities Research.”
-*Proceedings of the Second Workshop on Corpus-based Research in the Humanities (CRH-2)*, 171-180.
-
-.. Edited by Andrew U. Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti, Caroline Sporleder.
-.. volume 1, series: Gerastree Proceedings
-.. 978-3-901716-43-0.
-
 Book Chapters
 =============
+
+**2019**
+"Introduction to A Stranger in Iran (1957, Pakistan/US), N M Rashed."
+In *Global Modernists on Modernism: An Anthology.* Bloomsbury, 2019.
+
 **2013**
 “Faiz Ahmed Faiz and N. M. Rashed: A Comparative Analysis.”
 In *Daybreak: Writings on Faiz*,
@@ -176,6 +285,12 @@ London: Zed Books, 2006.
 
 Book Reviews
 ============
+
+**2021**
+Review of *Data Feminism*,
+by Catherine D’Ignazio and Lauren F. Klein.
+*Women's Link* 28.2 (July 2021), 80-81.
+
 **2009**
 Review of *A History of Urdu Literature*,
 by T. Graham Bailey.
@@ -203,14 +318,36 @@ Translations
 **2005** Krishan Chandar, “Irani Pilau.”
 *Annual of Urdu Studies* 20 (2005): 203-210.
 
+Software
+========
+**2019-** Graph Transliterator: A graph-based transliteration tool. MIT License.
+
+* Documentation: http://graphtransliterator.readthedocs.io
+* Repository: https://github.com/seanpue/graphtransliterator
+* PyPI: https://pypi.org/project/graphtransliterator/
+* Archive: https://doi.org/10.5281/zenodo.3558365
+
 -------------
 Presentations
 -------------
 
-Conference Papers and Posters
-=============================
+Conference Papers, Posters, and Roundtables
+===========================================
 
 .. Exact dates follow in comments.
+
+**2022**
+Zahra Rizvi, Rohan Chauhan, A. Sean Pue, Saniya Irfan, Abdul Rehman, Steven George, Vikalp Kumar, Agniv Ghosh, "Jugaad Digital Poetics:
+Decolonial Poetics, Minimal
+Computing, and South Asian
+Digital Humanities", DH Unbound 22, Association for Computers in the Humanities and Canadian Society for Digital Humanities, Online.
+
+.. 19 May 2022 
+
+**2020**
+with Zahra Rizvi and Asra Junaid, "Digital Apprehensions of Poetics," Global Digital Humanities Symposium 2020
+
+.. 26 March 2020
 
 **2019**
 “Urdu Poetry on the Internet.” Electronic Literature Organization, University College Cork, Ireland.
@@ -396,11 +533,21 @@ American Comparative Literature Association Annual Meeting, Penn State Universit
 .. CIC Digital Humanities Summit 2.0, University of Nebraska-Lincoln
 .. April 11-12, 2016
 
+
 Invited Presentations
 =====================
 
-
 .. Exact dates follow in comments.
+
+**2020**
+"From Analog to Digital: A Moderated Discussion with Prof. Sean Pue," Princeton University.
+
+.. 17 September 2020
+
+**2019**
+“Acoustic Traces of Poetry in South Asia.” Digital Humanities Forum, University of Chicago.
+
+.. 8 February 2019
 
 **2018**
 “Acoustic Traces of Poetry in South Asia.” South Asia Colloquium, University of Pennsylvania.
@@ -408,7 +555,7 @@ Invited Presentations
 .. 12 September 2018
 
 **2018**
-“Digital Humanities and Acoustic Traces of Hindi-Urdu Poetry in South Asia.” Institute of Asian and Oriental Studies, University of Tubbingen.
+“Digital Humanities and Acoustic Traces of Hindi-Urdu Poetry in South Asia.” Institute of Asian and Oriental Studies, University of Tübingen.
 
 .. 08 May 2018
 
@@ -621,7 +768,12 @@ Sarai @ Center for the Study of Developing Societies, New Delhi.
 
 
 Panels Organized
-================
+=================
+
+**2022**
+(with Zahra Rizvi), 
+"Urdu Poetic Keywords" Symposium.
+Annual Conference on South Asia, University of Wisconsin, Madison
 
 **2015**
 “Canon, Soundscape, and Subjectivity: Reevaluating Majeed Amjad, the Lost Voice of Urdu Poetic Modernism.”
@@ -647,88 +799,6 @@ Association for Asian Studies Annual Meeting, Atlanta.
 “The Modern Ghalib.”
 Association for Asian Studies Annual Meeting, Boston.
 
-------
-Grants
-------
-
-**2010**
-“Hindi-Urdu Blended Teaching Resources,”
-South Asian Language Resource Center Pedagogical Resources Grant ($25,000)
-
-**2006**
-“Digital Urdu Ghazal Reader,”
-South Asian Language Resource Center Pedagogical Resources Grant ($16,800)
-
-**2004**
-“Mir in Cyberspace,”
-Center for Advanced Research in Language Acquisition Mini-Grant ($3000)
-
-
------------
-Fellowships
------------
-
-**2016-2019**
-Andrew W. Mellon New Directions Fellowship
-("Publics of Sound:
-Data-Rich Analysis for Understanding the Politics of Poetic Innovation
-in Modern South Asia")
-
-**2011**
-American Institute of Pakistan Studies
-Short Term Research and Lecturing Fellowship
-(“N. M. Rashed and Modernism in Urdu Poetry” in Lahore and Islamabad)
-
-**2005-6**
-FLAS Fellowship (Urdu), Columbia University
-
-**2003**
-Fulbright-Hays Doctoral Dissertation Research Abroad Fellowship (India)
-
-**2003**
-American Institute of Pakistan Studies Dissertation Research Grant (Unactivated)
-
-**1998-2005**
-Faculty Fellowship, Columbia University
-
-**2001**
-Columbia University Graduate School of Arts and Sciences Summer Fellowship (London, UK)
-
-**2000**
-FLAS Summer Fellowship (Punjabi in Chandigarh, India), Columbia University
-
-**1997-8**
-Berkeley Urdu Language Program in Pakistan Fellowship (Lahore)
-
----------------
-Research Awards
----------------
-**2014**
-American Institute of Pakistan Studies, International Travel Award
-
-**2012-3**
-MSU College of Arts and Letters Faculty Learning Community Grant,
-“Digital Humanities,” with Danielle DeVoss
-
-**2012**
-MSU College of Arts and Letters Research Award,
-“South Asian Digital Literary Services”
-
-**2012**
-MSU External Connections Grant (with Frances Pritchett, Columbia University)
-
-**2012**
-MSU Center for Language Teaching Advancement Research Grant,
-“Ghazals on the Go: Teaching the Culture of Urdu Poetry”
-
-**2010**
-MSU College of Arts and Letters “Think Tank” Curriculum Development Grant,
-“Global Publics”
-
-**2009** MSU Global Studies in the Arts and the Arts and Humanities Research Grant
-
-**2009** MSU Blended Teaching Community Research Grant
-
 
 ------
 Prizes
@@ -748,11 +818,15 @@ Michigan State University
 
 AL 340: Digital Humanities Seminar (Spring 2013, Spring 2014, Spring 2015)
 
-ASN 291: Introduction to History and Culture of India and South Asia (Spring 2019,Fall 2019)
+AL 890: Graduate Digital Humanities Seminar (Spring 15)
+
+ASN 291: Introduction to History and Culture of India and South Asia (Spring 2019, Fall 2019, Spring 2021, Fall 2022, Spring 2023, Fall 2023)
 
 ASN 491: Literatures of South Asia: Language, Literature, and Belonging (Spring 2016)
 
 DH 491.1: Data and the Humanities (Spring 2019)
+
+DH 865.1: Digital Humanities Methods Seminar (Spring 2020)
 
 GSAH 200: Questions, Issues, and Debates in Global Studies (Fall 2014)
 
@@ -762,11 +836,21 @@ GSAH 230: Encountering Difference: East-West, North South (Fall 2009, Fall 2010,
 
 GSAH 311: Partition, Displacement, and Cultural Memory (Fall 2013)
 
-GSAH 312: Global Digital Cultures (Fall 2018)
+GSAH 312: Global Digital Cultures (Fall 2018, Spring 2021)
+
+GSAH 313: Violence and Power in Global Context (Spring 2020, Fall 2020, Spring 2023)
+
+GSAH 314: Race, Gender, and Global Identities (Fall 2022)
+
+GSAH 450: Global Interdisciplinary Studies (Fall 2023)
 
 GSAH 499: Senior Thesis in Global Studies in Arts and Humanities (Spring 2015)
 
-IAH 211B: Bollywood: Film, Visual Culture, and Society in India (Fall 2019)
+HST 812.1: History in the Digital Age (Fall 2020)
+
+IAH 204.740: Bollywood, Muslims, and India (Fall 2021)
+
+IAH 211B: Bollywood: Film, Visual Culture, and Society in India (Fall 2019, Fall 2020)
 
 IAH 211B: Gandhi’s India in History, Literature, and Film (Spring 2009, Spring 2010)
 
@@ -780,7 +864,14 @@ LL252.2: Intermediate Hindi II (Spring 2014)
 
 LL251.23: Basic Urdu I (Fall 2018)
 
-REL345: Religion in South Asia (Fall 2015)
+LL251.23 Intermediate Urdu (Fall 2021)
+
+LL301.23: High Intermediate Urdu (Fall 2021)
+
+LL401.23: Advanced Urdu I (Fall 2021)
+
+REL345: Religions of South Asia (Fall 2015)
+
 
 University of Chicago
 =====================
@@ -795,10 +886,21 @@ Service
 National
 ========
 
+**2022-**
+University of Maryland, Open Islamicate Text Initiative Advisory Baord
+
+**2021-**
+Association for Asian Studies,
+Bernard Cohn Book Prize Committee (chair, 2022-3)
+
+
+**2018-20** 
+American Institute of Indian Studies, Digital India Learning Committee (chair)
+
 **2013–16**
 American Institute of Pakistan Studies, Executive Committee
 
-**2009–17, 2018–**
+**2009–17, 2018–2020**
 American Institute of Pakistan Studies, Board of Trustees
 
 **2016–**
@@ -808,23 +910,26 @@ South Asian Muslim Studies Association, Board of Trustees
 Michigan State University
 =========================
 
-**2018–**
-Global Studies in Arts and Humanities Advisory Committee
+**2018–2022**
+University Committee on the Libraries, (chair in 2019-20, 2021-22)
 
-**2018–**
+**2021-22**
+Global Studies in Arts and Humanities Curriculum and Events Committee
+
+**2018–2019**
+Global Studies in Arts and Humanities Advisory Council
+
+**2018–2019**
 Asian Studies Center Advisory Board
 
-**2018–**
-Muslim Studies Currriculum Committee
-
-**2018–**
-University Committee on the Libraries
+**2018–21**
+Muslim Studies Curriculum Committee
 
 **2015–16**
 Global Studies in Arts and Humanities Events Committee
 
 **2013–5**
-College Advisory Council, College of Arts and Letters
+College Advisory Committee, College of Arts and Letters
 
 **2013–14**
 Asian Studies Center Advisory Board
@@ -847,7 +952,7 @@ Core Faculty Member, Asian Studies Center
 **2008-**
 Consulting Faculty Member, Gender in Global Context Center
 
-**2008-**
+**2008-13**
 Integrated Media/Digital Humanities Steering Committee, College of Arts and Letters
 
 **2008-**
@@ -855,6 +960,9 @@ Contractual Core Faculty Member, Global Studies in Arts and Humanities
 
 Journal Editorial Boards
 ========================
+
+**2019-**
+*Journal of Urdu Studies*
 
 **2011–**
 *Bunyaad: Journal of Urdu Studies*
@@ -865,6 +973,7 @@ Journal Editorial Boards
 ---------
 Languages
 ---------
+
 **research:** Hindi, Urdu, Persian
 
 **secondary research:** Bengali, Punjabi, Arabic
@@ -875,4 +984,5 @@ Languages
 
 .. admonition:: The current PDF version of this C.V. is available at https://seanpue.com/cv.pdf
 
-   This C.V. was last updated on 31 August 2019.
+   This C.V. was last updated on 7 September 2023.
+
